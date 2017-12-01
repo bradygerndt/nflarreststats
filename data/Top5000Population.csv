@@ -1,0 +1,5002 @@
+City,State,Pop,Size
+New York ,NY,"8,363,710",1
+Los Angeles ,CA,"3,833,995",1
+Chicago ,IL,"2,853,114",1
+Houston ,TX,"2,242,193",1
+Phoenix ,AZ,"1,567,924",1
+Philadelphia ,PA,"1,447,395",1
+San Antonio ,TX,"1,351,305",1
+Dallas ,TX,"1,279,910",1
+San Diego ,CA,"1,279,329",1
+San Jose ,CA,"948,279",1
+Detroit ,MI,"912,062",1
+San Francisco ,CA,"808,976",1
+Jacksonville ,FL,"807,815",1
+Indianapolis,IN,"798,382",1
+Austin ,TX,"757,688",1
+Columbus ,OH,"754,885",1
+Fort Worth ,TX,"703,073",1
+Charlotte ,NC,"687,456",1
+D.C.,VA,"681,170",1
+Memphis ,TN,"669,651",1
+Baltimore ,MD,"636,919",1
+El Paso ,TX,"613,190",1
+Boston ,MA,"609,023",1
+Milwaukee ,WI,"604,477",1
+Denver ,CO,"598,707",1
+Seattle ,WA,"598,541",1
+Nashville,TN,"596,462",1
+Washington ,DC,"591,833",1
+Las Vegas ,NV,"558,383",1
+Portland ,OR,"557,706",1
+Louisville,KY,"557,224",1
+Oklahoma City ,OK,"551,789",1
+Tucson ,AZ,"541,811",1
+Atlanta ,GA,"537,958",1
+Albuquerque ,NM,"521,999",1
+Fresno ,CA,"476,050",2
+Sacramento ,CA,"463,794",2
+Long Beach ,CA,"463,789",2
+Mesa ,AZ,"463,552",2
+Kansas City ,MO,"451,572",2
+Omaha ,NE,"438,646",2
+Cleveland ,OH,"433,748",2
+Virginia Beach ,VA,"433,746",2
+Miami ,FL,"413,201",2
+Oakland ,CA,"404,155",2
+Raleigh ,NC,"392,552",2
+Tulsa ,OK,"385,635",2
+Minneapolis ,MN,"382,605",2
+Colorado Springs ,CO,"380,307",2
+Honolulu,HI,"374,676",2
+Arlington ,TX,"374,417",2
+Wichita ,KS,"366,046",2
+St. Louis ,MO,"354,361",2
+Tampa ,FL,"340,882",2
+Santa Ana ,CA,"339,130",2
+Anaheim ,CA,"335,288",2
+Cincinnati ,OH,"333,336",2
+Bakersfield ,CA,"321,078",2
+Aurora ,CO,"319,057",2
+New Orleans ,LA,"311,853",2
+Pittsburgh ,PA,"310,037",2
+Riverside ,CA,"295,357",2
+Toledo ,OH,"293,201",2
+Stockton ,CA,"287,037",2
+Corpus Christi ,TX,"286,462",2
+Lexington,KY,"282,114",2
+St. Paul ,MN,"279,590",2
+Anchorage,AK,"279,243",2
+Newark ,NJ,"278,980",2
+Buffalo ,NY,"270,919",2
+Plano ,TX,"267,480",2
+Henderson ,NV,"252,064",2
+Lincoln ,NE,"251,624",2
+Fort Wayne ,IN,"251,591",2
+Glendale ,AZ,"251,522",2
+Greensboro ,NC,"250,642",3
+Chandler ,AZ,"247,140",3
+St. Petersburg ,FL,"245,314",3
+Jersey City ,NJ,"241,114",3
+Scottsdale ,AZ,"235,371",3
+Norfolk ,VA,"234,220",3
+Madison ,WI,"231,916",3
+Orlando ,FL,"230,519",3
+Birmingham ,AL,"228,798",3
+Baton Rouge ,LA,"223,689",3
+Durham ,NC,"223,284",3
+Laredo ,TX,"221,659",3
+Lubbock ,TX,"220,483",3
+Chesapeake ,VA,"220,111",3
+Chula Vista ,CA,"219,318",3
+Garland ,TX,"218,577",3
+Winston-Salem ,NC,"217,600",3
+North Las Vegas ,NV,"217,253",3
+Reno ,NV,"217,016",3
+Gilbert,AZ,"216,449",3
+Hialeah ,FL,"210,542",3
+Arlington,VA,"209,969",3
+Akron ,OH,"207,510",3
+Irvine ,CA,"207,500",3
+Rochester ,NY,"206,886",3
+Boise City ,ID,"205,314",3
+Modesto ,CA,"202,967",3
+Fremont ,CA,"202,867",3
+Montgomery ,AL,"202,696",3
+Spokane ,WA,"202,319",3
+Richmond ,VA,"202,002",3
+Yonkers ,NY,"201,588",3
+Irving ,TX,"201,358",3
+Shreveport ,LA,"199,729",3
+San Bernardino ,CA,"198,580",3
+Tacoma ,WA,"197,181",3
+Glendale ,CA,"197,176",3
+Des Moines ,IA,"197,052",3
+Augusta,GA,"194,149",3
+Grand Rapids ,MI,"193,396",3
+Huntington Beach ,CA,"192,620",3
+Mobile ,AL,"191,022",3
+Moreno Valley ,CA,"190,871",3
+Little Rock ,AR,"189,515",3
+Amarillo ,TX,"187,236",3
+Columbus ,GA,"186,984",3
+Oxnard ,CA,"185,717",3
+Fontana ,CA,"184,984",3
+Knoxville ,TN,"184,802",3
+Fort Lauderdale ,FL,"183,126",3
+Salt Lake City ,UT,"181,698",3
+Newport News ,VA,"179,614",3
+Huntsville ,AL,"176,645",3
+Tempe ,AZ,"175,523",3
+Brownsville ,TX,"175,494",3
+Worcester ,MA,"175,011",3
+Fayetteville ,NC,"174,091",3
+Jackson ,MS,"173,861",3
+Tallahassee ,FL,"171,922",3
+Aurora ,IL,"171,782",3
+Ontario ,CA,"171,691",3
+Providence ,RI,"171,557",3
+Overland Park ,KS,"171,231",3
+Rancho Cucamonga ,CA,"171,176",3
+Chattanooga ,TN,"170,880",3
+Oceanside ,CA,"169,684",3
+Santa Clarita ,CA,"169,500",3
+Garden Grove ,CA,"165,796",3
+Vancouver ,WA,"163,186",3
+Grand Prairie ,TX,"160,641",3
+Peoria ,AZ,"157,960",3
+Rockford ,IL,"157,272",3
+Cape Coral ,FL,"156,835",3
+Springfield ,MO,"156,206",3
+Santa Rosa ,CA,"155,796",3
+Sioux Falls ,SD,"154,997",3
+Port St. Lucie ,FL,"154,353",3
+Dayton ,OH,"154,200",3
+Salem ,OR,"153,435",3
+Pomona ,CA,"152,699",3
+Springfield ,MA,"150,640",3
+Eugene ,OR,"150,104",3
+Corona ,CA,"149,923",3
+Pasadena ,TX,"146,439",3
+Joliet ,IL,"146,125",3
+Pembroke Pines ,FL,"145,661",3
+Paterson ,NJ,"145,643",3
+Hampton ,VA,"145,494",3
+Lancaster ,CA,"145,469",3
+Alexandria ,VA,"143,885",3
+Salinas ,CA,"143,640",3
+Palmdale ,CA,"143,197",3
+Naperville ,IL,"143,117",3
+Pasadena ,CA,"143,080",3
+Kansas City ,KS,"142,562",3
+Hayward ,CA,"142,061",3
+Hollywood ,FL,"141,740",3
+Lakewood ,CO,"140,989",3
+Torrance ,CA,"140,820",3
+Syracuse ,NY,"138,068",3
+Escondido ,CA,"137,103",3
+Fort Collins ,CO,"136,509",3
+Bridgeport ,CT,"136,405",3
+Orange ,CA,"136,392",3
+Warren ,MI,"133,939",3
+Elk Grove ,CA,"133,003",3
+Savannah ,GA,"132,410",3
+Mesquite ,TX,"132,123",3
+Sunnyvale ,CA,"132,109",3
+Fullerton ,CA,"131,868",3
+McAllen ,TX,"129,776",3
+Cary,NC,"129,545",3
+Cedar Rapids ,IA,"128,056",3
+Sterling Heights ,MI,"127,160",3
+Columbia ,SC,"127,029",3
+Coral Springs ,FL,"125,783",3
+Carrollton ,TX,"125,595",3
+Elizabeth ,NJ,"124,755",3
+Hartford ,CT,"124,062",3
+Waco ,TX,"124,009",3
+Bellevue ,WA,"123,771",3
+New Haven ,CT,"123,669",3
+West Valley City ,UT,"123,447",3
+Topeka ,KS,"123,446",3
+Thousand Oaks ,CA,"123,091",3
+El Monte ,CA,"121,791",3
+McKinney ,TX,"121,211",3
+Concord ,CA,"121,160",3
+Visalia ,CA,"121,040",3
+Simi Valley ,CA,"120,543",3
+Olathe ,KS,"119,993",3
+Clarksville ,TN,"119,735",3
+Denton ,TX,"119,454",3
+Stamford ,CT,"119,303",3
+Provo ,UT,"118,581",3
+Springfield ,IL,"117,352",3
+Killeen ,TX,"116,934",3
+Abilene ,TX,"116,484",3
+Evansville ,IN,"116,309",3
+Gainesville ,FL,"114,916",3
+Vallejo ,CA,"114,729",3
+Ann Arbor ,MI,"114,386",3
+Peoria ,IL,"114,114",3
+Lansing ,MI,"113,968",3
+Lafayette ,LA,"113,656",3
+Thornton ,CO,"113,429",3
+Athens,GA,"113,398",3
+Flint ,MI,"112,900",3
+Inglewood ,CA,"112,714",3
+Roseville ,CA,"112,660",3
+Charleston ,SC,"111,978",3
+Beaumont ,TX,"110,553",3
+Independence ,MO,"110,440",3
+Victorville ,CA,"110,318",3
+Santa Clara ,CA,"110,200",3
+Costa Mesa ,CA,"110,080",3
+Miami Gardens ,FL,"109,346",3
+Manchester ,NH,"108,586",3
+Miramar ,FL,"108,484",3
+Downey ,CA,"107,587",3
+Arvada ,CO,"107,361",3
+Allentown ,PA,"107,250",3
+Westminster ,CO,"107,056",3
+Waterbury ,CT,"107,037",3
+Norman ,OK,"106,957",3
+Midland ,TX,"106,561",3
+Elgin ,IL,"106,330",3
+West Covina ,CA,"105,790",3
+Clearwater ,FL,"105,774",3
+Cambridge ,MA,"105,596",3
+Pueblo ,CO,"104,951",3
+West Jordan ,UT,"104,447",3
+Round Rock ,TX,"104,446",3
+Billings ,MT,"103,994",3
+Erie ,PA,"103,817",3
+South Bend ,IN,"103,807",3
+Ventura,CA,"103,706",3
+Fairfield ,CA,"103,683",3
+Lowell ,MA,"103,615",3
+Norwalk ,CA,"102,982",3
+Burbank ,CA,"102,968",3
+Richmond ,CA,"102,285",3
+Pompano Beach ,FL,"101,943",3
+High Point ,NC,"101,835",3
+Murfreesboro ,TN,"101,753",3
+Lewisville ,TX,"101,624",3
+Richardson ,TX,"101,589",3
+Daly City ,CA,"101,514",3
+Berkeley ,CA,"101,371",3
+Gresham ,OR,"101,221",3
+Wichita Falls ,TX,"101,202",3
+Green Bay ,WI,"101,025",3
+Davenport ,IA,"100,827",3
+Palm Bay ,FL,"100,786",3
+Columbia ,MO,"100,733",3
+Portsmouth ,VA,"100,577",3
+Rochester ,MN,"100,413",3
+Antioch ,CA,"100,219",3
+Wilmington ,NC,"100,192",3
+Centennial ,CO,"99,680",4
+Odessa ,TX,"98,801",4
+West Palm Beach ,FL,"98,779",4
+Rialto ,CA,"98,700",4
+Everett ,WA,"98,212",4
+Murrieta ,CA,"97,918",4
+Tyler ,TX,"97,705",4
+Temecula ,CA,"97,100",4
+Kenosha ,WI,"96,950",4
+Frisco ,TX,"96,676",4
+Sandy ,UT,"96,660",4
+South Gate ,CA,"96,640",4
+Carlsbad ,CA,"96,374",4
+Gary ,IN,"95,920",4
+Mission Viejo ,CA,"94,461",4
+North Charleston ,SC,"94,407",4
+Boulder ,CO,"94,171",4
+Compton ,CA,"93,851",4
+Hillsboro ,OR,"93,638",4
+Albany ,NY,"93,539",4
+Fargo ,ND,"93,531",4
+Lakeland ,FL,"93,333",4
+Orem ,UT,"93,250",4
+Brockton ,MA,"93,007",4
+Roanoke ,VA,"92,967",4
+Broken Arrow ,OK,"92,931",4
+Surprise ,AZ,"92,897",4
+Macon ,GA,"92,775",4
+El Cajon ,CA,"92,718",4
+Carson ,CA,"92,366",4
+Quincy ,MA,"92,339",4
+Clovis ,CA,"92,318",4
+San Mateo ,CA,"92,256",4
+Vacaville ,CA,"92,219",4
+San Angelo ,TX,"91,880",4
+Las Cruces ,NM,"91,865",4
+Beaverton ,OR,"91,757",4
+Greeley ,CO,"91,492",4
+New Bedford ,MA,"91,365",4
+Livonia ,MI,"91,220",4
+Vista ,CA,"91,144",4
+Fall River ,MA,"90,931",4
+Waukegan ,IL,"90,788",4
+Lawrence ,KS,"90,520",4
+Davie,FL,"90,238",4
+Tuscaloosa ,AL,"90,221",4
+Redding ,CA,"90,201",4
+Lawton ,OK,"90,091",4
+Yuma ,AZ,"90,041",4
+Sunrise ,FL,"89,026",4
+Westminster ,CA,"88,975",4
+Sparks ,NV,"88,602",4
+Santa Monica ,CA,"87,664",4
+Roswell ,GA,"87,657",4
+Lynn ,MA,"86,957",4
+Nashua ,NH,"86,576",4
+Dearborn ,MI,"86,477",4
+Santa Maria ,CA,"86,356",4
+Spokane Valley ,WA,"86,144",4
+Santa Barbara ,CA,"86,093",4
+Alhambra ,CA,"85,953",4
+Longmont ,CO,"85,928",4
+Hesperia ,CA,"85,883",4
+Boca Raton ,FL,"85,670",4
+Fort Smith ,AR,"84,716",4
+Miami Beach ,FL,"84,633",4
+Warwick ,RI,"84,483",4
+Indio ,CA,"84,443",4
+Citrus Heights ,CA,"84,432",4
+Deltona ,FL,"84,408",4
+Federal Way ,WA,"84,309",4
+Hawthorne ,CA,"84,305",4
+Duluth ,MN,"84,284",4
+Lee's Summit ,MO,"84,208",4
+College Station ,TX,"84,128",4
+Yakima ,WA,"84,074",4
+Kent ,WA,"83,978",4
+Chico ,CA,"83,791",4
+Plantation ,FL,"83,628",4
+Norwalk ,CT,"83,185",4
+Chino ,CA,"83,031",4
+Pearland ,TX,"82,903",4
+Trenton ,NJ,"82,883",4
+Ogden ,UT,"82,865",4
+Sioux City ,IA,"82,807",4
+Sandy Springs ,GA,"82,674",4
+Suffolk ,VA,"82,302",4
+Whittier ,CA,"82,267",4
+Racine ,WI,"82,196",4
+Newton ,MA,"82,139",4
+Avondale ,AZ,"81,299",4
+Bloomington ,MN,"81,280",4
+Allen ,TX,"81,268",4
+Sugar Land ,TX,"80,704",4
+Reading ,PA,"80,506",4
+Cicero,IL,"80,414",4
+Nampa ,ID,"80,362",4
+Troy ,MI,"80,264",4
+Livermore ,CA,"80,188",4
+Cranston ,RI,"79,980",4
+Newport Beach ,CA,"79,661",4
+Rio Rancho ,NM,"79,655",4
+Greenville ,NC,"79,629",4
+Edmond ,OK,"79,559",4
+Champaign ,IL,"79,389",4
+Camden ,NJ,"79,383",4
+Buena Park ,CA,"79,379",4
+Danbury ,CT,"79,256",4
+Tracy ,CA,"79,196",4
+San Marcos ,CA,"79,114",4
+Westland ,MI,"78,961",4
+Bellingham ,WA,"78,905",4
+Farmington Hills ,MI,"78,522",4
+Lakewood ,CA,"78,444",4
+Canton ,OH,"78,362",4
+Clifton ,NJ,"78,219",4
+Parma ,OH,"77,947",4
+San Leandro ,CA,"77,880",4
+Evanston ,IL,"77,693",4
+Baldwin Park ,CA,"77,380",4
+Melbourne ,FL,"77,351",4
+Longview ,TX,"77,211",4
+Bend ,OR,"77,181",4
+Merced ,CA,"77,160",4
+O'Fallon ,MO,"76,819",4
+Hammond ,IN,"76,732",4
+Decatur ,IL,"76,256",4
+Jacksonville ,NC,"76,233",4
+St. Joseph ,MO,"76,197",4
+Albany ,GA,"75,831",4
+Somerville ,MA,"75,662",4
+Lake Forest ,CA,"75,566",4
+Southfield ,MI,"75,392",4
+Missouri City ,TX,"74,723",4
+Deerfield Beach ,FL,"74,584",4
+Napa ,CA,"74,547",4
+Asheville ,NC,"74,543",4
+New Rochelle ,NY,"74,115",4
+Redwood City ,CA,"74,060",4
+Chino Hills ,CA,"73,879",4
+Arlington Heights,IL,"73,399",4
+Fayetteville ,AR,"73,372",4
+Medford ,OR,"73,212",4
+Bellflower ,CA,"73,033",4
+Bloomington ,IL,"73,026",4
+Youngstown ,OH,"72,925",4
+Largo ,FL,"72,732",4
+St. George ,UT,"72,718",4
+Lynchburg ,VA,"72,596",4
+Wilmington ,DE,"72,592",4
+Gastonia ,NC,"72,505",4
+Bryan ,TX,"72,357",4
+Palm Coast ,FL,"72,316",4
+Bethlehem ,PA,"72,241",4
+Scranton ,PA,"72,233",4
+Kalamazoo ,MI,"72,179",4
+Union City ,CA,"72,123",4
+Upland ,CA,"72,091",4
+Santa Fe ,NM,"71,831",4
+Bloomington ,IN,"71,819",4
+Tustin ,CA,"71,814",4
+Pawtucket ,RI,"71,765",4
+Schaumburg,IL,"71,716",4
+Edinburg ,TX,"71,520",4
+Plymouth ,MN,"71,486",4
+Mountain View ,CA,"71,348",4
+Brooklyn Park ,MN,"71,308",4
+League City ,TX,"71,222",4
+Lake Charles ,LA,"71,061",4
+Hoover ,AL,"71,020",4
+Hemet ,CA,"70,991",4
+Bolingbrook,IL,"70,823",4
+Alameda ,CA,"70,580",4
+New Britain ,CT,"70,486",4
+Wyoming ,MI,"70,462",4
+Baytown ,TX,"70,330",4
+Appleton ,WI,"70,305",4
+Lorain ,OH,"70,239",4
+Apple Valley,CA,"70,200",4
+Gulfport ,MS,"70,055",4
+Lynwood ,CA,"70,025",4
+Lawrence ,MA,"70,014",4
+Redlands ,CA,"69,689",4
+Flower Mound,TX,"69,307",4
+Rochester Hills ,MI,"69,014",4
+Fishers,IN,"69,011",4
+Mount Vernon ,NY,"68,653",4
+Turlock ,CA,"68,404",4
+Boynton Beach ,FL,"68,291",4
+Missoula ,MT,"68,202",4
+Springdale ,AR,"68,180",4
+Waukesha ,WI,"68,008",4
+Iowa City ,IA,"67,831",4
+Folsom ,CA,"67,788",4
+Marietta ,GA,"67,562",4
+Milpitas ,CA,"67,503",4
+Rock Hill ,SC,"67,339",4
+Mission ,TX,"67,119",4
+Palatine,IL,"67,080",4
+Lauderhill ,FL,"67,073",4
+St. Cloud ,MN,"66,948",4
+Kenner ,LA,"66,942",4
+Meridian ,ID,"66,916",4
+Passaic ,NJ,"66,884",4
+Redondo Beach ,CA,"66,882",4
+Pleasanton ,CA,"66,828",4
+Carmel ,IN,"66,769",4
+Waterloo ,IA,"66,662",4
+Skokie,IL,"66,620",4
+Dothan ,AL,"66,505",4
+Concord ,NC,"66,311",4
+Pontiac ,MI,"66,095",4
+Yorba Linda ,CA,"65,717",4
+Loveland ,CO,"65,587",4
+Layton ,UT,"65,514",4
+Rapid City ,SD,"65,491",4
+Mount Pleasant,SC,"65,472",4
+Eau Claire ,WI,"65,426",4
+Fort Myers ,FL,"65,394",4
+East Orange ,NJ,"65,390",4
+Pharr ,TX,"65,258",4
+North Richland Hills ,TX,"65,078",4
+Manteca ,CA,"65,028",4
+Muncie ,IN,"64,975",4
+Harlingen ,TX,"64,843",4
+Laguna Niguel ,CA,"64,469",4
+St. Charles ,MO,"64,386",4
+Daytona Beach ,FL,"64,211",4
+Pittsburg ,CA,"64,148",4
+Delray Beach ,FL,"64,092",4
+Lafayette ,IN,"64,049",4
+Eagan ,MN,"63,985",4
+Jonesboro ,AR,"63,960",4
+Oshkosh ,WI,"63,679",4
+Weston ,FL,"63,628",4
+Walnut Creek ,CA,"63,486",4
+Camarillo ,CA,"63,324",4
+Kennewick ,WA,"63,216",4
+Jackson ,TN,"63,158",4
+Pico Rivera ,CA,"63,138",4
+Davis ,CA,"62,593",4
+Portland ,ME,"62,561",4
+Victoria ,TX,"62,558",4
+Janesville ,WI,"62,516",4
+South San Francisco ,CA,"62,502",4
+Hamilton ,OH,"62,477",4
+Bossier City ,LA,"62,384",4
+Cedar Park ,TX,"62,308",4
+Kissimmee ,FL,"62,291",4
+Springfield ,OH,"62,269",4
+Renton ,WA,"62,266",4
+Rancho Cordova ,CA,"62,265",4
+Union City ,NJ,"62,183",4
+Johnson City ,TN,"61,990",4
+Montebello ,CA,"61,906",4
+Coon Rapids ,MN,"61,832",4
+Maple Grove ,MN,"61,542",4
+San Clemente ,CA,"61,465",4
+Warner Robins ,GA,"61,336",4
+Lodi ,CA,"61,301",4
+Haverhill ,MA,"61,275",4
+Monterey Park ,CA,"61,234",4
+Yuba City ,CA,"61,226",4
+Eden Prairie ,MN,"61,191",4
+Schenectady ,NY,"61,152",4
+Shawnee ,KS,"60,954",4
+Bristol ,CT,"60,927",4
+Huntington Park ,CA,"60,898",4
+Rockville ,MD,"60,734",4
+Taylor ,MI,"60,619",4
+Bismarck ,ND,"60,389",4
+Encinitas ,CA,"60,372",4
+St. Clair Shores ,MI,"60,364",4
+Waltham ,MA,"60,236",4
+Flagstaff ,AZ,"60,222",4
+Revere ,MA,"60,204",4
+Terre Haute ,IN,"60,007",4
+Greenville ,SC,"59,988",4
+Temple ,TX,"59,654",4
+Council Bluffs ,IA,"59,536",4
+Goodyear ,AZ,"59,508",4
+Johns Creek ,GA,"59,431",4
+North Little Rock ,AR,"59,430",4
+West Allis ,WI,"59,416",4
+Palo Alto ,CA,"59,395",4
+Tamarac ,FL,"59,340",4
+Great Falls ,MT,"59,251",4
+Frederick ,MD,"59,213",4
+Tinley Park,IL,"59,198",4
+Meriden ,CT,"59,186",4
+La Habra ,CA,"59,155",4
+Burnsville ,MN,"59,139",4
+Taylorsville ,UT,"58,785",4
+Vineland ,NJ,"58,780",4
+Gaithersburg ,MD,"58,744",4
+National City ,CA,"58,680",4
+Gardena ,CA,"58,554",4
+Franklin ,TN,"58,481",4
+Utica ,NY,"58,082",4
+Homestead ,FL,"57,936",4
+Conway ,AR,"57,544",4
+Bayonne ,NJ,"57,448",4
+White Plains ,NY,"57,342",4
+Anderson ,IN,"57,282",4
+Dubuque ,IA,"57,250",4
+Diamond Bar ,CA,"57,235",4
+Springfield ,OR,"57,224",4
+Royal Oak ,MI,"57,110",4
+Galveston ,TX,"57,086",4
+Des Plaines ,IL,"57,062",4
+Rocky Mount ,NC,"57,010",4
+Lakewood ,WA,"56,983",4
+Cheyenne ,WY,"56,915",4
+Rogers ,AR,"56,726",4
+Madera ,CA,"56,700",4
+Tulare ,CA,"56,654",4
+Lake Havasu City ,AZ,"56,553",4
+Ames ,IA,"56,510",4
+Midwest City ,OK,"56,394",4
+Arcadia ,CA,"56,248",4
+Woodbury ,MN,"56,128",4
+Santa Cruz ,CA,"56,124",4
+Auburn ,AL,"56,088",4
+Decatur ,AL,"56,068",4
+Port Arthur ,TX,"55,910",4
+North Miami ,FL,"55,908",4
+Rowlett ,TX,"55,780",4
+Taunton ,MA,"55,702",4
+Blue Springs ,MO,"55,698",4
+Perris ,CA,"55,643",4
+Saginaw ,MI,"55,620",4
+San Rafael ,CA,"55,602",4
+Malden ,MA,"55,597",4
+Medford ,MA,"55,573",4
+Fountain Valley ,CA,"55,516",4
+Owensboro ,KY,"55,516",4
+Orland Park,IL,"55,514",4
+St. Peters ,MO,"55,500",4
+Conroe ,TX,"55,429",4
+Auburn ,WA,"55,426",4
+West Des Moines ,IA,"55,426",4
+Pasco ,WA,"55,246",4
+Paramount ,CA,"55,236",4
+Bowling Green ,KY,"55,097",4
+Blaine ,MN,"55,042",4
+Elyria ,OH,"54,979",4
+Chicopee ,MA,"54,941",4
+North Port ,FL,"54,907",4
+Pocatello ,ID,"54,901",4
+Carson City,NV,"54,867",4
+Broomfield ,CO,"54,858",4
+Ocala ,FL,"54,801",4
+La Mesa ,CA,"54,673",4
+Petaluma ,CA,"54,666",4
+Lancaster ,PA,"54,626",4
+Port Orange ,FL,"54,616",4
+Woodland ,CA,"54,567",4
+Lakeville ,MN,"54,542",4
+Wellington,FL,"54,530",4
+Wheaton ,IL,"54,465",4
+Rosemead ,CA,"54,412",4
+Idaho Falls ,ID,"54,334",4
+Milford ,CT,"54,136",4
+Margate ,FL,"54,086",4
+Novi ,MI,"54,054",4
+Casper ,WY,"54,047",4
+Hempstead,NY,"53,915",4
+Santee ,CA,"53,860",4
+Pensacola ,FL,"53,820",4
+Kettering ,OH,"53,708",4
+Hoffman Estates,IL,"53,641",4
+Cupertino ,CA,"53,637",4
+New Braunfels ,TX,"53,547",4
+Bradenton ,FL,"53,513",4
+Mount Prospect,IL,"53,338",4
+Oak Lawn,IL,"53,244",4
+Delano ,CA,"53,051",4
+San Marcos ,TX,"52,927",4
+Rocklin ,CA,"52,811",4
+Novato ,CA,"52,785",4
+Elkhart ,IN,"52,653",4
+Moore ,OK,"52,615",4
+Euless ,TX,"52,579",4
+Bowie ,MD,"52,544",4
+Chapel Hill,NC,"52,542",4
+West Haven ,CT,"52,420",4
+Sarasota ,FL,"52,340",4
+Manhattan ,KS,"52,284",4
+Cathedral City ,CA,"52,095",4
+Normal,IL,"52,056",4
+Battle Creek ,MI,"52,053",4
+Shoreline ,WA,"52,005",4
+Hattiesburg ,MS,"51,993",4
+Dearborn Heights ,MI,"51,972",4
+Porterville ,CA,"51,830",4
+Mentor ,OH,"51,825",4
+Middletown ,OH,"51,422",4
+Niagara Falls ,NY,"51,345",4
+Peabody ,MA,"51,331",4
+Cerritos ,CA,"51,326",4
+Grand Forks ,ND,"51,313",4
+Monroe ,LA,"51,215",4
+New Brunswick ,NJ,"51,149",4
+South Jordan ,UT,"51,131",4
+Corvallis ,OR,"51,110",4
+Highland ,CA,"51,096",4
+Cuyahoga Falls ,OH,"51,090",4
+Lake Elsinore ,CA,"50,952",4
+La Crosse ,WI,"50,902",4
+Palm Desert ,CA,"50,876",4
+Burlington ,NC,"50,857",4
+Lakewood ,OH,"50,704",4
+Sanford ,FL,"50,634",4
+Florissant ,MO,"50,561",4
+Colton ,CA,"50,517",4
+Grapevine ,TX,"50,471",4
+Watsonville ,CA,"50,442",4
+Coconut Creek ,FL,"50,436",4
+Pine Bluff ,AR,"50,408",4
+Charleston ,WV,"50,302",4
+Hanford ,CA,"50,103",4
+Minnetonka ,MN,"50,081",4
+Mishawaka ,IN,"50,026",4
+Apple Valley ,MN,"50,004",4
+Gilroy ,CA,"49,934",4
+Berwyn ,IL,"49,919",4
+Alpharetta ,GA,"49,903",4
+Smyrna ,GA,"49,854",4
+La Mirada ,CA,"49,809",4
+Joplin ,MO,"49,775",4
+Yucaipa ,CA,"49,750",4
+Bellevue ,NE,"49,699",4
+Placentia ,CA,"49,692",4
+Grand Junction ,CO,"49,688",4
+Georgetown ,TX,"49,618",4
+Rancho Santa Margarita ,CA,"49,591",4
+Mansfield ,OH,"49,579",4
+Oak Park,IL,"49,557",4
+Redmond ,WA,"49,548",4
+Brentwood ,CA,"49,480",4
+Glendora ,CA,"49,410",4
+Downers Grove,IL,"49,250",4
+Palm Beach Gardens ,FL,"49,227",4
+Huntington ,WV,"49,185",4
+San Ramon ,CA,"49,161",4
+Bedford ,TX,"49,155",4
+Jupiter,FL,"48,879",4
+Poway ,CA,"48,858",4
+Perth Amboy ,NJ,"48,742",4
+Tigard ,OR,"48,713",4
+Logan ,UT,"48,657",4
+Alexandria ,LA,"48,639",4
+Valdosta ,GA,"48,547",4
+East Providence ,RI,"48,480",4
+Wilson ,NC,"48,433",4
+Albany ,OR,"48,081",4
+Middletown ,CT,"48,030",4
+Palm Springs ,CA,"47,952",4
+Sheboygan ,WI,"47,895",4
+Hendersonville ,TN,"47,725",4
+Greenwood ,IN,"47,720",4
+Stillwater ,OK,"47,653",4
+DeSoto ,TX,"47,568",4
+West Sacramento ,CA,"47,511",4
+Bartlett ,TN,"47,501",4
+Troy ,NY,"47,459",4
+Kentwood ,MI,"47,419",4
+Euclid ,OH,"47,415",4
+Enid ,OK,"47,396",4
+Kirkland ,WA,"47,303",4
+Buckeye,AZ,"47,261",4
+Newark ,OH,"47,236",4
+Pinellas Park ,FL,"47,173",4
+Harrisburg ,PA,"47,148",4
+Cypress ,CA,"47,123",4
+Covina ,CA,"46,944",4
+Azusa ,CA,"46,847",4
+Lenexa ,KS,"46,822",4
+Lehi ,UT,"46,802",4
+Roseville ,MI,"46,782",4
+Salina ,KS,"46,483",4
+West New York,NJ,"46,472",4
+Murray ,UT,"46,201",4
+Roswell ,NM,"46,198",4
+Barnstable Town ,MA,"46,184",4
+Glenview,IL,"46,180",4
+Richland ,WA,"46,155",4
+Altoona ,PA,"46,144",4
+Mansfield ,TX,"46,142",4
+Portage ,MI,"46,133",4
+Plainfield ,NJ,"46,126",4
+Chesterfield ,MO,"46,064",4
+Elmhurst ,IL,"46,013",4
+East Lansing ,MI,"45,857",4
+Cleveland Heights ,OH,"45,827",4
+Grand Island ,NE,"45,801",4
+Kokomo ,IN,"45,694",4
+Biloxi ,MS,"45,670",4
+Edina ,MN,"45,608",4
+Maricopa ,AZ,"45,571",4
+DeKalb ,IL,"45,497",4
+St. Louis Park ,MN,"45,465",4
+Olympia ,WA,"45,322",4
+Summerville,SC,"45,193",4
+Wauwatosa ,WI,"45,004",4
+Cedar Hill ,TX,"44,786",4
+Titusville ,FL,"44,756",4
+Binghamton ,NY,"44,729",4
+Bell Gardens ,CA,"44,692",4
+Danville ,VA,"44,660",4
+Texas City ,TX,"44,491",4
+Bountiful ,UT,"44,473",4
+Kingsport ,TN,"44,473",4
+Castle Rock,CO,"44,369",4
+Dublin ,CA,"44,297",4
+Southaven ,MS,"44,076",4
+Methuen ,MA,"44,055",4
+Huntersville,NC,"44,054",4
+Harrisonburg ,VA,"44,015",4
+Freeport,NY,"43,881",4
+La Quinta ,CA,"43,865",4
+Warren ,OH,"43,789",4
+Parker,CO,"43,767",4
+San Luis Obispo ,CA,"43,636",4
+Lincoln ,CA,"43,602",4
+Oro Valley,AZ,"43,465",4
+East Point ,GA,"43,418",4
+Coeur d'Alene ,ID,"43,360",4
+Sierra Vista ,AZ,"43,320",4
+Woonsocket ,RI,"43,268",4
+Lawrence ,IN,"43,247",4
+Covington ,KY,"43,235",4
+Moline ,IL,"43,088",4
+Buffalo Grove,IL,"42,972",4
+Lombard,IL,"42,890",4
+Attleboro ,MA,"42,833",4
+Hackensack ,NJ,"42,804",4
+Coral Gables ,FL,"42,781",4
+Bonita Springs ,FL,"42,730",4
+Prescott ,AZ,"42,697",4
+Ceres ,CA,"42,690",4
+Pittsfield ,MA,"42,652",4
+Farmington ,NM,"42,637",4
+Strongsville ,OH,"42,617",4
+Kannapolis ,NC,"42,521",4
+Commerce City ,CO,"42,473",4
+Fairfield ,OH,"42,384",4
+Caldwell ,ID,"42,331",4
+Draper ,UT,"42,317",4
+Oakland Park ,FL,"42,293",4
+Ankeny ,IA,"42,287",4
+The Colony ,TX,"42,281",4
+Concord ,NH,"42,255",4
+Bartlett,IL,"42,209",4
+Sayreville,NJ,"42,208",4
+Twin Falls ,ID,"42,197",4
+Noblesville ,IN,"42,155",4
+Fond du Lac ,WI,"42,025",4
+Crystal Lake ,IL,"41,797",4
+Blacksburg,VA,"41,796",4
+Newark ,CA,"41,781",4
+North Lauderdale ,FL,"41,772",4
+Chelsea ,MA,"41,577",4
+Aliso Viejo ,CA,"41,572",4
+Charlottesville ,VA,"41,487",4
+Hickory ,NC,"41,305",4
+Salem ,MA,"41,256",4
+Danville,CA,"41,182",4
+Casa Grande ,AZ,"41,152",4
+Rancho Palos Verdes ,CA,"41,106",4
+Lompoc ,CA,"41,099",4
+Belleville ,IL,"41,097",4
+Leominster ,MA,"41,055",4
+Wilkes-Barre ,PA,"40,932",4
+Midland ,MI,"40,917",4
+Hutchinson ,KS,"40,889",4
+Fort Pierce ,FL,"40,885",4
+Bullhead City ,AZ,"40,868",4
+Littleton ,CO,"40,777",4
+Jefferson City ,MO,"40,771",4
+Lacey ,WA,"40,702",4
+La Puente ,CA,"40,642",4
+Westfield ,MA,"40,608",4
+Hoboken ,NJ,"40,577",4
+Rohnert Park ,CA,"40,496",4
+San Gabriel ,CA,"40,445",4
+San Bruno ,CA,"40,315",4
+Fitchburg ,MA,"40,239",4
+Haltom City ,TX,"40,181",4
+Sammamish ,WA,"40,179",4
+Edmonds ,WA,"40,158",4
+Muskogee ,OK,"40,099",4
+York ,PA,"40,097",4
+El Centro ,CA,"40,083",4
+Carol Stream,IL,"40,004",4
+Columbus ,IN,"40,001",4
+Shelton ,CT,"39,991",4
+Quincy ,IL,"39,983",4
+Altamonte Springs ,FL,"39,947",4
+Holyoke ,MA,"39,947",4
+Beavercreek ,OH,"39,909",4
+Cleveland ,TN,"39,753",4
+Riverton ,UT,"39,751",4
+Hagerstown ,MD,"39,728",4
+Pflugerville ,TX,"39,653",4
+Urbana ,IL,"39,641",4
+Leesburg,VA,"39,641",4
+Spartanburg ,SC,"39,584",4
+Hot Springs ,AR,"39,467",4
+Bozeman ,MT,"39,442",4
+State College,PA,"39,419",4
+Atlantic City ,NJ,"39,408",4
+Muskegon ,MI,"39,401",4
+Coachella ,CA,"39,391",4
+Beverly ,MA,"39,343",4
+Collierville,TN,"39,211",4
+Linden ,NJ,"39,162",4
+Coppell ,TX,"39,154",4
+Brookfield ,WI,"39,020",4
+Keller ,TX,"38,951",4
+Burlington ,VT,"38,897",4
+Madison ,AL,"38,714",4
+Hallandale Beach ,FL,"38,683",4
+New Berlin ,WI,"38,649",4
+Sumter ,SC,"38,625",4
+Campbell ,CA,"38,617",4
+Culver City ,CA,"38,580",4
+Hurst ,TX,"38,550",4
+Dublin ,OH,"38,536",4
+Prescott Valley,AZ,"38,535",4
+Huntsville ,TX,"38,480",4
+Urbandale ,IA,"38,369",4
+Calexico ,CA,"38,344",4
+Temple City ,CA,"38,341",4
+Brea ,CA,"38,314",4
+Meridian ,MS,"38,232",4
+Rock Island ,IL,"38,139",4
+Morgan Hill ,CA,"38,096",4
+Sherman ,TX,"38,077",4
+Cedar Falls ,IA,"38,059",4
+Romeoville,IL,"38,028",4
+North Miami Beach ,FL,"37,997",4
+Ormond Beach ,FL,"37,984",4
+Apopka ,FL,"37,935",4
+Marlborough ,MA,"37,932",4
+Goose Creek ,SC,"37,900",4
+Florence ,AL,"37,877",4
+Smyrna,TN,"37,867",4
+Wylie ,TX,"37,861",4
+San Jacinto ,CA,"37,842",4
+Lima ,OH,"37,829",4
+Carpentersville,IL,"37,741",4
+Pacifica ,CA,"37,739",4
+Monrovia ,CA,"37,651",4
+Goldsboro ,NC,"37,597",4
+Stanton ,CA,"37,589",4
+Wausau ,WI,"37,576",4
+Cape Girardeau ,MO,"37,370",4
+Everett ,MA,"37,353",4
+New Albany ,IN,"37,296",4
+Germantown ,TN,"37,251",4
+Huber Heights ,OH,"37,148",4
+Streamwood,IL,"37,119",4
+Findlay ,OH,"36,987",4
+Portage ,IN,"36,976",4
+Lancaster ,OH,"36,976",4
+Park Ridge ,IL,"36,927",4
+Lake Oswego ,OR,"36,926",4
+Addison,IL,"36,917",4
+Woburn ,MA,"36,871",4
+Gadsden ,AL,"36,816",4
+Calumet City ,IL,"36,800",4
+Hanover Park,IL,"36,777",4
+Kearny,NJ,"36,746",4
+Richmond ,IN,"36,733",4
+Del Rio ,TX,"36,682",4
+Bell ,CA,"36,657",4
+Panama City ,FL,"36,644",4
+Texarkana ,TX,"36,611",4
+Manhattan Beach ,CA,"36,605",4
+Chester ,PA,"36,564",4
+Longview ,WA,"36,562",4
+Montclair ,CA,"36,530",4
+Annapolis ,MD,"36,524",4
+Plainfield,IL,"36,507",4
+Riviera Beach ,FL,"36,430",4
+Norwich ,CT,"36,388",4
+Moorpark ,CA,"36,372",4
+Puyallup ,WA,"36,330",4
+University City ,MO,"36,289",4
+Fort Lee,NJ,"36,275",4
+Mankato ,MN,"36,245",4
+Tupelo ,MS,"36,233",4
+Westerville ,OH,"36,231",4
+Brentwood ,TN,"36,176",4
+Beloit ,WI,"36,160",4
+Duncanville ,TX,"36,109",4
+Dover ,DE,"36,107",4
+Maplewood ,MN,"36,087",4
+Greenfield ,WI,"36,075",4
+Wheeling,IL,"36,063",4
+Rome ,GA,"36,041",4
+Moorhead ,MN,"36,012",4
+Valley Stream,NY,"36,007",4
+Bremerton ,WA,"36,006",4
+West Hollywood ,CA,"36,005",4
+Dunedin ,FL,"35,988",4
+Bartlesville ,OK,"35,914",4
+Keizer ,OR,"35,864",4
+Marion ,OH,"35,841",4
+Greenville ,MS,"35,764",4
+Lancaster ,TX,"35,761",4
+Alamogordo ,NM,"35,757",4
+Dana Point ,CA,"35,700",4
+Long Beach ,NY,"35,698",4
+Roy ,UT,"35,672",4
+Gainesville ,GA,"35,668",4
+Bentonville ,AR,"35,526",4
+Lake Worth ,FL,"35,513",4
+Franklin ,WI,"35,500",4
+Claremont ,CA,"35,470",4
+Minot ,ND,"35,419",4
+Cottonwood Heights ,UT,"35,418",4
+Lincoln Park ,MI,"35,317",4
+Torrington ,CT,"35,312",4
+Rockwall ,TX,"35,247",4
+Manassas ,VA,"35,205",4
+Martinez ,CA,"35,145",4
+Fairbanks ,AK,"35,132",4
+Lewiston ,ME,"35,131",4
+San Dimas ,CA,"35,043",4
+Los Banos ,CA,"34,968",4
+Burleson ,TX,"34,908",4
+Hollister ,CA,"34,877",4
+San Juan Capistrano ,CA,"34,793",4
+Peachtree City ,GA,"34,788",4
+Leavenworth ,KS,"34,729",4
+Brunswick ,OH,"34,711",4
+Menomonee Falls,WI,"34,607",4
+Lufkin ,TX,"34,530",4
+Marysville ,WA,"34,482",4
+Marana,AZ,"34,466",4
+Beverly Hills ,CA,"34,445",4
+Columbia ,TN,"34,402",4
+La Porte ,TX,"34,274",4
+Wildwood ,MO,"34,195",4
+Woodridge,IL,"34,130",4
+Holland ,MI,"34,076",4
+Friendswood ,TX,"33,979",4
+San Juan ,TX,"33,970",4
+Northbrook,IL,"33,936",4
+Hilton Head Island,SC,"33,913",4
+Stow ,OH,"33,899",4
+Gahanna ,OH,"33,892",4
+Bay City ,MI,"33,874",4
+Grove City ,OH,"33,829",4
+Pleasant Grove ,UT,"33,798",4
+Seaside ,CA,"33,797",4
+Delaware ,OH,"33,719",4
+Mundelein,IL,"33,717",4
+Northglenn ,CO,"33,697",4
+Rome ,NY,"33,673",4
+Reynoldsburg ,OH,"33,657",4
+Dalton ,GA,"33,648",4
+La Verne ,CA,"33,623",4
+Cottage Grove ,MN,"33,623",4
+Rosenberg ,TX,"33,595",4
+East Palo Alto ,CA,"33,575",4
+Lynnwood ,WA,"33,572",4
+Jackson ,MI,"33,518",4
+Oak Creek ,WI,"33,482",4
+Twentynine Palms ,CA,"33,480",4
+Shakopee ,MN,"33,455",4
+Pekin ,IL,"33,430",4
+Inver Grove Heights ,MN,"33,383",4
+Weslaco ,TX,"33,354",4
+Winter Haven ,FL,"33,353",4
+Elk Grove Village,IL,"33,320",4
+Grants Pass ,OR,"33,217",4
+Manitowoc ,WI,"33,169",4
+Apex,NC,"33,075",4
+Merrillville,IN,"33,057",4
+New Iberia ,LA,"32,959",4
+Petersburg ,VA,"32,916",4
+Richmond ,KY,"32,895",4
+Pleasant Hill ,CA,"32,862",4
+St. Charles ,IL,"32,829",4
+Marion ,IA,"32,821",4
+Roseville ,MN,"32,815",4
+Apache Junction ,AZ,"32,776",4
+Plant City ,FL,"32,761",4
+Richfield ,MN,"32,728",4
+Englewood ,CO,"32,669",4
+Winter Springs ,FL,"32,667",4
+Beaumont ,CA,"32,663",4
+Goshen ,IN,"32,630",4
+Long Branch ,NJ,"32,622",4
+Massillon ,OH,"32,613",4
+North Chicago ,IL,"32,608",4
+Oviedo ,FL,"32,606",4
+Bettendorf ,IA,"32,584",4
+Monroe ,NC,"32,543",4
+Houma ,LA,"32,512",4
+Eastpointe ,MI,"32,497",4
+Prattville ,AL,"32,480",4
+Michigan City ,IN,"32,405",4
+Fairborn ,OH,"32,366",4
+Watertown ,MA,"32,365",4
+Clovis ,NM,"32,352",4
+Bothell ,WA,"32,307",4
+Ocoee ,FL,"32,290",4
+Danville ,IL,"32,248",4
+Nacogdoches ,TX,"32,205",4
+Greenacres ,FL,"32,174",4
+Franklin ,MA,"32,148",4
+Butte-Silver Bow,MT,"32,119",4
+Hopkinsville ,KY,"32,076",4
+Oakley ,CA,"32,035",4
+Socorro ,TX,"32,007",4
+Naugatuck,CT,"31,931",4
+Upper Arlington ,OH,"31,878",4
+Glendale Heights,IL,"31,847",4
+Norristown,PA,"31,843",4
+Laguna Hills ,CA,"31,838",4
+Olive Branch ,MS,"31,830",4
+Lewiston ,ID,"31,764",4
+Bangor ,ME,"31,756",4
+Kennesaw ,GA,"31,628",4
+Parkersburg ,WV,"31,611",4
+Florence ,SC,"31,570",4
+Bethel Park,PA,"31,562",4
+Spanish Fork ,UT,"31,538",4
+Mount Vernon ,WA,"31,513",4
+Oswego,IL,"31,504",4
+Highland Park ,IL,"31,449",4
+Oregon City ,OR,"31,404",4
+Brighton ,CO,"31,380",4
+Jacksonville ,AR,"31,351",4
+Lawndale ,CA,"31,346",4
+Leawood ,KS,"31,342",4
+North Olmsted ,OH,"31,319",4
+Burien ,WA,"31,316",4
+North Tonawanda ,NY,"31,222",4
+McMinnville ,OR,"31,185",4
+Galesburg ,IL,"31,181",4
+Phenix City ,AL,"31,125",4
+Douglasville ,GA,"31,035",4
+Lauderdale Lakes ,FL,"31,004",4
+Juneau,AK,"30,988",4
+Wheat Ridge ,CO,"30,894",4
+Vestavia Hills ,AL,"30,892",4
+Deer Park ,TX,"30,890",4
+Port Huron ,MI,"30,869",4
+West Lafayette ,IN,"30,847",4
+Walnut ,CA,"30,744",4
+San Pablo ,CA,"30,729",4
+Copperas Cove ,TX,"30,710",4
+Granite City ,IL,"30,703",4
+Schertz ,TX,"30,669",4
+Rochester ,NH,"30,654",4
+Walla Walla ,WA,"30,643",4
+Gurnee,IL,"30,608",4
+Myrtle Beach ,SC,"30,596",4
+Chicago Heights ,IL,"30,586",4
+Liberty ,MO,"30,568",4
+Shawnee ,OK,"30,562",4
+Oak Park ,MI,"30,547",4
+Westlake ,OH,"30,546",4
+Fair Lawn,NJ,"30,521",4
+Jeffersonville ,IN,"30,479",4
+Hobbs ,NM,"30,476",4
+Newnan ,GA,"30,474",4
+Saratoga ,CA,"30,445",4
+Andover ,MN,"30,442",4
+Valparaiso ,IN,"30,429",4
+Kearney ,NE,"30,417",4
+Algonquin,IL,"30,352",4
+University Place ,WA,"30,345",4
+Royal Palm Beach,FL,"30,312",4
+Gloucester ,MA,"30,243",4
+Marion ,IN,"30,212",4
+Hinesville ,GA,"30,152",4
+Tooele ,UT,"30,120",4
+Menlo Park ,CA,"30,087",4
+Texarkana ,AR,"30,087",4
+La Vergne ,TN,"30,034",4
+Ballwin ,MO,"30,033",4
+East Chicago ,IN,"29,978",4
+Wenatchee ,WA,"29,898",4
+West Bend ,WI,"29,894",4
+Cleburne ,TX,"29,889",4
+Newark ,DE,"29,886",4
+Burton ,MI,"29,845",4
+Ithaca ,NY,"29,763",4
+Lake in the Hills,IL,"29,698",4
+Mason ,OH,"29,682",4
+Poughkeepsie ,NY,"29,654",4
+Morgantown ,WV,"29,642",4
+Bowling Green ,OH,"29,542",4
+Madison Heights ,MI,"29,531",4
+Jamestown ,NY,"29,463",4
+Williamsport ,PA,"29,456",4
+Benton ,AR,"29,452",4
+Westfield,NJ,"29,450",4
+Aiken ,SC,"29,434",4
+Cooper City ,FL,"29,422",4
+Goleta ,CA,"29,404",4
+Alton ,IL,"29,393",4
+Winter Garden ,FL,"29,385",4
+Alabaster ,AL,"29,352",4
+Helena ,MT,"29,351",4
+Gallatin ,TN,"29,343",4
+North Royalton ,OH,"29,331",4
+Los Gatos,CA,"29,320",4
+Sanford ,NC,"29,284",4
+Elmira ,NY,"29,271",4
+Lawrenceville ,GA,"29,258",4
+Aventura ,FL,"29,254",4
+Cookeville ,TN,"29,234",4
+Englewood ,NJ,"29,112",4
+Foster City ,CA,"29,089",4
+Cutler Bay,FL,"29,070",4
+Salisbury ,NC,"28,972",4
+Garfield ,NJ,"28,971",4
+Millville ,NJ,"28,930",4
+Banning ,CA,"28,917",4
+Wheeling ,WV,"28,913",4
+Schererville,IN,"28,886",4
+Saratoga Springs ,NY,"28,844",4
+East St. Louis ,IL,"28,773",4
+Des Moines ,WA,"28,755",4
+St. Cloud ,FL,"28,745",4
+Paso Robles,CA,"28,715",4
+Waxahachie ,TX,"28,668",4
+Cedar City ,UT,"28,667",4
+Niles,IL,"28,666",4
+Rahway ,NJ,"28,624",4
+Lindenhurst,NY,"28,620",4
+Santa Paula ,CA,"28,618",4
+Dover ,NH,"28,609",4
+New Bern ,NC,"28,586",4
+Garden City ,KS,"28,557",4
+Adelanto ,CA,"28,553",4
+Bessemer ,AL,"28,542",4
+Springville ,UT,"28,520",4
+Atascadero ,CA,"28,452",4
+LaGrange ,GA,"28,401",4
+Northampton ,MA,"28,379",4
+Los Altos ,CA,"28,349",4
+Sun Prairie ,WI,"28,322",4
+Gladstone ,MO,"28,243",4
+Maywood ,CA,"28,224",4
+Salisbury ,MD,"28,200",4
+Raytown ,MO,"28,194",4
+Port Chester,NY,"28,171",4
+North Ridgeville ,OH,"28,153",4
+Midvale ,UT,"28,129",4
+Soledad ,CA,"28,124",4
+Newburgh ,NY,"28,101",4
+Dania Beach ,FL,"28,093",4
+Agawam ,MA,"28,091",4
+Harvey ,IL,"28,056",4
+Rexburg ,ID,"28,028",4
+Kent ,OH,"27,983",4
+Henderson ,KY,"27,933",4
+Winter Park ,FL,"27,909",4
+Hilliard ,OH,"27,901",4
+Hobart ,IN,"27,891",4
+Round Lake Beach,IL,"27,855",4
+Clearfield ,UT,"27,851",4
+Plainfield,IN,"27,832",4
+Kingman ,AZ,"27,817",4
+Monterey ,CA,"27,763",4
+Florence ,KY,"27,745",4
+Oak Forest ,IL,"27,740",4
+Southgate ,MI,"27,739",4
+Garfield Heights ,OH,"27,734",4
+Burlingame ,CA,"27,706",4
+Savage ,MN,"27,692",4
+Oak Ridge ,TN,"27,677",4
+Laramie ,WY,"27,664",4
+Prichard ,AL,"27,662",4
+Monroeville,PA,"27,639",4
+Morristown ,TN,"27,636",4
+Russellville ,AR,"27,602",4
+Burbank ,IL,"27,567",4
+O'Fallon ,IL,"27,540",4
+Batavia ,IL,"27,502",4
+Owasso ,OK,"27,467",4
+West Springfield ,MA,"27,459",4
+Lake Jackson ,TX,"27,417",4
+Brooklyn Center ,MN,"27,402",4
+Xenia ,OH,"27,357",4
+Mason City ,IA,"27,337",4
+Frankfort ,KY,"27,322",4
+Watertown ,NY,"27,310",4
+De Land ,FL,"27,243",4
+San Carlos ,CA,"27,238",4
+Slidell ,LA,"27,183",4
+Statesboro ,GA,"27,158",4
+Maryville ,TN,"27,156",4
+Glen Ellyn,IL,"27,142",4
+Garner,NC,"27,138",4
+Auburn ,NY,"27,138",4
+West Memphis ,AR,"27,070",4
+Wake Forest,NC,"27,068",4
+American Fork ,UT,"27,064",4
+Oakdale ,MN,"27,034",4
+Anderson ,SC,"27,027",4
+Suisun City ,CA,"26,977",4
+College Park ,MD,"26,925",4
+Pullman ,WA,"26,920",4
+Matthews,NC,"26,901",4
+Glen Cove ,NY,"26,895",4
+Gillette ,WY,"26,871",4
+McHenry ,IL,"26,862",4
+Opelika ,AL,"26,808",4
+Winona ,MN,"26,785",4
+Kirkwood ,MO,"26,760",4
+Garden City ,MI,"26,743",4
+Kankakee ,IL,"26,710",4
+Melrose ,MA,"26,708",4
+Weatherford ,TX,"26,686",4
+Mount Pleasant ,MI,"26,675",4
+Lansing,IL,"26,672",4
+Eagle Pass ,TX,"26,668",4
+Harrison,NY,"26,665",4
+Norco ,CA,"26,659",4
+Inkster ,MI,"26,621",4
+Southlake ,TX,"26,595",4
+Barberton ,OH,"26,581",4
+Mount Pleasant,WI,"26,572",4
+Atwater ,CA,"26,565",4
+Imperial Beach ,CA,"26,543",4
+Thomasville ,NC,"26,526",4
+Tualatin ,OR,"26,476",4
+Paradise,CA,"26,469",4
+Belvidere ,IL,"26,461",4
+Post Falls ,ID,"26,460",4
+Shaker Heights ,OH,"26,460",4
+Corsicana ,TX,"26,459",4
+Farmers Branch ,TX,"26,455",4
+West Chicago ,IL,"26,454",4
+Nicholasville ,KY,"26,444",4
+Wilmette,IL,"26,418",4
+Statesville ,NC,"26,414",4
+Clinton ,IA,"26,407",4
+Seguin ,TX,"26,394",4
+Emporia ,KS,"26,380",4
+Clinton ,MS,"26,313",4
+Spring Valley,NY,"26,291",4
+Carbondale ,IL,"26,231",4
+Spring Hill ,TN,"26,230",4
+Jeffersontown ,KY,"26,226",4
+Superior ,WI,"26,223",4
+Wooster ,OH,"26,212",4
+Plum,PA,"26,198",4
+Benicia ,CA,"26,174",4
+Paramus,NJ,"26,128",4
+Duluth ,GA,"26,125",4
+Homer Glen,IL,"26,111",4
+Kyle ,TX,"26,103",4
+Easton ,PA,"26,080",4
+Paris ,TX,"26,050",4
+Trotwood ,OH,"26,039",4
+Allen Park ,MI,"26,014",4
+Medina ,OH,"26,011",4
+Collinsville ,IL,"25,960",4
+Maryland Heights ,MO,"25,949",4
+Winchester ,VA,"25,897",4
+New London ,CT,"25,891",4
+Fridley ,MN,"25,868",4
+Middletown ,NY,"25,865",4
+Marshalltown ,IA,"25,850",4
+SeaTac ,WA,"25,840",4
+Kaysville ,UT,"25,820",4
+Bristol ,TN,"25,817",4
+Dodge City ,KS,"25,689",4
+Sandusky ,OH,"25,688",4
+Holladay ,UT,"25,676",4
+Greenville ,TX,"25,676",4
+Ridgecrest ,CA,"25,638",4
+Carlsbad ,NM,"25,629",4
+Bergenfield,NJ,"25,611",4
+Paducah ,KY,"25,521",4
+Salem ,VA,"25,449",4
+Sanger ,CA,"25,447",4
+Leander ,TX,"25,424",4
+Harker Heights ,TX,"25,417",4
+Hastings ,NE,"25,394",4
+Windsor,CA,"25,362",4
+Enterprise ,AL,"25,351",4
+Hazelwood ,MO,"25,345",4
+Stevens Point ,WI,"25,327",4
+Riverside ,OH,"25,327",4
+Burlington ,IA,"25,327",4
+Eureka ,CA,"25,300",4
+West Linn ,OR,"25,236",4
+Fountain Hills,AZ,"25,227",4
+Fremont ,NE,"25,224",4
+Fort Dodge ,IA,"25,180",4
+Zion ,IL,"25,161",4
+Corcoran ,CA,"25,139",4
+Zanesville ,OH,"25,129",4
+Shoreview ,MN,"25,111",4
+San Benito ,TX,"25,072",4
+Lafayette ,CO,"25,065",4
+Neenah ,WI,"25,060",4
+Maywood,IL,"25,035",4
+Lafayette ,CA,"25,011",4
+Westmont,IL,"24,979",4
+Vicksburg ,MS,"24,974",4
+Little Elm ,TX,"24,947",4
+San Luis ,AZ,"24,909",4
+Owatonna ,MN,"24,855",4
+University Park ,TX,"24,853",4
+Lockport ,IL,"24,810",4
+Ardmore ,OK,"24,810",4
+Paragould ,AR,"24,800",4
+De Pere ,WI,"24,779",4
+Belmont ,CA,"24,776",4
+Casselberry ,FL,"24,759",4
+El Mirage ,AZ,"24,751",4
+Rockledge ,FL,"24,747",4
+Bridgeton ,NJ,"24,742",4
+Wyandotte ,MI,"24,739",4
+Kingsville ,TX,"24,702",4
+Horn Lake ,MS,"24,669",4
+Lebanon ,TN,"24,648",4
+Wasco ,CA,"24,628",4
+Freeport ,IL,"24,615",4
+Asheboro ,NC,"24,609",4
+Barstow ,CA,"24,596",4
+Belton ,MO,"24,591",4
+Edwardsville ,IL,"24,557",4
+Greer ,SC,"24,557",4
+Redmond ,OR,"24,551",4
+Sherwood ,AR,"24,542",4
+Ponca City ,OK,"24,507",4
+East Cleveland ,OH,"24,507",4
+Desert Hot Springs ,CA,"24,489",4
+Cornelius,NC,"24,487",4
+Hercules ,CA,"24,484",4
+Peekskill ,NY,"24,484",4
+Vernon Hills,IL,"24,462",4
+Aberdeen ,SD,"24,460",4
+Loves Park ,IL,"24,457",4
+South Pasadena ,CA,"24,446",4
+Colleyville ,TX,"24,428",4
+Rockville Centre,NY,"24,414",4
+Pearl ,MS,"24,400",4
+Crown Point ,IN,"24,376",4
+Queen Creek,AZ,"24,361",4
+Ottumwa ,IA,"24,342",4
+Cudahy ,CA,"24,334",4
+Geneva ,IL,"24,302",4
+Big Spring ,TX,"24,270",4
+Caledonia,WI,"24,220",4
+New Castle ,PA,"24,212",4
+Starkville ,MS,"24,187",4
+Mercer Island ,WA,"24,163",4
+Ridgewood,NJ,"24,163",4
+Elizabethtown ,KY,"24,144",4
+New Lenox,IL,"24,137",4
+Seal Beach ,CA,"24,127",4
+Chaska ,MN,"24,116",4
+North Platte ,NE,"24,107",4
+Lebanon ,PA,"24,097",4
+White Bear Lake ,MN,"24,095",4
+Lemon Grove ,CA,"24,089",4
+Issaquah ,WA,"24,057",4
+Elmwood Park,IL,"24,052",4
+Grandview ,MO,"24,033",4
+Galt ,CA,"24,026",4
+Parkland ,FL,"24,017",4
+Watauga ,TX,"24,005",4
+Denison ,TX,"24,001",4
+Avon Lake ,OH,"23,996",4
+Laguna Beach ,CA,"23,995",4
+Doral ,FL,"23,974",4
+Staunton ,VA,"23,967",4
+Woodstock ,IL,"23,930",4
+Dolton,IL,"23,889",4
+Lemoore ,CA,"23,873",4
+Fairfax ,VA,"23,844",4
+Homewood ,AL,"23,840",4
+Prior Lake ,MN,"23,836",4
+San Fernando ,CA,"23,833",4
+South Portland ,ME,"23,803",4
+Marshall ,TX,"23,798",4
+Ossining,NY,"23,798",4
+Columbus ,MS,"23,798",4
+Lodi,NJ,"23,776",4
+Wentzville ,MO,"23,768",4
+Papillion ,NE,"23,739",4
+Ramsey ,MN,"23,734",4
+Walker ,MI,"23,722",4
+Griffin ,GA,"23,719",4
+Athens ,AL,"23,715",4
+West Fargo ,ND,"23,708",4
+Maple Heights ,OH,"23,667",4
+Anniston ,AL,"23,662",4
+Cabot ,AR,"23,614",4
+Pascagoula ,MS,"23,609",4
+Mequon ,WI,"23,584",4
+Newport ,RI,"23,523",4
+Champlin ,MN,"23,503",4
+Chanhassen ,MN,"23,480",4
+Rolling Meadows ,IL,"23,463",4
+Reedley ,CA,"23,439",4
+Green ,OH,"23,404",4
+Tarpon Springs ,FL,"23,369",4
+Carteret,NJ,"23,367",4
+Fitchburg ,WI,"23,344",4
+South Lake Tahoe ,CA,"23,333",4
+New Smyrna Beach ,FL,"23,325",4
+Norton Shores ,MI,"23,307",4
+Carrollton ,GA,"23,291",4
+Franklin ,IN,"23,258",4
+Muskego ,WI,"23,234",4
+Opelousas ,LA,"23,220",4
+Roselle,IL,"23,209",4
+Elk River ,MN,"23,194",4
+Auburn ,ME,"23,177",4
+Hopewell ,VA,"23,142",4
+Woodstock ,GA,"23,141",4
+Lisle,IL,"23,135",4
+Northport ,AL,"23,118",4
+Hudson ,OH,"23,037",4
+Romulus ,MI,"22,963",4
+Benbrook ,TX,"22,957",4
+Newberg ,OR,"22,953",4
+Norfolk ,NE,"22,940",4
+Watertown ,WI,"22,930",4
+Huntley,IL,"22,923",4
+Sahuarita,AZ,"22,913",4
+Centerville ,OH,"22,904",4
+Oxford ,OH,"22,887",4
+Cliffside Park,NJ,"22,863",4
+Alvin ,TX,"22,853",4
+Yukon ,OK,"22,849",4
+Kerrville ,TX,"22,821",4
+Fredericksburg ,VA,"22,818",4
+Machesney Park,IL,"22,815",4
+Selma ,CA,"22,807",4
+Austin ,MN,"22,800",4
+Moscow ,ID,"22,798",4
+East Peoria ,IL,"22,760",4
+Oak Harbor ,WA,"22,744",4
+Woodburn ,OR,"22,728",4
+Brawley ,CA,"22,725",4
+Canton ,GA,"22,724",4
+Palmetto Bay,FL,"22,666",4
+Highland,IN,"22,641",4
+Coronado ,CA,"22,633",4
+South Plainfield,NJ,"22,623",4
+Temple Terrace ,FL,"22,619",4
+Duncan ,OK,"22,617",4
+Park Forest,IL,"22,583",4
+Willoughby ,OH,"22,561",4
+Van Buren ,AR,"22,543",4
+Greenwood ,SC,"22,533",4
+Derby ,KS,"22,517",4
+Muscatine ,IA,"22,504",4
+Morton Grove,IL,"22,478",4
+Alliance ,OH,"22,476",4
+Kingston ,NY,"22,441",4
+Keene ,NH,"22,407",4
+Kernersville,NC,"22,392",4
+Darien ,IL,"22,370",4
+Key West ,FL,"22,364",4
+Kinston ,NC,"22,360",4
+Webster Groves ,MO,"22,335",4
+Laurel ,MD,"22,329",4
+Blue Island ,IL,"22,325",4
+Eagle Mountain ,UT,"22,309",4
+Searcy ,AR,"22,299",4
+Chillicothe ,OH,"22,296",4
+Agoura Hills ,CA,"22,283",4
+Garden City,NY,"22,275",4
+El Cerrito ,CA,"22,222",4
+Villa Park,IL,"22,198",4
+Syracuse ,UT,"22,195",4
+Calabasas ,CA,"22,185",4
+Brandon ,MS,"22,160",4
+McKeesport ,PA,"22,130",4
+Hastings ,MN,"22,126",4
+Leesburg ,FL,"22,113",4
+Munster,IN,"22,105",4
+Athens ,OH,"22,088",4
+Del City ,OK,"22,067",4
+Herndon,VA,"22,045",4
+Radcliff ,KY,"22,013",4
+Faribault ,MN,"22,009",4
+Lumberton ,NC,"22,006",4
+Troy ,OH,"21,975",4
+Mooresville,NC,"21,954",4
+Waynesboro ,VA,"21,953",4
+Bainbridge Island ,WA,"21,890",4
+Clarksville,IN,"21,873",4
+Solon ,OH,"21,866",4
+Melrose Park,IL,"21,853",4
+Ashland ,OH,"21,850",4
+Bloomingdale,IL,"21,848",4
+Libertyville,IL,"21,843",4
+Duarte ,CA,"21,839",4
+Kiryas Joel,NY,"21,793",4
+Mauldin ,SC,"21,784",4
+Havelock ,NC,"21,764",4
+Grayslake,IL,"21,735",4
+Hazleton ,PA,"21,732",4
+Miami Lakes,FL,"21,727",4
+Blythe ,CA,"21,727",4
+Forest Park ,GA,"21,726",4
+Mount Juliet ,TN,"21,718",4
+Charleston ,IL,"21,715",4
+Crystal ,MN,"21,707",4
+Independence ,KY,"21,694",4
+Jacksonville Beach ,FL,"21,673",4
+Johnstown ,PA,"21,641",4
+South Salt Lake ,UT,"21,607",4
+Loma Linda ,CA,"21,601",4
+Columbus ,NE,"21,595",4
+Georgetown ,KY,"21,589",4
+New Brighton ,MN,"21,563",4
+Naples ,FL,"21,532",4
+Ridgeland ,MS,"21,509",4
+Prairie Village ,KS,"21,479",4
+Port Hueneme ,CA,"21,478",4
+Ypsilanti ,MI,"21,464",4
+Shelby ,NC,"21,449",4
+Biddeford ,ME,"21,435",4
+Edgewater ,FL,"21,415",4
+South El Monte ,CA,"21,397",4
+Adrian ,MI,"21,391",4
+Ashland ,OR,"21,390",4
+Monroe ,MI,"21,374",4
+Ashland ,KY,"21,346",4
+Plainview ,TX,"21,334",4
+Pottstown,PA,"21,288",4
+Pelham ,AL,"21,266",4
+South Euclid ,OH,"21,209",4
+Rosemount ,MN,"21,197",4
+Kalispell ,MT,"21,182",4
+La Porte ,IN,"21,174",4
+Sapulpa ,OK,"21,173",4
+Westfield,IN,"21,171",4
+North Plainfield,NJ,"21,143",4
+South Elgin,IL,"21,131",4
+South Milwaukee ,WI,"21,129",4
+Ruston ,LA,"21,123",4
+Ferndale ,MI,"21,112",4
+Greenbelt ,MD,"21,098",4
+South Holland,IL,"21,083",4
+Mountain Brook ,AL,"21,061",4
+Lake Forest ,IL,"20,990",4
+Sedalia ,MO,"20,990",4
+Forest Grove ,OR,"20,985",4
+Ferguson ,MO,"20,964",4
+Venice ,FL,"20,946",4
+Auburn Hills ,MI,"20,931",4
+Marquette ,MI,"20,916",4
+East Moline ,IL,"20,892",4
+Holly Springs,NC,"20,870",4
+Millbrae ,CA,"20,800",4
+Florence,AZ,"20,781",4
+Corinth ,TX,"20,773",4
+Mukilteo ,WA,"20,742",4
+North Augusta ,SC,"20,712",4
+Milwaukie ,OR,"20,707",4
+Milledgeville ,GA,"20,703",4
+Wadsworth ,OH,"20,696",4
+Gardner ,MA,"20,682",4
+Roseburg ,OR,"20,681",4
+Bixby ,OK,"20,678",4
+La Ca_ada Flintridge ,CA,"20,671",4
+Junction City ,KS,"20,671",4
+West Mifflin,PA,"20,669",4
+Lockport ,NY,"20,630",4
+Oxford ,AL,"20,622",4
+Lake Zurich,IL,"20,610",4
+Riverbank ,CA,"20,606",4
+Arnold ,MO,"20,603",4
+Roselle,NJ,"20,599",4
+Piqua ,OH,"20,582",4
+Summit ,NJ,"20,557",4
+Lebanon ,OH,"20,535",4
+Hamtramck ,MI,"20,512",4
+Cumberland ,MD,"20,495",4
+Watertown ,SD,"20,488",4
+Crest Hill ,IL,"20,451",4
+Portsmouth ,NH,"20,443",4
+New Hope ,MN,"20,428",4
+Lexington ,NC,"20,407",4
+Yucca Valley,CA,"20,375",4
+Kenmore ,WA,"20,374",4
+Mint Hill,NC,"20,369",4
+Hays ,KS,"20,368",4
+Farragut,TN,"20,350",4
+Golden Valley ,MN,"20,344",4
+Norwood ,OH,"20,341",4
+Dinuba ,CA,"20,335",4
+Easley ,SC,"20,325",4
+Oakdale ,CA,"20,299",4
+Portsmouth ,OH,"20,297",4
+Saginaw ,TX,"20,295",4
+Klamath Falls ,OR,"20,276",4
+Sebastian ,FL,"20,265",4
+Rock Springs ,WY,"20,200",4
+Lino Lakes ,MN,"20,174",4
+Lomita ,CA,"20,156",4
+Point Pleasant,NJ,"20,139",4
+Bensenville,IL,"20,138",4
+Snellville ,GA,"20,112",4
+Liberal ,KS,"20,074",4
+Elizabeth City ,NC,"20,025",4
+Balch Springs ,TX,"20,003",4
+Brownsburg,IN,"19,994",4
+Gallup ,NM,"19,979",4
+College Park ,GA,"19,969",4
+Sidney ,OH,"19,944",4
+Maple Valley ,WA,"19,929",4
+Mountlake Terrace ,WA,"19,912",4
+El Dorado ,AR,"19,905",4
+Brookings ,SD,"19,865",4
+Clinton ,UT,"19,855",4
+Lynbrook,NY,"19,852",4
+Pleasant Prairie,WI,"19,847",4
+Hammond ,LA,"19,803",4
+Alice ,TX,"19,797",4
+Albertville ,AL,"19,794",4
+Miamisburg ,OH,"19,793",4
+McDonough ,GA,"19,768",4
+Parma Heights ,OH,"19,757",4
+Glassboro,NJ,"19,751",4
+Macomb ,IL,"19,736",4
+Bethany ,OK,"19,729",4
+Tinton Falls,NJ,"19,703",4
+Ashtabula ,OH,"19,689",4
+Fountain ,CO,"19,669",4
+Shelbyville ,TN,"19,669",4
+Deerfield,IL,"19,667",4
+Pittsburg ,KS,"19,649",4
+East Ridge ,TN,"19,642",4
+Northfield ,MN,"19,633",4
+Hialeah Gardens ,FL,"19,631",4
+Germantown,WI,"19,594",4
+Nogales ,AZ,"19,573",4
+Cary,IL,"19,559",4
+South St. Paul ,MN,"19,552",4
+Stafford ,TX,"19,541",4
+Terrell ,TX,"19,527",4
+Eastlake ,OH,"19,520",4
+Ennis ,TX,"19,506",4
+Orange ,TX,"19,494",4
+Murrysville,PA,"19,488",4
+Christiansburg,VA,"19,477",4
+Acworth ,GA,"19,476",4
+Eagle ,ID,"19,471",4
+Sulphur ,LA,"19,450",4
+Crestview ,FL,"19,444",4
+Ottawa ,IL,"19,419",4
+Jacksonville ,IL,"19,415",4
+Plattsburgh ,NY,"19,393",4
+Palisades Park,NJ,"19,375",4
+Evergreen Park,IL,"19,359",4
+Hermosa Beach ,CA,"19,350",4
+Thomasville ,GA,"19,286",4
+Niles ,OH,"19,268",4
+Morristown,NJ,"19,268",4
+Mokena,IL,"19,236",4
+Seymour ,IN,"19,223",4
+Brook Park ,OH,"19,194",4
+Chowchilla ,CA,"19,193",4
+Sylvania ,OH,"19,185",4
+Brownwood ,TX,"19,140",4
+Louisville ,CO,"19,133",4
+Eustis ,FL,"19,129",4
+Mineola,NY,"19,108",4
+Madisonville ,KY,"19,106",4
+Daphne ,AL,"19,093",4
+Farmington ,MN,"19,057",4
+Haines City ,FL,"19,056",4
+Wilsonville ,OR,"19,055",4
+Patterson ,CA,"19,034",4
+Warrensburg ,MO,"19,034",4
+Bourbonnais,IL,"19,024",4
+Fairmont ,WV,"19,024",4
+Cartersville ,GA,"19,010",4
+Seminole ,FL,"19,002",4
+Decatur ,GA,"18,986",4
+Trussville ,AL,"18,985",4
+Port Angeles ,WA,"18,982",4
+Indian Trail,NC,"18,976",4
+Coalinga ,CA,"18,974",4
+Bellwood,IL,"18,973",4
+West St. Paul ,MN,"18,935",4
+Birmingham ,MI,"18,932",4
+Oregon ,OH,"18,921",4
+Altus ,OK,"18,912",4
+Rocky River ,OH,"18,900",4
+Fort Walton Beach ,FL,"18,880",4
+Pleasantville ,NJ,"18,853",4
+Selma ,AL,"18,847",4
+Evans ,CO,"18,842",4
+Nixa ,MO,"18,829",4
+Steubenville ,OH,"18,820",4
+Cudahy ,WI,"18,809",4
+Pinole ,CA,"18,808",4
+Moses Lake ,WA,"18,800",4
+Greenfield ,IN,"18,787",4
+Weirton ,WV,"18,748",4
+Brigham City ,UT,"18,709",4
+St. Matthews ,KY,"18,709",4
+Laurel ,MS,"18,693",4
+Alsip,IL,"18,692",4
+Sachse ,TX,"18,688",4
+Central Falls ,RI,"18,683",4
+Logansport ,IN,"18,663",4
+Elmwood Park,NJ,"18,634",4
+Pinecrest,FL,"18,614",4
+Angleton ,TX,"18,613",4
+Tullahoma ,TN,"18,579",4
+Manchester ,MO,"18,569",4
+Baldwin,PA,"18,562",4
+Shelbyville ,IN,"18,516",4
+Forest Park ,OH,"18,514",4
+Ansonia ,CT,"18,503",4
+Sand Springs ,OK,"18,489",4
+Coralville ,IA,"18,478",4
+Homewood,IL,"18,475",4
+Painesville ,OH,"18,474",4
+Orinda ,CA,"18,445",4
+Hinsdale,IL,"18,439",4
+Rolla ,MO,"18,438",4
+Cortland ,NY,"18,434",4
+Mamaroneck,NY,"18,413",4
+Palestine ,TX,"18,390",4
+McAlester ,OK,"18,388",4
+Carlisle,PA,"18,379",4
+Universal City ,TX,"18,376",4
+New Castle ,IN,"18,339",4
+West Chester,PA,"18,315",4
+Chambersburg,PA,"18,302",4
+Augusta ,ME,"18,282",4
+Marshfield ,WI,"18,267",4
+Natchitoches ,LA,"18,241",4
+Marysville ,OH,"18,212",4
+Columbia Heights ,MN,"18,210",4
+Bellaire ,TX,"18,197",4
+Whitehall ,OH,"18,180",4
+Laguna Woods ,CA,"18,170",4
+Carrboro,NC,"18,162",4
+Newton ,KS,"18,133",4
+Saco ,ME,"18,125",4
+Covington ,WA,"18,115",4
+Ozark ,MO,"18,095",4
+Mandan ,ND,"18,091",4
+Brookfield,IL,"18,077",4
+Windsor,CO,"18,058",4
+Clarksdale ,MS,"18,006",4
+Hawthorne,NJ,"17,997",4
+Montrose ,CO,"17,989",4
+Berea ,OH,"17,987",4
+Frankfort,IL,"17,981",4
+Vincennes ,IN,"17,976",4
+Franklin Park,IL,"17,965",4
+Trenton ,MI,"17,965",4
+Hazel Park ,MI,"17,955",4
+Camas ,WA,"17,950",4
+Marina ,CA,"17,943",4
+Stillwater ,MN,"17,896",4
+Bay City ,TX,"17,891",4
+Lenoir ,NC,"17,890",4
+Dickinson ,TX,"17,886",4
+Belton ,TX,"17,876",4
+Dover,NJ,"17,860",4
+Willmar ,MN,"17,774",4
+Colonial Heights ,VA,"17,768",4
+Mayfield Heights ,OH,"17,737",4
+Mustang ,OK,"17,727",4
+Washington ,UT,"17,716",4
+Raymore ,MO,"17,703",4
+Takoma Park ,MD,"17,701",4
+Scarsdale,NY,"17,695",4
+Herriman ,UT,"17,689",4
+Westminster ,MD,"17,689",4
+North Ogden ,UT,"17,682",4
+Madison ,MS,"17,681",4
+Sycamore ,IL,"17,679",4
+Lackawanna ,NY,"17,588",4
+New Port Richey ,FL,"17,578",4
+South Burlington ,VT,"17,574",4
+Springboro ,OH,"17,551",4
+Newburyport ,MA,"17,542",4
+Amsterdam ,NY,"17,533",4
+Pickerington ,OH,"17,531",4
+Godfrey,IL,"17,524",4
+Wilkinsburg,PA,"17,522",4
+Douglas ,AZ,"17,515",4
+Converse ,TX,"17,510",4
+Dublin ,GA,"17,509",4
+Lindenwold,NJ,"17,485",4
+Gardner ,KS,"17,462",4
+Claremore ,OK,"17,458",4
+Rutherford,NJ,"17,454",4
+Hannibal ,MO,"17,432",4
+Payson ,UT,"17,429",4
+Bristol ,VA,"17,424",4
+Matteson,IL,"17,420",4
+Dixon ,CA,"17,412",4
+Twinsburg ,OH,"17,394",4
+Albert Lea ,MN,"17,389",4
+Marion ,IL,"17,388",4
+Massapequa Park,NY,"17,385",4
+Pampa ,TX,"17,382",4
+Sherwood ,OR,"17,373",4
+Forest Lake ,MN,"17,373",4
+Kirksville ,MO,"17,368",4
+Oswego ,NY,"17,351",4
+Tiffin ,OH,"17,347",4
+Susanville ,CA,"17,336",4
+Golden ,CO,"17,321",4
+New Philadelphia ,OH,"17,319",4
+Tallmadge ,OH,"17,293",4
+Anoka ,MN,"17,289",4
+Tifton ,GA,"17,284",4
+Broadview Heights ,OH,"17,274",4
+Oxford ,MS,"17,265",4
+Springfield ,TN,"17,261",4
+Ashwaubenon,WI,"17,235",4
+Clemmons,NC,"17,234",4
+Farmington ,UT,"17,217",4
+Sugar Hill ,GA,"17,204",4
+Lathrop ,CA,"17,197",4
+Sheridan ,WY,"17,197",4
+Morganton ,NC,"17,194",4
+Erlanger ,KY,"17,188",4
+Wayne ,MI,"17,186",4
+Arroyo Grande ,CA,"17,180",4
+Mattoon ,IL,"17,177",4
+Wisconsin Rapids ,WI,"17,164",4
+Santa Fe Springs ,CA,"17,159",4
+Elko ,NV,"17,156",4
+Ocean Springs ,MS,"17,149",4
+Avenal ,CA,"17,147",4
+Fairhope ,AL,"17,147",4
+Simpsonville ,SC,"17,144",4
+Ellensburg ,WA,"17,141",4
+Dyersburg ,TN,"17,126",4
+Poplar Bluff ,MO,"17,096",4
+Donna ,TX,"17,094",4
+Tukwila ,WA,"17,092",4
+Safety Harbor ,FL,"17,089",4
+Avon ,OH,"17,086",4
+Goodlettsville ,TN,"17,075",4
+Laconia ,NH,"17,065",4
+Chickasha ,OK,"17,062",4
+Monroe ,WA,"17,059",4
+Sikeston ,MO,"17,053",4
+Moraga,CA,"17,050",4
+Perrysburg ,OH,"17,049",4
+Arcata ,CA,"17,044",4
+Martinsburg ,WV,"17,020",4
+Fuquay-Varina,NC,"17,002",4
+Vero Beach ,FL,"16,982",4
+Dumont,NJ,"16,968",4
+Union City ,GA,"16,961",4
+Hopkins ,MN,"16,961",4
+Talladega ,AL,"16,943",4
+North Canton ,OH,"16,925",4
+Palos Hills ,IL,"16,924",4
+Stephenville ,TX,"16,921",4
+Bartow ,FL,"16,919",4
+Mill Creek ,WA,"16,907",4
+Mineral Wells ,TX,"16,880",4
+Creve Coeur ,MO,"16,868",4
+Sevierville ,TN,"16,846",4
+Beckley ,WV,"16,832",4
+Battle Ground ,WA,"16,812",4
+Arlington ,WA,"16,810",4
+Bonney Lake ,WA,"16,809",4
+Anacortes ,WA,"16,798",4
+Mount Clemens ,MI,"16,781",4
+Onalaska ,WI,"16,778",4
+St. Marys ,GA,"16,763",4
+Howard,WI,"16,753",4
+Round Lake,IL,"16,748",4
+Rutland ,VT,"16,742",4
+Highland Village ,TX,"16,737",4
+Ada ,OK,"16,729",4
+Country Club Hills ,IL,"16,723",4
+Grandville ,MI,"16,718",4
+Rancho Mirage ,CA,"16,714",4
+Belle Glade ,FL,"16,681",4
+Fremont ,OH,"16,655",4
+Fairview Heights ,IL,"16,643",4
+La Vista ,NE,"16,643",4
+Shively ,KY,"16,641",4
+Millbrook ,AL,"16,640",4
+Norwalk ,OH,"16,637",4
+Menasha ,WI,"16,627",4
+Tahlequah ,OK,"16,623",4
+Alamo ,TX,"16,608",4
+Winchester ,KY,"16,598",4
+Murray ,KY,"16,557",4
+Asbury Park ,NJ,"16,546",4
+El Reno ,OK,"16,545",4
+Westbrook ,ME,"16,534",4
+Americus ,GA,"16,524",4
+Huntington ,IN,"16,521",4
+Yorkville ,IL,"16,505",4
+Central Point ,OR,"16,503",4
+Portland ,TX,"16,490",4
+Cocoa ,FL,"16,478",4
+Midlothian ,TX,"16,478",4
+Gainesville ,TX,"16,452",4
+Durant ,OK,"16,450",4
+Mesquite ,NV,"16,444",4
+Palm Springs,FL,"16,442",4
+Clarksburg ,WV,"16,441",4
+Erie,CO,"16,432",4
+Durango ,CO,"16,416",4
+Natchez ,MS,"16,413",4
+Roanoke Rapids ,NC,"16,403",4
+Gretna ,LA,"16,399",4
+Frankfort ,IN,"16,394",4
+Bella Vista,AR,"16,388",4
+Phoenixville,PA,"16,382",4
+Pendleton ,OR,"16,380",4
+South Houston ,TX,"16,351",4
+Punta Gorda ,FL,"16,343",4
+Hermitage ,PA,"16,327",4
+Sunny Isles Beach ,FL,"16,317",4
+American Canyon ,CA,"16,315",4
+Griffith,IN,"16,311",4
+Gautier ,MS,"16,306",4
+DeBary ,FL,"16,303",4
+White Settlement ,TX,"16,301",4
+Mount Vernon ,IL,"16,298",4
+Suwanee ,GA,"16,277",4
+Brunswick ,GA,"16,269",4
+Artesia ,CA,"16,244",4
+Middleton ,WI,"16,244",4
+El Segundo ,CA,"16,217",4
+Hibbing ,MN,"16,209",4
+Maumelle ,AR,"16,201",4
+Easthampton ,MA,"16,195",4
+Highland ,UT,"16,189",4
+Truckee,CA,"16,185",4
+Lemont,IL,"16,176",4
+Uvalde ,TX,"16,142",4
+Radford ,VA,"16,125",4
+Blytheville ,AR,"16,105",4
+Farmington ,MO,"16,097",4
+Nederland ,TX,"16,096",4
+Taylor ,TX,"16,090",4
+Clayton ,MO,"16,088",4
+Greenwood ,MS,"16,084",4
+Hanahan ,SC,"16,065",4
+Defiance ,OH,"16,063",4
+Saratoga Springs ,UT,"16,053",4
+Prospect Heights ,IL,"16,047",4
+Aberdeen ,WA,"16,042",4
+Morton,IL,"16,039",4
+Mount Vernon ,OH,"16,037",4
+Dickinson ,ND,"16,035",4
+Waterville ,ME,"16,016",4
+Madison,NJ,"16,009",4
+Albany ,CA,"16,004",4
+New Milford,NJ,"15,947",4
+Dyer,IN,"15,913",4
+Lexington,SC,"15,901",4
+Conway ,SC,"15,894",4
+Dallas ,OR,"15,892",4
+South Ogden ,UT,"15,891",4
+Ca_on City ,CO,"15,889",4
+Stuart ,FL,"15,858",4
+Henderson ,NC,"15,850",4
+Floral Park,NY,"15,846",4
+Clayton,NC,"15,841",4
+North Myrtle Beach ,SC,"15,816",4
+North Aurora,IL,"15,812",4
+Shafter ,CA,"15,800",4
+Newport ,KY,"15,766",4
+Fairview Park ,OH,"15,762",4
+Hueytown ,AL,"15,751",4
+Centerville ,UT,"15,720",4
+Westchester,IL,"15,710",4
+Centralia ,WA,"15,710",4
+Johnston ,IA,"15,691",4
+Red Wing ,MN,"15,687",4
+South River,NJ,"15,682",4
+Coos Bay ,OR,"15,665",4
+Canby ,OR,"15,637",4
+Marco Island ,FL,"15,634",4
+Overland ,MO,"15,632",4
+Powder Springs ,GA,"15,614",4
+La Palma ,CA,"15,603",4
+Jenks ,OK,"15,590",4
+West University Place ,TX,"15,583",4
+Menomonie ,WI,"15,581",4
+Great Bend ,KS,"15,564",4
+Laurinburg ,NC,"15,548",4
+Lansdale,PA,"15,526",4
+Danville ,KY,"15,524",4
+Albemarle ,NC,"15,522",4
+Shorewood,IL,"15,521",4
+Hopatcong,NJ,"15,491",4
+Payson,AZ,"15,486",4
+Deming ,NM,"15,480",4
+Sulphur Springs ,TX,"15,473",4
+Eden ,NC,"15,469",4
+Greeneville,TN,"15,440",4
+Troutdale ,OR,"15,438",4
+Kaukauna ,WI,"15,414",4
+Moultrie ,GA,"15,409",4
+Center Point ,AL,"15,408",4
+Lebanon ,IN,"15,400",4
+Lebanon ,OR,"15,397",4
+Hyattsville ,MD,"15,376",4
+Secaucus,NJ,"15,372",4
+West Melbourne ,FL,"15,328",4
+Depew,NY,"15,307",4
+Hermiston ,OR,"15,297",4
+Cullman ,AL,"15,295",4
+Opa-locka ,FL,"15,287",4
+Riverdale ,GA,"15,279",4
+St. Michael ,MN,"15,278",4
+Brenham ,TX,"15,270",4
+Lynn Haven ,FL,"15,254",4
+Gatesville ,TX,"15,252",4
+Greensburg ,PA,"15,249",4
+La Grange,IL,"15,244",4
+Clive ,IA,"15,234",4
+Montgomery,IL,"15,229",4
+Hawaiian Gardens ,CA,"15,229",4
+Forest Park,IL,"15,224",4
+Forney ,TX,"15,223",4
+Greenfield ,CA,"15,222",4
+Fort Thomas ,KY,"15,222",4
+Batavia ,NY,"15,202",4
+Harrison,NJ,"15,201",4
+Milton ,GA,"15,156",4
+Grosse Pointe Woods ,MI,"15,154",4
+Troy ,AL,"15,148",4
+Lake Mary ,FL,"15,143",4
+Fayetteville ,GA,"15,136",4
+Beaver Dam ,WI,"15,133",4
+Mercedes ,TX,"15,131",4
+Sterling ,IL,"15,124",4
+Cahokia,IL,"15,103",4
+Alexander City ,AL,"15,080",4
+Arvin ,CA,"15,070",4
+Westbury,NY,"15,065",4
+Rye ,NY,"15,060",4
+Fillmore ,CA,"15,053",4
+Crawfordsville ,IN,"15,043",4
+Newton ,IA,"15,042",4
+Clearlake ,CA,"15,040",4
+Bryant ,AR,"15,040",4
+Dixon ,IL,"15,033",4
+Bellevue,WI,"15,031",4
+Bridgeton ,MO,"15,028",4
+Hanover,PA,"15,025",4
+Cohoes ,NY,"15,025",4
+Ham Lake ,MN,"15,020",4
+Mount Pleasant ,TX,"15,011",4
+Kenmore,NY,"15,002",4
+Scottsboro ,AL,"14,994",4
+Bridgeview,IL,"14,991",4
+Paradise Valley,AZ,"14,990",4
+Gloversville ,NY,"14,990",4
+Covington ,GA,"14,980",4
+Bradley,IL,"14,964",4
+Addison,TX,"14,964",4
+Owosso ,MI,"14,963",4
+Ukiah ,CA,"14,956",4
+Sunnyside ,WA,"14,949",4
+Lady Lake,FL,"14,940",4
+New Franklin ,OH,"14,937",4
+Maitland ,FL,"14,931",4
+Middleburg Heights ,OH,"14,928",4
+Vienna,VA,"14,903",4
+Fraser ,MI,"14,902",4
+Humble ,TX,"14,899",4
+Pooler ,GA,"14,875",4
+Reidsville ,NC,"14,871",4
+Sharon ,PA,"14,869",4
+Elkton,MD,"14,842",4
+Siloam Springs ,AR,"14,825",4
+Tonawanda ,NY,"14,819",4
+Calhoun ,GA,"14,807",4
+Berkley ,MI,"14,787",4
+Scottsbluff ,NE,"14,785",4
+Murphy ,TX,"14,779",4
+Pineville ,LA,"14,776",4
+Waycross ,GA,"14,774",4
+Ocean City ,NJ,"14,756",4
+Indiana,PA,"14,754",4
+Washington ,PA,"14,754",4
+Mitchell ,SD,"14,752",4
+Johnson City,NY,"14,727",4
+Boulder City ,NV,"14,720",4
+Allouez,WI,"14,718",4
+Ozark ,AL,"14,711",4
+North Arlington,NJ,"14,701",4
+Lindenhurst,IL,"14,695",4
+Oroville ,CA,"14,684",4
+Easton,MD,"14,677",4
+Grenada ,MS,"14,664",4
+Tenafly,NJ,"14,662",4
+Panama City Beach ,FL,"14,642",4
+Helena ,AL,"14,639",4
+Jamestown ,ND,"14,630",4
+Jennings ,MO,"14,625",4
+Front Royal,VA,"14,616",4
+Bay Village ,OH,"14,606",4
+Canyon ,TX,"14,602",4
+Pacific Grove ,CA,"14,601",4
+Ramsey,NJ,"14,595",4
+Beacon ,NY,"14,566",4
+California City ,CA,"14,556",4
+Cibolo ,TX,"14,555",4
+Aurora ,OH,"14,548",4
+Canton ,IL,"14,545",4
+Martinsville ,VA,"14,543",4
+Lincoln ,IL,"14,541",4
+Graham ,NC,"14,533",4
+Phillipsburg,NJ,"14,528",4
+Eufaula ,AL,"14,502",4
+Hereford ,TX,"14,499",4
+Streetsboro ,OH,"14,488",4
+Lake Wales ,FL,"14,474",4
+Ripon ,CA,"14,473",4
+Sunland Park ,NM,"14,453",4
+West Park ,FL,"14,432",4
+Berea ,KY,"14,431",4
+Pottsville ,PA,"14,405",4
+Traverse City ,MI,"14,398",4
+Groves ,TX,"14,393",4
+Washington ,MO,"14,392",4
+Jacksonville ,TX,"14,367",4
+Indianola ,IA,"14,361",4
+Stockbridge ,GA,"14,360",4
+Auburndale ,FL,"14,353",4
+River Falls ,WI,"14,352",4
+Lebanon ,MO,"14,336",4
+Beech Grove ,IN,"14,316",4
+Marietta ,OH,"14,307",4
+Glasgow ,KY,"14,302",4
+Whitewater ,WI,"14,291",4
+Palmetto ,FL,"14,284",4
+Athens ,TN,"14,275",4
+Corinth ,MS,"14,253",4
+Zachary ,LA,"14,252",4
+Highland Park,NJ,"14,245",4
+La Marque ,TX,"14,236",4
+Greenwood Village ,CO,"14,230",4
+Moberly ,MO,"14,227",4
+Buffalo ,MN,"14,222",4
+Eatontown,NJ,"14,195",4
+Oconomowoc ,WI,"14,172",4
+Riverdale,IL,"14,163",4
+Lake St. Louis ,MO,"14,160",4
+Los Lunas,NM,"14,153",4
+Highland Park ,MI,"14,153",4
+Olean ,NY,"14,149",4
+Jasper ,AL,"14,131",4
+Vandalia ,OH,"14,124",4
+Jasper ,IN,"14,116",4
+Tumwater ,WA,"14,100",4
+Sault Ste. Marie ,MI,"14,087",4
+Hazel Crest,IL,"14,075",4
+Winder ,GA,"14,064",4
+Fort Payne ,AL,"14,061",4
+Thibodaux ,LA,"14,052",4
+Channahon,IL,"14,030",4
+Red Bluff ,CA,"14,025",4
+Aberdeen ,MD,"13,993",4
+Greendale,WI,"13,978",4
+Dunmore,PA,"13,978",4
+Culpeper,VA,"13,977",4
+Dickson ,TN,"13,972",4
+Elizabethton ,TN,"13,955",4
+Norridge,IL,"13,954",4
+Moss Point ,MS,"13,951",4
+Rio Grande City ,TX,"13,950",4
+Boone,NC,"13,945",4
+Washington ,IL,"13,942",4
+Butler ,PA,"13,933",4
+Connersville ,IN,"13,931",4
+Crowley ,LA,"13,922",4
+Dumas ,TX,"13,916",4
+Carthage ,MO,"13,916",4
+Sartell ,MN,"13,915",4
+West Columbia ,SC,"13,914",4
+Katy ,TX,"13,913",4
+Hutchinson ,MN,"13,913",4
+Callaway ,FL,"13,899",4
+Pierre ,SD,"13,899",4
+Antioch,IL,"13,892",4
+Hartselle ,AL,"13,888",4
+Glens Falls ,NY,"13,877",4
+Otsego ,MN,"13,874",4
+Forest Hill ,TX,"13,858",4
+Maumee ,OH,"13,856",4
+Wood Dale ,IL,"13,855",4
+Altoona ,IA,"13,854",4
+Hartford ,WI,"13,853",4
+Lyndhurst ,OH,"13,848",4
+Las Vegas ,NM,"13,818",4
+Collingswood,NJ,"13,817",4
+Morris ,IL,"13,812",4
+Foley ,AL,"13,807",4
+Yankton ,SD,"13,798",4
+Streator ,IL,"13,780",4
+Cusseta,GA,"13,754",4
+Tavares ,FL,"13,746",4
+Jackson ,MO,"13,744",4
+Willowick ,OH,"13,727",4
+Republic ,MO,"13,715",4
+North Adams ,MA,"13,711",4
+Morrisville,NC,"13,699",4
+Brainerd ,MN,"13,691",4
+New Haven ,IN,"13,685",4
+McComb ,MS,"13,684",4
+Circleville ,OH,"13,681",4
+New Kensington ,PA,"13,667",4
+Gardendale ,AL,"13,665",4
+South Daytona ,FL,"13,662",4
+Lockhart ,TX,"13,661",4
+Kingsland ,GA,"13,659",4
+Midlothian,IL,"13,657",4
+Zionsville,IN,"13,655",4
+Carpinteria ,CA,"13,655",4
+Washington Court House ,OH,"13,654",4
+Imperial ,CA,"13,648",4
+Ammon ,ID,"13,646",4
+Middlesex,NJ,"13,644",4
+Fergus Falls ,MN,"13,636",4
+Warsaw ,IN,"13,627",4
+Warrensville Heights ,OH,"13,618",4
+Lake Stevens ,WA,"13,599",4
+Hutto ,TX,"13,599",4
+Palos Verdes Estates ,CA,"13,585",4
+Whitefish Bay,WI,"13,584",4
+Centralia ,IL,"13,569",4
+Hewitt ,TX,"13,561",4
+Conyers ,GA,"13,545",4
+Bemidji ,MN,"13,541",4
+Fairview,NJ,"13,540",4
+Robbinsdale ,MN,"13,518",4
+Washougal ,WA,"13,509",4
+Longwood ,FL,"13,493",4
+Richmond ,TX,"13,493",4
+Bedford ,IN,"13,486",4
+Weston,WI,"13,447",4
+North Salt Lake ,UT,"13,446",4
+Commerce ,CA,"13,435",4
+Wixom ,MI,"13,425",4
+Hammonton,NJ,"13,424",4
+St. Marys ,PA,"13,409",4
+Oldsmar ,FL,"13,401",4
+Livingston ,CA,"13,400",4
+Moody ,AL,"13,400",4
+Whitehall,PA,"13,400",4
+McPherson ,KS,"13,396",4
+Princeton,NJ,"13,391",4
+Monroe ,GA,"13,381",4
+Sharonville ,OH,"13,377",4
+Newton ,NC,"13,372",4
+Chicago Ridge,IL,"13,366",4
+Baker ,LA,"13,360",4
+Kuna ,ID,"13,354",4
+Hickory Hills ,IL,"13,326",4
+Hurricane ,UT,"13,321",4
+Worthington ,OH,"13,314",4
+Oakland,NJ,"13,312",4
+Brookhaven ,MS,"13,296",4
+Forrest City ,AR,"13,281",4
+Parlier ,CA,"13,273",4
+McMinnville ,TN,"13,270",4
+Mill Valley ,CA,"13,268",4
+Hope Mills,NC,"13,262",4
+Lake Station ,IN,"13,246",4
+Meadville ,PA,"13,233",4
+Shorewood,WI,"13,226",4
+Orangeburg ,SC,"13,224",4
+Auburn ,CA,"13,219",4
+Geneva ,NY,"13,216",4
+Oneonta ,NY,"13,208",4
+Harrison ,AR,"13,200",4
+Gaffney ,SC,"13,200",4
+Holly Hill ,FL,"13,199",4
+Zephyrhills ,FL,"13,152",4
+Atlantic Beach ,FL,"13,147",4
+Live Oak ,TX,"13,142",4
+Hugo ,MN,"13,139",4
+Grover Beach ,CA,"13,131",4
+Beach Park,IL,"13,119",4
+Clermont ,FL,"13,100",4
+Metuchen,NJ,"13,098",4
+Havre de Grace ,MD,"13,085",4
+Ephrata,PA,"13,074",4
+Sweetwater ,FL,"13,072",4
+New Ulm ,MN,"13,048",4
+Horizon City ,TX,"13,043",4
+Warrenville ,IL,"13,033",4
+Muscle Shoals ,AL,"13,032",4
+Miami ,OK,"13,027",4
+Auburn ,IN,"13,026",4
+Clemson ,SC,"13,012",4
+Malibu ,CA,"13,009",4
+Fostoria ,OH,"13,000",4
+St. John,IN,"12,999",4
+Glendale ,WI,"12,992",4
+Perry ,GA,"12,990",4
+Greenville ,OH,"12,983",4
+Wickliffe ,OH,"12,983",4
+Claremont ,NH,"12,968",4
+Stoughton ,WI,"12,966",4
+Bedford ,OH,"12,965",4
+Smithfield,NC,"12,965",4
+Minden ,LA,"12,962",4
+Saraland ,AL,"12,946",4
+Kingston,PA,"12,943",4
+Fernley ,NV,"12,942",4
+Franklin ,OH,"12,941",4
+Chippewa Falls ,WI,"12,929",4
+Swansea,IL,"12,927",4
+Clayton ,OH,"12,906",4
+West Monroe ,LA,"12,899",4
+Lewisville,NC,"12,878",4
+Hayden ,ID,"12,873",4
+Mount Dora ,FL,"12,869",4
+Brecksville ,OH,"12,851",4
+Ottawa ,KS,"12,850",4
+Sylacauga ,AL,"12,843",4
+Richton Park,IL,"12,842",4
+Pell City ,AL,"12,841",4
+Villa Rica ,GA,"12,838",4
+Solana Beach ,CA,"12,825",4
+Powell ,OH,"12,814",4
+San Marino ,CA,"12,808",4
+Lebanon ,NH,"12,806",4
+Roselle Park,NJ,"12,802",4
+Sterling ,CO,"12,800",4
+Blue Ash ,OH,"12,783",4
+Bloomsburg,PA,"12,772",4
+Beatrice ,NE,"12,769",4
+St. Ann ,MO,"12,766",4
+West Carrollton City ,OH,"12,761",4
+Babylon,NY,"12,760",4
+Eloy ,AZ,"12,750",4
+Kerman ,CA,"12,737",4
+Madison ,IN,"12,716",4
+Fulton ,MO,"12,707",4
+Chesterton,IN,"12,705",4
+Western Springs,IL,"12,690",4
+Englewood ,OH,"12,686",4
+Pataskala ,OH,"12,683",4
+Beeville ,TX,"12,682",4
+La Grande ,OR,"12,682",4
+Ringwood,NJ,"12,681",4
+Borger ,TX,"12,677",4
+Southern Pines,NC,"12,675",4
+Bellefontaine ,OH,"12,665",4
+Brigantine ,NJ,"12,647",4
+Marshall ,MN,"12,647",4
+Cayce ,SC,"12,646",4
+Happy Valley ,OR,"12,643",4
+Williston ,ND,"12,641",4
+Somerville,NJ,"12,637",4
+Okmulgee ,OK,"12,634",4
+Woodhaven ,MI,"12,634",4
+Wilton Manors ,FL,"12,616",4
+Boone ,IA,"12,614",4
+Glen Carbon,IL,"12,607",4
+Bogalusa ,LA,"12,607",4
+Port Neches ,TX,"12,604",4
+Wilmington ,OH,"12,603",4
+Speedway,IN,"12,594",4
+Mountain Home ,AR,"12,592",4
+El Dorado ,KS,"12,591",4
+Ionia ,MI,"12,589",4
+Harper Woods ,MI,"12,584",4
+Destin ,FL,"12,563",4
+Miami Springs ,FL,"12,534",4
+North Mankato ,MN,"12,530",4
+Canton ,MS,"12,520",4
+University Heights ,OH,"12,519",4
+Soddy-Daisy ,TN,"12,511",4
+St. Helens ,OR,"12,510",4
+Bexley ,OH,"12,507",4
+Vadnais Heights ,MN,"12,506",4
+Pewaukee ,WI,"12,494",4
+Freeport ,TX,"12,494",4
+Effingham ,IL,"12,489",4
+Williamsburg ,VA,"12,481",4
+Palos Heights ,IL,"12,469",4
+Dover ,OH,"12,466",4
+New Carrollton ,MD,"12,460",4
+Justice,IL,"12,452",4
+Levelland ,TX,"12,450",4
+Half Moon Bay ,CA,"12,449",4
+Somerset ,KY,"12,449",4
+Lake Forest Park ,WA,"12,438",4
+Lake City ,FL,"12,427",4
+South Charleston ,WV,"12,427",4
+Mandeville ,LA,"12,421",4
+Endicott,NY,"12,411",4
+La Grange Park,IL,"12,404",4
+St. Augustine ,FL,"12,404",4
+Derby ,CT,"12,393",4
+Florham Park,NJ,"12,389",4
+Mountain Home ,ID,"12,382",4
+Winnetka,IL,"12,371",4
+Ridgefield Park,NJ,"12,370",4
+Crowley ,TX,"12,368",4
+Waukee ,IA,"12,367",4
+Conneaut ,OH,"12,355",4
+Somerton ,AZ,"12,346",4
+Herrin ,IL,"12,337",4
+Bainbridge ,GA,"12,337",4
+Pinehurst,NC,"12,331",4
+Gulfport ,FL,"12,327",4
+Show Low ,AZ,"12,324",4
+Athens ,TX,"12,320",4
+Hernando ,MS,"12,318",4
+Niceville ,FL,"12,313",4
+Kewanee ,IL,"12,302",4
+Peru ,IN,"12,301",4
+Woodward ,OK,"12,299",4
+East Wenatchee ,WA,"12,286",4
+Troy ,MO,"12,270",4
+Bucyrus ,OH,"12,252",4
+Markham ,IL,"12,248",4
+Avon,IN,"12,238",4
+Taylorville ,IL,"12,238",4
+Long Beach ,MS,"12,234",4
+Grass Valley ,CA,"12,232",4
+Wauconda,IL,"12,219",4
+Cleveland ,MS,"12,218",4
+Marion ,AR,"12,217",4
+Portales ,NM,"12,215",4
+Escanaba ,MI,"12,214",4
+Grand Terrace ,CA,"12,204",4
+Hudson ,WI,"12,196",4
+Wanaque,NJ,"12,195",4
+Patchogue,NY,"12,194",4
+Helena-West Helena ,AR,"12,190",4
+Rantoul,IL,"12,189",4
+Kelso ,WA,"12,188",4
+Ventnor City ,NJ,"12,187",4
+Robstown ,TX,"12,179",4
+Monroe ,OH,"12,178",4
+Franklin Park,PA,"12,172",4
+Clawson ,MI,"12,157",4
+Middletown,DE,"12,152",4
+North Palm Beach,FL,"12,149",4
+Green River ,WY,"12,149",4
+Marshall ,MO,"12,118",4
+Abbeville ,LA,"12,103",4
+McFarland ,CA,"12,098",4
+Lower Burrell ,PA,"12,087",4
+Dunkirk ,NY,"12,085",4
+Gladstone ,OR,"12,079",4
+Elizabethtown,PA,"12,069",4
+West Plains ,MO,"12,045",4
+Sauk Rapids ,MN,"12,013",4
+Kilgore ,TX,"12,010",4
+Hendersonville ,NC,"12,005",4
+Mounds View ,MN,"12,005",4
+Excelsior Springs ,MO,"12,002",4
+Seagoville ,TX,"11,998",4
+East Liverpool ,OH,"11,996",4
+San Anselmo,CA,"11,986",4
+Hidalgo ,TX,"11,984",4
+Mount Washington ,KY,"11,980",4
+Somersworth ,NH,"11,967",4
+South Sioux City ,NE,"11,936",4
+Cocoa Beach ,FL,"11,920",4
+West Paterson,NJ,"11,908",4
+New Providence,NJ,"11,905",4
+The Dalles ,OR,"11,897",4
+Fort Atkinson ,WI,"11,895",4
+East Bethel ,MN,"11,895",4
+Plano ,IL,"11,886",4
+Red Bank,NJ,"11,866",4
+Poquoson ,VA,"11,829",4
+Chubbuck ,ID,"11,828",4
+Riverview ,MI,"11,817",4
+Bastrop ,LA,"11,814",4
+Lincolnwood,IL,"11,810",4
+Two Rivers ,WI,"11,807",4
+Martinsville ,IN,"11,800",4
+Picayune ,MS,"11,787",4
+Evanston ,WY,"11,781",4
+Salem ,OH,"11,781",4
+Buford ,GA,"11,780",4
+Monticello ,MN,"11,780",4
+Mooresville,IN,"11,763",4
+Satellite Beach ,FL,"11,762",4
+Beaufort ,SC,"11,755",4
+Cambridge ,MD,"11,752",4
+Lynden ,WA,"11,737",4
+Tehachapi ,CA,"11,736",4
+Loveland ,OH,"11,734",4
+Federal Heights ,CO,"11,732",4
+Amherst ,OH,"11,724",4
+Plover,WI,"11,720",4
+Brown Deer,WI,"11,716",4
+Garden City ,ID,"11,713",4
+Marysville ,CA,"11,700",4
+Larkspur ,CA,"11,693",4
+Irmo,SC,"11,684",4
+Uniontown ,PA,"11,682",4
+Fenton ,MI,"11,678",4
+Los Alamitos ,CA,"11,656",4
+Henderson ,TX,"11,631",4
+King City ,CA,"11,627",4
+Coatesville ,PA,"11,624",4
+Muskegon Heights ,MI,"11,623",4
+Franklin Lakes,NJ,"11,619",4
+Seven Hills ,OH,"11,616",4
+Grafton,WI,"11,613",4
+Fernandina Beach ,FL,"11,610",4
+Morgan City ,LA,"11,604",4
+Lilburn ,GA,"11,599",4
+Sedona ,AZ,"11,599",4
+Crossville ,TN,"11,599",4
+Mendota Heights ,MN,"11,594",4
+Schiller Park,IL,"11,573",4
+Red Bank ,TN,"11,573",4
+North Liberty ,IA,"11,561",4
+Webb City ,MO,"11,532",4
+Seabrook ,TX,"11,525",4
+Alton ,TX,"11,523",4
+Cordele ,GA,"11,518",4
+Camden ,AR,"11,512",4
+Gloucester City ,NJ,"11,503",4
+Eunice ,LA,"11,500",4
+Winfield ,KS,"11,497",4
+Verona ,WI,"11,486",4
+Norton ,OH,"11,472",4
+Cornelius ,OR,"11,464",4
+Northlake ,IL,"11,462",4
+Urbana ,OH,"11,442",4
+Haddonfield,NJ,"11,442",4
+Port Lavaca ,TX,"11,432",4
+Freehold,NJ,"11,425",4
+Yazoo City ,MS,"11,425",4
+Douglas ,GA,"11,413",4
+Cottonwood ,AZ,"11,412",4
+Hasbrouck Heights,NJ,"11,410",4
+Crestwood ,MO,"11,408",4
+Burr Ridge,IL,"11,398",4
+Washington ,IN,"11,397",4
+Cloquet ,MN,"11,387",4
+Ravenna ,OH,"11,381",4
+Yeadon,PA,"11,367",4
+Ferndale ,WA,"11,359",4
+Tuskegee ,AL,"11,357",4
+Vidalia ,GA,"11,355",4
+Choctaw ,OK,"11,354",4
+Coshocton ,OH,"11,353",4
+Emmaus,PA,"11,349",4
+Azle ,TX,"11,347",4
+New Baltimore ,MI,"11,346",4
+Somers Point ,NJ,"11,343",4
+Fortuna ,CA,"11,329",4
+Manassas Park ,VA,"11,319",4
+Neosho ,MO,"11,317",4
+Fairfield ,AL,"11,316",4
+Leeds ,AL,"11,312",4
+Elk City ,OK,"11,311",4
+Pine Hill,NJ,"11,308",4
+Ironton ,OH,"11,307",4
+Wallington,NJ,"11,296",4
+Shelbyville ,KY,"11,294",4
+West Point ,MS,"11,292",4
+Waunakee,WI,"11,290",4
+Clayton ,CA,"11,278",4
+Pontiac ,IL,"11,258",4
+Niles ,MI,"11,258",4
+Roma ,TX,"11,257",4
+North St. Paul ,MN,"11,247",4
+Festus ,MO,"11,246",4
+Baraboo ,WI,"11,244",4
+Canyon Lake ,CA,"11,243",4
+Bardstown ,KY,"11,242",4
+Lyndon ,KY,"11,242",4
+Woodinville ,WA,"11,240",4
+Alexandria ,MN,"11,237",4
+Fulton ,NY,"11,219",4
+Chamblee ,GA,"11,202",4
+Munhall,PA,"11,199",4
+Lakeway ,TX,"11,193",4
+Cambridge ,OH,"11,192",4
+River Forest,IL,"11,176",4
+Bellmawr,NJ,"11,176",4
+Kings Mountain ,NC,"11,175",4
+Port Washington ,WI,"11,174",4
+Shiloh,IL,"11,173",4
+Falls Church ,VA,"11,169",4
+Canandaigua ,NY,"11,168",4
+Portland ,TN,"11,154",4
+Dobbs Ferry,NY,"11,134",4
+Glen Rock,NJ,"11,131",4
+Arkadelphia ,AR,"11,130",4
+Scotts Valley ,CA,"11,128",4
+Little Chute,WI,"11,121",4
+Ogdensburg ,NY,"11,119",4
+Lighthouse Point ,FL,"11,118",4
+Beachwood ,OH,"11,108",4
+Lancaster,NY,"11,108",4
+Cedarburg ,WI,"11,101",4
+Fredericksburg ,TX,"11,098",4
+Bluefield ,WV,"11,093",4
+Suffern,NY,"11,088",4
+Fox Lake,IL,"11,087",4
+Magnolia ,AR,"11,081",4
+Chino Valley,AZ,"11,078",4
+Glenn Heights ,TX,"11,078",4
+Mexico ,MO,"11,074",4
+Arkansas City ,KS,"11,070",4
+Oskaloosa ,IA,"11,069",4
+Parsons ,KS,"11,065",4
+Kingsburg ,CA,"11,064",4
+Port Royal,SC,"11,064",4
+Fredonia,NY,"11,064",4
+Vidor ,TX,"11,063",4
+Crestwood,IL,"11,051",4
+Guthrie ,OK,"11,043",4
+Plymouth ,IN,"11,038",4
+Worthington ,MN,"11,036",4
+Huron ,SD,"11,033",4
+Campton Hills,IL,"11,031",4
+Tarrytown,NY,"11,031",4
+Pompton Lakes,NJ,"11,031",4
+Haverstraw,NY,"11,029",4
+Fairburn ,GA,"11,024",4
+Bolivar ,MO,"11,013",4
+Blackfoot ,ID,"11,012",4
+Campbellsville ,KY,"11,010",4
+Lewisburg ,TN,"11,003",4
+Rochester ,MI,"11,002",4
+St. Albans ,WV,"10,996",4
+Artesia ,NM,"10,994",4
+Ontario ,OR,"10,991",4
+Spencer ,IA,"10,986",4
+Cedar Lake,IN,"10,981",4
+Wood River ,IL,"10,973",4
+Healdsburg ,CA,"10,971",4
+St. Peter ,MN,"10,971",4
+South Lyon ,MI,"10,959",4
+Grosse Pointe Park ,MI,"10,956",4
+Lake Grove,NY,"10,948",4
+Burlington ,WI,"10,930",4
+Vernon ,TX,"10,924",4
+Sturgis ,MI,"10,916",4
+Newberry ,SC,"10,907",4
+Fort Madison ,IA,"10,897",4
+Signal Hill ,CA,"10,882",4
+Suamico,WI,"10,881",4
+Sedro-Woolley ,WA,"10,871",4
+Trenton ,OH,"10,866",4
+Lincolnton ,NC,"10,859",4
+West Richland ,WA,"10,857",4
+Ridgefield,NJ,"10,851",4
+Camp Verde,AZ,"10,849",4
+Hillsborough,CA,"10,844",4
+Beachwood,NJ,"10,835",4
+Sierra Madre ,CA,"10,834",4
+Wabash ,IN,"10,815",4
+Benton Harbor ,MI,"10,814",4
+Merriam ,KS,"10,814",4
+Palatka ,FL,"10,813",4
+Indianola ,MS,"10,805",4
+Marinette ,WI,"10,800",4
+Manville,NJ,"10,800",4
+Maryville ,MO,"10,800",4
+Lawrenceburg ,TN,"10,778",4
+El Campo ,TX,"10,773",4
+Clute ,TX,"10,765",4
+Vermilion ,OH,"10,754",4
+Calera ,AL,"10,742",4
+Norcross ,GA,"10,737",4
+Galion ,OH,"10,737",4
+Struthers ,OH,"10,734",4
+Greensburg ,IN,"10,730",4
+Oneida ,NY,"10,723",4
+Sebring ,FL,"10,714",4
+Town and Country ,MO,"10,710",4
+South Miami ,FL,"10,707",4
+Kennett ,MO,"10,707",4
+Guymon ,OK,"10,702",4
+Westwood,NJ,"10,699",4
+Lansing ,KS,"10,691",4
+Enumclaw ,WA,"10,684",4
+Chatham,IL,"10,676",4
+River Edge,NJ,"10,674",4
+Webster ,TX,"10,665",4
+Bonham ,TX,"10,660",4
+Sweetwater ,TX,"10,657",4
+Orange Cove ,CA,"10,641",4
+Lansdowne,PA,"10,638",4
+Lincoln Park,NJ,"10,635",4
+Aliquippa ,PA,"10,631",4
+Mebane ,NC,"10,624",4
+Totowa,NJ,"10,621",4
+Grand Haven ,MI,"10,608",4
+Oil City ,PA,"10,598",4
+Dallas ,GA,"10,584",4
+Petal ,MS,"10,575",4
+Richmond Hill ,GA,"10,571",4
+Lindsay ,CA,"10,571",4
+Union City ,TN,"10,569",4
+Loganville ,GA,"10,562",4
+Keansburg,NJ,"10,550",4
+Superior,CO,"10,549",4
+Fort Morgan ,CO,"10,539",4
+Massena,NY,"10,539",4
+Anderson ,CA,"10,538",4
+Vienna ,WV,"10,536",4
+Jennings ,LA,"10,529",4
+Guttenberg,NJ,"10,528",4
+Reading ,OH,"10,523",4
+Minooka,IL,"10,514",4
+Coldwater ,MI,"10,514",4
+Vermillion ,SD,"10,495",4
+Bedford Heights ,OH,"10,485",4
+Piedmont ,CA,"10,481",4
+Monroe ,WI,"10,481",4
+Santa Fe ,TX,"10,479",4
+Little Ferry,NJ,"10,477",4
+Waupun ,WI,"10,469",4
+East Grand Rapids ,MI,"10,467",4
+Lindon ,UT,"10,466",4
+Alpena ,MI,"10,465",4
+Jesup ,GA,"10,459",4
+Montgomery ,OH,"10,458",4
+Kendallville ,IN,"10,452",4
+Woodbury ,NJ,"10,450",4
+East Rockaway,NY,"10,438",4
+Macedonia ,OH,"10,435",4
+Worth,IL,"10,426",4
+Steger,IL,"10,421",4
+Burkburnett ,TX,"10,418",4
+North Branch ,MN,"10,417",4
+Brooklyn ,OH,"10,410",4
+Snyder ,TX,"10,406",4
+Atchison ,KS,"10,402",4
+Wyomissing,PA,"10,399",4
+Mount Kisco,NY,"10,393",4
+East Stroudsburg,PA,"10,390",4
+Keokuk ,IA,"10,387",4
+Cheney ,WA,"10,385",4
+Springdale ,OH,"10,384",4
+Hope ,AR,"10,378",4
+Barrington,IL,"10,374",4
+Bound Brook,NJ,"10,365",4
+Haysville ,KS,"10,364",4
+Lumberton ,TX,"10,354",4
+Grain Valley ,MO,"10,352",4
+Andover ,KS,"10,351",4
+Mendota ,CA,"10,339",4
+Morro Bay ,CA,"10,333",4
+Silver City,NM,"10,329",4
+Robinson ,TX,"10,327",4
+Brownsville ,TN,"10,316",4
+Coffeyville ,KS,"10,312",4
+Denham Springs ,LA,"10,308",4
+Davidson,NC,"10,305",4
+Platteville ,WI,"10,297",4
+Boerne ,TX,"10,283",4
+Corning ,NY,"10,281",4
+Leon Valley ,TX,"10,269",4
+Doraville ,GA,"10,268",4
+Coolidge ,AZ,"10,261",4
+Tarboro,NC,"10,257",4
+Big Rapids ,MI,"10,257",4
+Wasilla ,AK,"10,256",4
+Celina ,OH,"10,255",4
+Sauk Village,IL,"10,254",4
+Pleasant Grove ,AL,"10,254",4
+West Haverstraw,NY,"10,252",4
+Lyons,IL,"10,250",4
+Gulf Shores ,AL,"10,248",4
+Cadillac ,MI,"10,245",4
+Bellefontaine Neighbors ,MO,"10,241",4
+Tomball ,TX,"10,234",4
+Newman ,CA,"10,226",4
+Summit,IL,"10,223",4
+Fairmont ,MN,"10,221",4
+Berwick,PA,"10,216",4
+Sleepy Hollow,NY,"10,212",4
+Van Wert ,OH,"10,211",4
+Martin ,TN,"10,208",4
+Pella ,IA,"10,208",4
+Galena Park ,TX,"10,207",4
+Nanticoke ,PA,"10,199",4
+Shasta Lake ,CA,"10,192",4
+Mayfield ,KY,"10,186",4
+Weatherford ,OK,"10,185",4
+Richmond Heights ,OH,"10,174",4
+Millington ,TN,"10,165",4
+Cape Canaveral ,FL,"10,147",4
+Greencastle ,IN,"10,145",4
+Andrews ,TX,"10,142",4
+Lexington ,NE,"10,126",4
+Cedartown ,GA,"10,123",4
+Washington ,NC,"10,112",4
+Westwego ,LA,"10,098",4
+Prineville ,OR,"10,085",4
+Mount Holly ,NC,"10,081",4
+Jacksonville ,AL,"10,077",4
+East Rutherford,NJ,"10,074",4
+Lantana,FL,"10,071",4
+Girard ,OH,"10,069",4
+Farmersville ,CA,"10,056",4
+Sussex,WI,"10,048",4
+White House ,TN,"10,048",4
+Columbia,PA,"10,033",4
+Riverton ,WY,"10,032",4
+Fort Mill,SC,"10,032",4
+Dunn ,NC,"10,029",4
+Manchester ,TN,"10,012",4
+Spearfish ,SD,"10,010",4
+DeRidder ,LA,"10,008",4
+Placerville ,CA,"9,994",4
+River Grove,IL,"9,992",4
+Carroll ,IA,"9,985",4
+Winfield,IL,"9,984",4
+Lancaster ,SC,"9,981",4
+Lawrenceburg ,KY,"9,978",4
+Lovington ,NM,"9,975",4
+Paris ,TN,"9,966",4
+Exeter ,CA,"9,963",4
+Valley ,AL,"9,962",4
+Waynesboro,PA,"9,947",4
+Newport ,OR,"9,943",4
+Marysville ,MI,"9,943",4
+Florida City ,FL,"9,935",4
+Waconia ,MN,"9,934",4
+Bethalto,IL,"9,933",4
+Middlesborough ,KY,"9,929",4
+St. Pete Beach ,FL,"9,927",4
+Forest Acres ,SC,"9,925",4
+Jacinto City ,TX,"9,923",4
+Great Neck,NY,"9,923",4
+Amityville,NY,"9,920",4
+Portage ,WI,"9,919",4
+Glenpool ,OK,"9,914",4
+Elgin ,TX,"9,909",4
+Darby,PA,"9,903",4
+Sonoma ,CA,"9,893",4
+Newcastle ,WA,"9,885",4
+Alpine ,UT,"9,885",4
+Weddington,NC,"9,882",4
+Waynesville,NC,"9,877",4
+Winslow ,AZ,"9,867",4
+Beverly Hills,MI,"9,865",4
+Jeannette ,PA,"9,859",4
+Ecorse ,MI,"9,858",4
+Harvard ,IL,"9,855",4
+Astoria ,OR,"9,851",4
+Hillsdale,NJ,"9,848",4
+Rochelle ,IL,"9,847",4
+Northampton,PA,"9,841",4
+Potsdam,NY,"9,841",4
+Troy ,IL,"9,840",4
+Farmington ,MI,"9,839",4
+Heber ,UT,"9,830",4
+Bel Air,MD,"9,826",4
+Safford ,AZ,"9,823",4
+Sunbury ,PA,"9,819",4
+Waterloo ,IL,"9,813",4
+Melvindale ,MI,"9,812",4
+Peru ,IL,"9,810",4
+Rockport ,TX,"9,810",4
+Cairo ,GA,"9,809",4
+Jackson,WY,"9,806",4
+Fairview ,OR,"9,805",4
+Orange City ,FL,"9,799",4
+Big Lake ,MN,"9,795",4
+The Village ,OK,"9,769",4
+Watervliet ,NY,"9,765",4
+Mission ,KS,"9,765",4
+Harrisonville ,MO,"9,749",4
+Highland ,IL,"9,748",4
+Key Biscayne,FL,"9,735",4
+St. Francis ,WI,"9,733",4
+Edgewood ,WA,"9,711",4
+Sumner ,WA,"9,704",4
+Howell ,MI,"9,694",4
+Espanola ,NM,"9,691",4
+Union ,MO,"9,684",4
+Pleasanton ,TX,"9,681",4
+Irondale ,AL,"9,677",4
+Merrill ,WI,"9,670",4
+Fort Oglethorpe ,GA,"9,663",4
+Jefferson Hills,PA,"9,660",4
+Silverton ,OR,"9,649",4
+Sugar Grove,IL,"9,645",4
+North Bend ,OR,"9,636",4
+Bristol,PA,"9,635",4
+Edgewater,NJ,"9,635",4
+Clinton ,TN,"9,625",4
+Capitola ,CA,"9,612",4
+Arden Hills ,MN,"9,608",4
+Monmouth ,OR,"9,607",4
+Laurens ,SC,"9,599",4
+New Hyde Park,NY,"9,596",4
+Morrisville,PA,"9,594",4
+Steamboat Springs ,CO,"9,592",4
+Storm Lake ,IA,"9,591",4
+London ,OH,"9,587",4
+Emeryville ,CA,"9,583",4
+Harrisburg ,IL,"9,582",4
+Kinnelon,NJ,"9,582",4
+Bellmead ,TX,"9,579",4
+Havre ,MT,"9,575",4
+Decatur ,IN,"9,574",4
+Little Canada ,MN,"9,570",4
+Perry ,IA,"9,569",4
+Rye Brook,NY,"9,568",4
+Berlin ,NH,"9,556",4
+Miami Shores,FL,"9,551",4
+Cedar Hills ,UT,"9,551",4
+North College Hill ,OH,"9,549",4
+Mound ,MN,"9,546",4
+Palm Beach,FL,"9,535",4
+Smithfield ,UT,"9,535",4
+Marathon ,FL,"9,526",4
+Raymondville ,TX,"9,522",4
+Brentwood,PA,"9,522",4
+Waldwick,NJ,"9,522",4
+LaSalle ,IL,"9,520",4
+Morehead City,NC,"9,513",4
+Batesville ,AR,"9,511",4
+Hackettstown,NJ,"9,511",4
+Mount Airy ,NC,"9,501",4
+Louisville ,OH,"9,459",4
+Wapakoneta ,OH,"9,438",4
+Waseca ,MN,"9,438",4
+Warr Acres ,OK,"9,427",4
+Garden City ,GA,"9,414",4
+Baker City ,OR,"9,413",4
+Warren ,PA,"9,403",4
+Hamburg,NY,"9,400",4
+Burlington ,NJ,"9,396",4
+Grandview ,WA,"9,392",4
+Gonzales ,LA,"9,390",4
+Harrison ,OH,"9,387",4
+Berkeley ,MO,"9,387",4
+Clinton ,MO,"9,381",4
+Independence ,OR,"9,375",4
+Belmont ,NC,"9,374",4
+Oregon,WI,"9,369",4
+Hermantown ,MN,"9,361",4
+Lone Tree ,CO,"9,348",4
+Columbia ,IL,"9,342",4
+Archdale ,NC,"9,332",4
+Rainbow City ,AL,"9,324",4
+Monmouth ,IL,"9,321",4
+Bluffton ,IN,"9,320",4
+Groton ,CT,"9,316",4
+Eureka ,MO,"9,316",4
+Shelby ,OH,"9,311",4
+Flossmoor,IL,"9,309",4
+Johnstown,CO,"9,309",4
+Cody ,WY,"9,309",4
+Rock Falls ,IL,"9,307",4
+Alachua ,FL,"9,306",4
+Harahan ,LA,"9,306",4
+Waverly ,IA,"9,298",4
+Pryor Creek ,OK,"9,293",4
+Paris ,KY,"9,286",4
+Cameron ,MO,"9,279",4
+Shelton ,WA,"9,276",4
+Monticello ,AR,"9,270",4
+Red Oak ,TX,"9,255",4
+Tipp City ,OH,"9,254",4
+Covington ,TN,"9,253",4
+Maysville ,KY,"9,246",4
+Corte Madera,CA,"9,245",4
+Independence ,KS,"9,245",4
+Elkhorn ,WI,"9,244",4
+Craig ,CO,"9,241",4
+Commerce ,TX,"9,238",4
+Bernalillo,NM,"9,237",4
+Damascus ,OR,"9,236",4
+Grovetown ,GA,"9,224",4
+Alma ,MI,"9,223",4
+Fairfield ,IA,"9,218",4
+Ellisville ,MO,"9,212",4
+Carbondale ,PA,"9,208",4
+Pitman,NJ,"9,206",4
+Oak Grove ,KY,"9,205",4
+Shepherdsville ,KY,"9,203",4
+Rifle ,CO,"9,202",4
+Thomaston ,GA,"9,191",4
+Fitzgerald ,GA,"9,185",4
+Highland Park,TX,"9,184",4
+Grinnell ,IA,"9,167",4
+Toppenish ,WA,"9,166",4
+Humboldt ,TN,"9,159",4
+Jerome ,ID,"9,157",4
+Covington ,LA,"9,155",4
+Toccoa ,GA,"9,150",4
+Wharton ,TX,"9,150",4
+Taft ,CA,"9,147",4
+Maywood,NJ,"9,145",4
+Economy,PA,"9,136",4
+Port Townsend ,WA,"9,133",4
+Sheffield ,AL,"9,127",4
+Le Mars ,IA,"9,127",4
+Trinidad ,CO,"9,125",4
+Cottage Grove ,OR,"9,124",4
+Port Jervis ,NY,"9,111",4
+Moundsville ,WV,"9,109",4
+Burley ,ID,"9,105",4
+Albion ,MI,"9,103",4
+Royse City ,TX,"9,101",4
+Coweta ,OK,"9,096",4
+Newark,NY,"9,096",4
+Ruidoso,NM,"9,096",4
+Richmond Heights ,MO,"9,093",4
+Essex Junction,VT,"9,056",4
+Beaver Falls ,PA,"9,055",4
+Glenwood Springs ,CO,"9,053",4
+Grantsville ,UT,"9,049",4
+Presque Isle ,ME,"9,045",4
+Orange Park,FL,"9,043",4
+Crete,IL,"9,041",4
+Ingleside ,TX,"9,039",4
+Glencoe,IL,"9,038",4
+Brewer ,ME,"9,035",4
+Lititz,PA,"9,034",4
+Avon Park ,FL,"9,033",4
+Elwood ,IN,"9,027",4
+Delta ,CO,"9,020",4
+Lapeer ,MI,"9,018",4
+Bennettsville ,SC,"9,012",4
+Scott ,LA,"9,010",4
+Minneola ,FL,"9,006",4
+West Point ,UT,"9,001",4
+Hondo ,TX,"8,992",4
+Socorro ,NM,"8,989",4
+Charlotte ,MI,"8,984",4
+Pulaski,VA,"8,983",4
+Andalusia ,AL,"8,978",4
+College Place ,WA,"8,978",4
+Stuttgart ,AR,"8,971",4
+Stallings,NC,"8,970",4
+Malvern ,AR,"8,958",4
+Warrenton,VA,"8,947",4
+Brownfield ,TX,"8,947",4
+Hillsboro ,TX,"8,941",4
+Monett ,MO,"8,939",4
+Sweet Home ,OR,"8,930",4
+Russellville ,AL,"8,918",4
+Park Ridge,NJ,"8,917",4
+Edgewood ,KY,"8,910",4
+Sheffield Lake ,OH,"8,905",4
+Woodbury,NY,"8,904",4
+North Haledon,NJ,"8,904",4
+Heath ,OH,"8,903",4
+Clinton ,SC,"8,892",4
+Sitka  and,AK,"8,889",4
+Bath ,ME,"8,885",4
+Audubon,NJ,"8,883",4
+Saline ,MI,"8,882",4
+Lamesa ,TX,"8,880",4
+Rockingham ,NC,"8,880",4
+Malverne,NY,"8,880",4
+La Plata,MD,"8,879",4
+Franklin ,VA,"8,877",4
+Waterford ,CA,"8,875",4
+Grants ,NM,"8,871",4
+Clinton ,NC,"8,868",4
+Farmingdale,NY,"8,865",4
+Park Hills ,MO,"8,851",4
+Hoquiam ,WA,"8,848",4
+Anaconda,MT,"8,843",4
+Chanute ,KS,"8,843",4
+Middletown,PA,"8,841",4
+Barre ,VT,"8,837",4
+Clanton ,AL,"8,836",4
+DeForest,WI,"8,835",4
+Sparta ,WI,"8,823",4
+Sandy ,OR,"8,823",4
+Norwalk ,IA,"8,821",4
+Holly Springs ,GA,"8,818",4
+Napoleon ,OH,"8,817",4
+Woodway ,TX,"8,814",4
+Aransas Pass ,TX,"8,810",4
+Roscoe,IL,"8,807",4
+Oak Brook,IL,"8,803",4
+Springfield ,FL,"8,803",4
+Pewaukee,WI,"8,801",4
+Snohomish ,WA,"8,801",4
+Kaufman ,TX,"8,794",4
+Sturgeon Bay ,WI,"8,792",4
+Mount Pleasant ,IA,"8,775",4
+Flat Rock ,MI,"8,771",4
+Boonville ,MO,"8,770",4
+Clinton ,OK,"8,768",4
+Cushing ,OK,"8,767",4
+Swissvale,PA,"8,765",4
+Mount Airy,MD,"8,761",4
+Brandon ,SD,"8,757",4
+Matawan,NJ,"8,754",4
+Booneville ,MS,"8,749",4
+Alamosa ,CO,"8,745",4
+Grand Rapids ,MN,"8,743",4
+Sallisaw ,OK,"8,742",4
+Rawlins ,WY,"8,740",4
+Willowbrook,IL,"8,739",4
+Mechanicsburg,PA,"8,721",4
+Canonsburg,PA,"8,717",4
+Franklin ,NH,"8,713",4
+Lake Villa,IL,"8,709",4
+Chillicothe ,MO,"8,706",4
+Woods Cross ,UT,"8,705",4
+Paris ,IL,"8,699",4
+Burlington ,WA,"8,697",4
+Vernal ,UT,"8,696",4
+Florence ,OR,"8,694",4
+Augusta ,KS,"8,693",4
+Hartland,WI,"8,692",4
+Tiburon,CA,"8,676",4
+Lake Park,FL,"8,668",4
+Roxboro ,NC,"8,667",4
+Reedsburg ,WI,"8,666",4
+Shawano ,WI,"8,666",4
+Tomah ,WI,"8,664",4
+Closter,NJ,"8,659",4
+Milton ,FL,"8,656",4
+Quakertown,PA,"8,643",4
+Oxford ,NC,"8,641",4
+Perkasie,PA,"8,636",4
+Greenwood ,AR,"8,635",4
+Maplewood ,MO,"8,626",4
+Granbury ,TX,"8,620",4
+Alexandria ,KY,"8,620",4
+Itasca,IL,"8,617",4
+Cresskill,NJ,"8,615",4
+Grosse Pointe Farms ,MI,"8,614",4
+Tecumseh ,MI,"8,610",4
+Cortez ,CO,"8,609",4
+Kirby ,TX,"8,606",4
+Alcoa ,TN,"8,606",4
+Smyrna,DE,"8,603",4
+Des Peres ,MO,"8,603",4
+Rayne ,LA,"8,601",4
+Kearney ,MO,"8,599",4
+Leonia,NJ,"8,597",4
+Centerton ,AR,"8,593",4
+Bridge City ,TX,"8,593",4
+Los Altos Hills,CA,"8,592",4
+Colonie,NY,"8,591",4
+Island Lake,IL,"8,588",4
+Clarendon Hills,IL,"8,582",4
+Clarksville ,AR,"8,579",4
+Pismo Beach ,CA,"8,573",4
+Siler City,NC,"8,564",4
+Manteno,IL,"8,562",4
+Madeira ,OH,"8,558",4
+Lock Haven ,PA,"8,541",4
+Willoughby Hills ,OH,"8,540",4
+Gonzales ,CA,"8,537",4
+Highland Heights ,OH,"8,533",4
+Lewistown,PA,"8,528",4
+Fallon ,NV,"8,525",4
+Old Forge,PA,"8,524",4
+Yorktown,IN,"8,523",4
+Lynwood,IL,"8,519",4
+Haledon,NJ,"8,517",4
+Washington Terrace ,UT,"8,515",4
+Milford ,DE,"8,511",4
+Hornell ,NY,"8,508",4
+Delavan ,WI,"8,505",4
+Georgetown ,SC,"8,501",4
+Margate City ,NJ,"8,501",4
+Glenwood,IL,"8,489",4
+Holmen,WI,"8,487",4
+Plymouth ,MI,"8,487",4
+Virginia ,MN,"8,480",4
+Graham ,TX,"8,479",4
+Thief River Falls ,MN,"8,472",4
+Westlake Village ,CA,"8,469",4
+Boonton,NJ,"8,469",4
+Connellsville ,PA,"8,468",4
+North Logan ,UT,"8,466",4
+St. Joseph ,MI,"8,458",4
+Upper Saddle River,NJ,"8,454",4
+River Rouge ,MI,"8,449",4
+Princeton ,IN,"8,447",4
+Oakwood ,OH,"8,439",4
+Johnstown ,NY,"8,438",4
+Wynne ,AR,"8,437",4
+Campbell ,OH,"8,436",4
+Guntersville ,AL,"8,422",4
+Dormont,PA,"8,420",4
+Grimes ,IA,"8,419",4
+Pleasant Hill ,IA,"8,414",4
+Runnemede,NJ,"8,410",4
+Conshohocken,PA,"8,409",4
+Olney ,IL,"8,407",4
+Southside ,AL,"8,407",4
+Lowell,IN,"8,405",4
+Santaquin ,UT,"8,400",4
+Bradford ,PA,"8,391",4
+Absecon ,NJ,"8,389",4
+Orrville ,OH,"8,387",4
+Cheviot ,OH,"8,385",4
+Oberlin ,OH,"8,381",4
+Bastrop ,TX,"8,378",4
+Jerseyville ,IL,"8,373",4
+Lake Geneva ,WI,"8,371",4
+Collingdale,PA,"8,365",4
+West Haven ,UT,"8,357",4
+Wyoming ,OH,"8,355",4
+Boaz ,AL,"8,349",4
+Liberty ,TX,"8,347",4
+Latrobe ,PA,"8,347",4
+Brockport,NY,"8,342",4
+Hillside,IL,"8,341",4
+St. Anthony ,MN,"8,341",4
+Airmont,NY,"8,339",4
+West Long Branch,NJ,"8,339",4
+Sandpoint ,ID,"8,337",4
+Nevada ,MO,"8,327",4
+Ludington ,MI,"8,324",4
+Menominee ,MI,"8,324",4
+Corbin ,KY,"8,324",4
+Mount Rainier ,MD,"8,322",4
+Bryan ,OH,"8,314",4
+Indian Harbour Beach ,FL,"8,311",4
+Clay ,AL,"8,308",4
+Tuscumbia ,AL,"8,308",4
+Perryton ,TX,"8,304",4
+Eagle Point ,OR,"8,302",4
+Brooksville ,FL,"8,292",4
+Mentor-on-the-Lake ,OH,"8,288",4
+Columbia City ,IN,"8,283",4
+Wytheville,VA,"8,282",4
+Whitefish ,MT,"8,281",4
+Brazil ,IN,"8,272",4
+Riverside,IL,"8,272",4
+Baxter ,MN,"8,271",4
+New Richmond ,WI,"8,259",4
+Poteau ,OK,"8,258",4
+Rice Lake ,WI,"8,257",4
+Live Oak ,CA,"8,245",4
+Oak Grove ,MN,"8,245",4
+Plymouth ,WI,"8,241",4
+Chatham,NJ,"8,212",4
+Palmer ,AK,"8,201",4
+Fort Valley ,GA,"8,200",4
+Dardenne Prairie ,MO,"8,197",4
+La Follette ,TN,"8,194",4
+Ladue ,MO,"8,193",4
+Harrodsburg ,KY,"8,192",4
+West Frankfort ,IL,"8,190",4
+Sunset Hills ,MO,"8,190",4
+Ville Platte ,LA,"8,190",4
+Belgrade ,MT,"8,185",4
+Murphysboro ,IL,"8,184",4
+Oak Island,NC,"8,180",4
+New Albany ,MS,"8,178",4
+Knightdale,NC,"8,174",4
+Perryville ,MO,"8,172",4
+University Park,IL,"8,171",4
+Olmsted Falls ,OH,"8,168",4
+Monroe,NY,"8,168",4
+Snoqualmie ,WA,"8,161",4
+Jefferson City ,TN,"8,156",4
+Greenville ,MI,"8,154",4
+Cloverdale ,CA,"8,153",4
+Poulsbo ,WA,"8,149",4
+Spotswood,NJ,"8,145",4
+Detroit Lakes ,MN,"8,141",4
+Oakdale ,LA,"8,140",4
+St. Marys ,OH,"8,138",4
+Center Line ,MI,"8,135",4
+Spring Lake,NC,"8,133",4
+Frederick,CO,"8,127",4
+Riverdale ,UT,"8,126",4
+Danville,IN,"8,124",4
+Little Falls ,MN,"8,121",4
+Ashland ,WI,"8,118",4
+Butler,NJ,"8,118",4
+Firestone,CO,"8,117",4
+Fife ,WA,"8,114",4
+Doylestown,PA,"8,113",4
+Alliance ,NE,"8,109",4
+Miles City ,MT,"8,102",4
+Long Grove,IL,"8,101",4
+Mason ,MI,"8,099",4
+Newton,NJ,"8,096",4
+Richland Hills ,TX,"8,094",4
+Fairview,TX,"8,093",4
+Lakeland ,TN,"8,093",4
+Caribou ,ME,"8,093",4
+Winnemucca ,NV,"8,085",4
+Wagoner ,OK,"8,081",4
+Smithville ,MO,"8,079",4
+Trophy Club,TX,"8,069",4
+Hawthorn Woods,IL,"8,067",4
+Lincoln City ,OR,"8,066",4
+Harwood Heights,IL,"8,058",4
+Kenton ,OH,"8,052",4
+Bay St. Louis ,MS,"8,052",4
+Breaux Bridge ,LA,"8,047",4
+Bay Minette ,AL,"8,043",4
+Gettysburg,PA,"8,040",4
+Price ,UT,"8,039",4
+Union ,SC,"8,039",4
+Seneca ,SC,"8,038",4
+Scotia,NY,"8,033",4
+Castle Shannon,PA,"8,028",4
+Mahtomedi ,MN,"8,025",4
+Monessen ,PA,"8,024",4
+Bluffdale ,UT,"8,016",4
+Ilion,NY,"8,015",4
+Port Jefferson,NY,"8,012",4
+Lenoir City ,TN,"8,010",4
+Abingdon,VA,"8,009",4
+Eaton ,OH,"8,005",4
+White Oak,PA,"8,003",4
+Franklin ,KY,"7,997",4
+Holly Springs ,MS,"7,994",4
+Briarcliff Manor,NY,"7,986",4
+Calumet Park,IL,"7,980",4
+Park City ,UT,"7,980",4
+Bellevue,PA,"7,980",4
+Philadelphia ,MS,"7,977",4
+West Dundee,IL,"7,975",4
+Lampasas ,TX,"7,975",4
+York ,SC,"7,967",4
+Ellwood City,PA,"7,966",4
+London ,KY,"7,962",4
+Lincolnshire,IL,"7,960",4
+Cleveland ,TX,"7,960",4
+Mapleton ,UT,"7,954",4
+Lamar ,CO,"7,953",4
+Port Orchard ,WA,"7,953",4
+Collegedale ,TN,"7,947",4
+Croton-on-Hudson,NY,"7,943",4
+Fort Scott ,KS,"7,941",4
+Downingtown,PA,"7,937",4
+Milan ,TN,"7,934",4
+Elsmere ,KY,"7,932",4
+Bridgeport ,WV,"7,928",4
+D'Iberville ,MS,"7,928",4
+Arab ,AL,"7,924",4
+Berlin,NJ,"7,922",4
+Carnegie,PA,"7,920",4
+Hastings-on-Hudson,NY,"7,919",4
+Antigo ,WI,"7,917",4
+Bogota,NJ,"7,917",4
+Osceola ,AR,"7,914",4
+Jefferson ,GA,"7,911",4
+Rensselaer ,NY,"7,907",4
+Decorah ,IA,"7,906",4
+Rincon,GA,"7,905",4
+Unionville,NC,"7,899",4
+Sheboygan Falls ,WI,"7,895",4
+Angola ,IN,"7,894",4
+Brookhaven,PA,"7,886",4
+Northfield ,NJ,"7,885",4
+South Boston,VA,"7,884",4
+Hailey ,ID,"7,883",4
+Batesville ,MS,"7,880",4
+North Bay Village ,FL,"7,878",4
+Black Mountain,NC,"7,877",4
+Chestnut Ridge,NY,"7,871",4
+Ivins ,UT,"7,870",4
+Fairview ,TN,"7,870",4
+York ,NE,"7,870",4
+Vinton,VA,"7,868",4
+Winchester ,TN,"7,862",4
+Rolling Hills Estates ,CA,"7,860",4
+Lexington ,TN,"7,860",4
+Crescent City ,CA,"7,852",4
+Pulaski ,TN,"7,847",4
+Monona ,WI,"7,837",4
+Clarkston ,GA,"7,836",4
+Chester ,IL,"7,835",4
+Clairton ,PA,"7,832",4
+Helotes ,TX,"7,831",4
+Bellevue ,OH,"7,831",4
+Versailles ,KY,"7,828",4
+Jefferson ,WI,"7,822",4
+Hartsville,TN,"7,822",4
+Clear Lake ,IA,"7,820",4
+Flushing ,MI,"7,815",4
+East Grand Forks ,MN,"7,812",4
+Lake Dallas ,TX,"7,811",4
+Rio Vista ,CA,"7,804",4
+Pecos ,TX,"7,804",4
+Heath ,TX,"7,793",4
+Crookston ,MN,"7,790",4
+Blair ,NE,"7,789",4
+Corrales,NM,"7,787",4
+Park City ,KS,"7,787",4
+Oradell,NJ,"7,780",4
+South Amboy ,NJ,"7,777",4
+Ojai ,CA,"7,775",4
+Silvis ,IL,"7,770",4
+McFarland,WI,"7,767",4
+Broussard ,LA,"7,767",4
+Sanger ,TX,"7,766",4
+Iron Mountain ,MI,"7,763",4
+Hillsdale ,MI,"7,762",4
+Montpelier ,VT,"7,760",4
+Fountain Inn ,SC,"7,760",4
+Pleasant Hills,PA,"7,751",4
+Bernardsville,NJ,"7,750",4
+Kenai ,AK,"7,742",4
+Wellington ,KS,"7,735",4
+Orono ,MN,"7,732",4
+Villa Hills ,KY,"7,727",4
+Whitehouse ,TX,"7,724",4
+Webster City ,IA,"7,720",4
+Wetumpka ,AL,"7,719",4
+Frostburg ,MD,"7,719",4
+Grove City,PA,"7,715",4
+Old Town ,ME,"7,709",4
+Morehead ,KY,"7,707",4
+Geneseo,NY,"7,702",4
+Summerfield,NC,"7,693",4
+Cambridge ,MN,"7,692",4
+Hubbard ,OH,"7,688",4
+Franklin ,LA,"7,680",4
+Gering ,NE,"7,679",4
+Northport,NY,"7,676",4
+Inverness,IL,"7,673",4
+Grand Ledge ,MI,"7,669",4
+Swainsboro ,GA,"7,667",4
+Dunbar ,WV,"7,664",4
+Pearsall ,TX,"7,663",4
+Dexter ,MO,"7,661",4
+Tallulah ,LA,"7,658",4
+Flatwoods ,KY,"7,655",4
+Branson ,MO,"7,651",4
+Stone Mountain ,GA,"7,650",4
+Rhinelander ,WI,"7,649",4
+DuBois ,PA,"7,648",4
+Groveland ,FL,"7,647",4
+Floresville ,TX,"7,639",4
+Payette ,ID,"7,637",4
+Hyrum ,UT,"7,636",4
+Ripley ,TN,"7,636",4
+Broadview,IL,"7,625",4
+Wilson,PA,"7,625",4
+Fort Lupton ,CO,"7,620",4
+Kenilworth,NJ,"7,619",4
+Huron ,CA,"7,606",4
+Calipatria ,CA,"7,594",4
+Creston ,IA,"7,594",4
+Haddon Heights,NJ,"7,589",4
+Wahpeton ,ND,"7,585",4
+Hales Corners,WI,"7,574",4
+Hillview ,KY,"7,572",4
+Bladensburg,MD,"7,568",4
+Montvale,NJ,"7,566",4
+Fort Mitchell ,KY,"7,562",4
+Navasota ,TX,"7,558",4
+Clayton,NJ,"7,553",4
+Grand Blanc ,MI,"7,551",4
+Pittston ,PA,"7,547",4
+LaFayette ,GA,"7,536",4
+Rogers ,MN,"7,536",4
+Donaldsonville ,LA,"7,527",4
+Tell City ,IN,"7,526",4
+Fort Stockton ,TX,"7,526",4
+Marengo ,IL,"7,520",4
+Sebastopol ,CA,"7,518",4
+Newport ,TN,"7,515",4
+Livingston ,MT,"7,500",4
+Princeton ,IL,"7,496",4
+Auburn ,GA,"7,496",4
+Lake Elmo ,MN,"7,484",4
+Ione ,CA,"7,480",4
+Aurora ,MO,"7,478",4
+Keyport,NJ,"7,476",4
+Charles City ,IA,"7,470",4
+Hartsville ,SC,"7,465",4
+Treasure Island ,FL,"7,455",4
+Calimesa ,CA,"7,454",4
+Bloomingdale,NJ,"7,454",4
+Wood-Ridge,NJ,"7,453",4
+Marble Falls ,TX,"7,451",4
+Olivette ,MO,"7,449",4
+Salem ,IL,"7,446",4
+Logan ,OH,"7,436",4
+McCook ,NE,"7,436",4
+Rockland ,ME,"7,436",4
+Atmore ,AL,"7,428",4
+Shorewood ,MN,"7,426",4
+Fruita ,CO,"7,418",4
+Woodlake ,CA,"7,418",4
+Atherton,CA,"7,406",4
+Mount Carmel ,IL,"7,404",4
+Newport ,AR,"7,404",4
+Mammoth Lakes,CA,"7,402",4
+Hempstead ,TX,"7,401",4
+Warrenton ,MO,"7,398",4
+Senatobia ,MS,"7,398",4
+Maryville,IL,"7,397",4
+Ripon ,WI,"7,396",4
+Farmville,VA,"7,396",4
+Greenville ,IL,"7,379",4
+Camp Hill,PA,"7,378",4
+Dayton ,TX,"7,371",4
+Kosciusko ,MS,"7,371",4
+Yreka ,CA,"7,368",4
+Shamokin ,PA,"7,367",4
+Kirtland ,OH,"7,362",4
+Chehalis ,WA,"7,361",4
+Alamo Heights ,TX,"7,353",4
+Jasper ,TX,"7,353",4
+Emerson,NJ,"7,353",4
+Demopolis ,AL,"7,350",4
+Palmyra,NJ,"7,350",4
+Huron ,OH,"7,348",4
+Ephrata ,WA,"7,344",4
+Millersville,PA,"7,341",4
+Sandwich ,IL,"7,337",4
+Atoka,TN,"7,334",4
+Carl Junction ,MO,"7,327",4
+Belen ,NM,"7,325",4
+Charlestown ,IN,"7,324",4
+Savannah ,TN,"7,320",4
+Stayton ,OR,"7,319",4
+Longboat Key,FL,"7,309",4
+Gonzales ,TX,"7,298",4
+Raritan,NJ,"7,289",4
+Conover ,NC,"7,286",4
+Ketchikan ,AK,"7,280",4
+Jersey Village ,TX,"7,279",4
+St. Johns ,MI,"7,278",4
+Inverness ,FL,"7,276",4
+Marshfield ,MO,"7,274",4
+Escalon ,CA,"7,271",4
+Pacific ,MO,"7,268",4
+Russellville ,KY,"7,268",4
+Lander ,WY,"7,264",4
+Rumson,NJ,"7,264",4
+Molalla ,OR,"7,263",4
+Amory ,MS,"7,262",4
+St. Francis ,MN,"7,261",4
+Seaford ,DE,"7,260",4
+Richland ,MS,"7,258",4
+Knoxville ,IA,"7,254",4
+Washington ,IA,"7,254",4
+St. Albans ,VT,"7,250",4
+Newcastle ,OK,"7,250",4
+Mount Joy,PA,"7,249",4
+Baldwinsville,NY,"7,247",4
+Wauseon ,OH,"7,246",4
+Centerville ,GA,"7,240",4
+Bloomfield ,NM,"7,234",4
+Mukwonago,WI,"7,232",4
+Southwest Ranches,FL,"7,229",4
+Dade City ,FL,"7,223",4
+Richfield ,UT,"7,217",4
+Linwood ,NJ,"7,216",4
+Live Oak ,FL,"7,215",4
+Oak Hill ,WV,"7,211",4
+Winthrop Harbor,IL,"7,210",4
+Corning ,CA,"7,207",4
+Clarkston ,WA,"7,207",4
+Brighton ,MI,"7,204",4
+Heber Springs ,AR,"7,203",4
+Glenolden,PA,"7,203",4
+Bayville,NY,"7,202",4
+Hitchcock ,TX,"7,201",4
+Tolleson ,AZ,"7,199",4
+Globe ,AZ,"7,197",4
+Orland Hills,IL,"7,195",4
+Denison ,IA,"7,184",4
+Brentwood ,MO,"7,182",4
+Three Rivers ,MI,"7,179",4
+Pleasant Hill ,MO,"7,178",4
+Orland ,CA,"7,174",4
+Lowell ,AR,"7,173",4
+Forest City,NC,"7,172",4
+Cotati ,CA,"7,169",4
+Clewiston ,FL,"7,167",4
+Manhattan,IL,"7,166",4
+Fayetteville ,TN,"7,166",4
+Williston Park,NY,"7,162",4
+Crystal City ,TX,"7,161",4
+Bonner Springs ,KS,"7,161",4
+Sausalito ,CA,"7,158",4
+Clinton ,IL,"7,154",4
+Nappanee ,IN,"7,153",4
+Middletown ,KY,"7,147",4
+Pleasantville,NY,"7,146",4
+Blackwell ,OK,"7,144",4
+Caldwell,NJ,"7,133",4
+Selah ,WA,"7,126",4
+Hatboro,PA,"7,125",4
+Lanett ,AL,"7,121",4
+Marshall ,MI,"7,121",4
+Kennedale ,TX,"7,115",4
+Signal Mountain,TN,"7,109",4
+Sutherlin ,OR,"7,108",4
+Ellsworth ,ME,"7,103",4
+Ashland,VA,"7,100",4
+New Albany,OH,"7,088",4
+Fanwood,NJ,"7,088",4
+Fairfax,CA,"7,066",4
+Austell ,GA,"7,062",4
+Elon,NC,"7,060",4
+Prosper,TX,"7,053",4
+Pleasant View ,UT,"7,052",4
+North Caldwell,NJ,"7,051",4
+Stratford,NJ,"7,049",4
+New Cumberland,PA,"7,048",4
+La Junta ,CO,"7,046",4
+Moncks Corner,SC,"7,044",4
+Ocean City,MD,"7,042",4
+Oneonta ,AL,"7,040",4
+Smithfield,VA,"7,034",4
+Camden ,SC,"7,033",4
+Dalhart ,TX,"7,032",4
+Nebraska City ,NE,"7,032",4
+Fairlawn ,OH,"7,030",4
+Ambridge,PA,"7,024",4
+St. Martinville ,LA,"7,024",4
+La Feria ,TX,"7,023",4
+Greenville ,AL,"7,022",4
+Liberty Lake ,WA,"7,018",4
+Flowood ,MS,"7,016",4
+Gig Harbor ,WA,"7,008",4
+Lexington ,VA,"7,003",4
+Great Neck Plaza,NY,"7,001",4
+Bellbrook ,OH,"7,000",4
+Palmyra,PA,"6,997",4
+Hudsonville ,MI,"6,997",4
+Mendota ,IL,"6,995",4
+Dunellen,NJ,"6,993",4
+Norwich ,NY,"6,992",4
+Mount Vernon ,IN,"6,980",4
+Youngsville ,LA,"6,980",4
+Ridley Park,PA,"6,979",4
+Winters ,CA,"6,977",4
+Trinity ,NC,"6,977",4
+Walden,NY,"6,977",4
+Elkins ,WV,"6,976",4
+Firebaugh ,CA,"6,972",4
+St. Louis ,MI,"6,971",4
+Herkimer,NY,"6,970",4
+River Oaks ,TX,"6,965",4
+Milltown,NJ,"6,965",4
+Roeland Park ,KS,"6,960",4
+Benton ,IL,"6,957",4
+Selma,NC,"6,948",4
+DuPont ,WA,"6,944",4
+Barrington,NJ,"6,939",4
+Page ,AZ,"6,928",4
+Kronenwetter,WI,"6,927",4
+Aztec ,NM,"6,927",4
+Hudson ,NY,"6,925",4
+Beebe ,AR,"6,921",4
+Mount Sterling ,KY,"6,921",4
+Fultondale ,AL,"6,918",4
+Sturtevant,WI,"6,913",4
+King ,NC,"6,906",4
+Plattsmouth ,NE,"6,902",4
+Houghton ,MI,"6,878",4
+Hood River ,OR,"6,877",4
+Walled Lake ,MI,"6,876",4
+Silsbee ,TX,"6,870",4
+Santa Clara ,UT,"6,866",4
+Canfield ,OH,"6,862",4
+Quincy ,FL,"6,858",4
+Hastings ,MI,"6,858",4
+Bonne Terre ,MO,"6,854",4
+Oak Grove ,MO,"6,852",4
+Idabel ,OK,"6,851",4
+Thomson ,GA,"6,848",4
+Seward ,NE,"6,841",4
+Nyack,NY,"6,833",4
+Folcroft,PA,"6,823",4
+Rathdrum ,ID,"6,821",4
+Skiatook,OK,"6,820",4
+Black Jack ,MO,"6,818",4
+Fox Point,WI,"6,816",4
+Crockett ,TX,"6,815",4
+Pinson ,AL,"6,813",4
+East Hills,NY,"6,809",4
+Galax ,VA,"6,808",4
+Seminole ,OK,"6,804",4
+Marion ,SC,"6,801",4
+Bel Aire ,KS,"6,797",4
+Waite Park ,MN,"6,796",4
+Loomis,CA,"6,795",4
+Trumann ,AR,"6,794",4
+Pineville,NC,"6,791",4
+Tremonton ,UT,"6,789",4
+Buda ,TX,"6,788",4
+Delafield ,WI,"6,787",4
+Milton ,WA,"6,786",4
+Perry ,FL,"6,785",4
+Nitro ,WV,"6,784",4
+Truth or Consequences ,NM,"6,784",4
+Neptune Beach ,FL,"6,781",4
+Atlantic ,IA,"6,777",4
+Arcadia ,FL,"6,771",4
+Dayton ,TN,"6,771",4
+Independence ,OH,"6,770",4
+Church Hill ,TN,"6,765",4
+Midland Park,NJ,"6,763",4
+Huntingdon,PA,"6,759",4
+Jackson,WI,"6,755",4
+Altoona ,WI,"6,753",4
+Plaquemine ,LA,"6,751",4
+Blakely,PA,"6,747",4
+Boonville ,IN,"6,746",4
+Taylor Mill ,KY,"6,746",4
+New London ,WI,"6,745",4
+Johnsburg,IL,"6,734",4
+Delphos ,OH,"6,730",4
+Sullivan ,MO,"6,726",4
+Warwick,NY,"6,724",4
+Belfast ,ME,"6,721",4
+Grafton,OH,"6,716",4
+Brevard ,NC,"6,716",4
+Pocahontas ,AR,"6,713",4
+New Prague ,MN,"6,712",4
+Devils Lake ,ND,"6,708",4
+Mount Horeb,WI,"6,703",4
+Mascoutah ,IL,"6,701",4
+Washington,NJ,"6,693",4
+Roanoke ,AL,"6,688",4
+Hiawatha ,IA,"6,688",4
+Nevada ,IA,"6,688",4
+Duquesne ,PA,"6,682",4
+West View,PA,"6,677",4
+Tecumseh ,OK,"6,667",4
+Darlington ,SC,"6,666",4
+Lake City ,SC,"6,666",4
+Irvington,NY,"6,666",4
+Braidwood ,IL,"6,664",4
+Franklin ,PA,"6,664",4
+Willard ,OH,"6,664",4
+Glen Ridge,NJ,"6,662",4
+Hillsboro ,OH,"6,661",4
+Harriman ,TN,"6,658",4
+Edinboro,PA,"6,655",4
+Martins Ferry ,OH,"6,654",4
+Carencro ,LA,"6,653",4
+Belle Plaine ,MN,"6,648",4
+Litchfield ,IL,"6,647",4
+Sweetwater ,TN,"6,645",4
+Hudson Falls,NY,"6,644",4
+Victoria ,MN,"6,643",4
+Kill Devil Hills,NC,"6,642",4
+Munford ,TN,"6,634",4
+Carthage ,TX,"6,633",4
+Seneca Falls,NY,"6,629",4
+Elsa ,TX,"6,624",4
+Wickenburg,AZ,"6,620",4
+Union Beach,NJ,"6,620",4
+Park City ,IL,"6,609",4
+Catoosa ,OK,"6,607",4
+Laurel ,MT,"6,605",4
+Fort Bragg ,CA,"6,604",4
+Louisville ,MS,"6,604",4
+Blanchard ,OK,"6,599",4
+Allendale,NJ,"6,599",4
+Pahokee ,FL,"6,598",4
+Guadalupe ,CA,"6,593",4
+Opp ,AL,"6,582",4
+Morrilton ,AR,"6,581",4
+Tamaqua,PA,"6,581",4
+Sioux Center ,IA,"6,581",4
+Gulf Breeze ,FL,"6,580",4
+Avon,CO,"6,578",4
+Othello ,WA,"6,577",4
+Lawrence,NY,"6,573",4
+Gretna ,NE,"6,572",4
+North Syracuse,NY,"6,570",4
+Larchmont,NY,"6,567",4
+Columbia ,MS,"6,567",4
+East Alton,IL,"6,563",4
+Litchfield ,MN,"6,560",4
+Catasauqua,PA,"6,558",4
+Greenbrier,TN,"6,553",4
+Souderton,PA,"6,553",4
+New Paltz,NY,"6,553",4
+Mexia ,TX,"6,552",4
+Green Cove Springs ,FL,"6,551",4
+Mountainside,NJ,"6,551",4
+Clifton Heights,PA,"6,541",4
+Metropolis ,IL,"6,540",4
+Attalla ,AL,"6,540",4
+Providence ,UT,"6,538",4
+Leitchfield ,KY,"6,537",4
+Belpre ,OH,"6,528",4
+Valley Center ,KS,"6,521",4
+Monahans ,TX,"6,516",4
+Bronxville,NY,"6,516",4
+Childress ,TX,"6,513",4
+Salem ,IN,"6,502",4
+Watchung,NJ,"6,502",4
+Woodland Park ,CO,"6,501",4
+Tarrant ,AL,"6,499",4
+Sidney ,NE,"6,499",4
+Belle Isle ,FL,"6,497",4
+Tyrone,GA,"6,492",4
+Monticello,NY,"6,490",4
+Archbald,PA,"6,488",4
+Madison ,SD,"6,482",4
+Milford,MI,"6,482",4
+Ishpeming ,MI,"6,480",4
+Gridley ,CA,"6,478",4
+Manorhaven,NY,"6,478",4
+De Soto ,MO,"6,477",4
+Buena Vista ,VA,"6,471",4
+Bethel ,AK,"6,468",4
+Moraine ,OH,"6,467",4
+Raton ,NM,"6,465",4
+New Square,NY,"6,461",4
+Spring Lake Park ,MN,"6,458",4
+Rochester ,IN,"6,457",4
+Geneseo ,IL,"6,437",4
+Salem ,UT,"6,435",4
+Pelham,NY,"6,435",4
+Batesville ,IN,"6,434",4
+Estes Park,CO,"6,432",4
+Decatur ,TX,"6,432",4
+Winooski ,VT,"6,429",4
+Meadows Place ,TX,"6,427",4
+Oakmont,PA,"6,423",4
+Mahomet,IL,"6,422",4
+Milton-Freewater ,OR,"6,421",4
+Henderson ,TN,"6,418",4
+Riverdale Park,MD,"6,418",4
+Cuero ,TX,"6,417",4
+Solvay,NY,"6,417",4
+Pikeville ,KY,"6,413",4
+Fort Myers Beach,FL,"6,410",4
+Rossford ,OH,"6,404",4
+Abilene ,KS,"6,400",4
+Princeton ,KY,"6,398",4
+Pratt ,KS,"6,397",4
+Commerce ,GA,"6,394",4
+Hamilton ,AL,"6,393",4
+St. John ,MO,"6,381",4
+Scappoose ,OR,"6,377",4
+Prospect Park,PA,"6,374",4
+Eatonton ,GA,"6,373",4
+Monroeville ,AL,"6,372",4
+Cheverly,MD,"6,372",4
+Robinson ,IL,"6,369",4
+Fair Oaks Ranch ,TX,"6,367",4
+Jamesburg,NJ,"6,367",4
+Cortland ,OH,"6,364",4
+Upper Sandusky ,OH,"6,364",4
+Albertville ,MN,"6,360",4
+Milton,PA,"6,359",4
+Somerset,PA,"6,359",4
+Emmett ,ID,"6,357",4
+Cherry Hills Village ,CO,"6,355",4
+Dillon ,SC,"6,353",4
+Keene ,TX,"6,350",4
+Sellersburg,IN,"6,346",4
+Brier ,WA,"6,344",4
+Grove ,OK,"6,338",4
+Hurricane ,WV,"6,335",4
+Milford ,OH,"6,332",4
+Robbins,IL,"6,331",4
+Du Quoin ,IL,"6,326",4
+"Islamorada, Village of Islands",FL,"6,323",4
+Anadarko ,OK,"6,323",4
+Vandalia ,IL,"6,321",4
+Ponchatoula ,LA,"6,320",4
+Hilton,NY,"6,319",4
+Hughson ,CA,"6,312",4
+Bedford ,VA,"6,312",4
+Corry ,PA,"6,307",4
+Grandview Heights ,OH,"6,306",4
+Glenarden ,MD,"6,306",4
+Hartford City ,IN,"6,302",4
+White Oak ,TX,"6,298",4
+North Vernon ,IN,"6,296",4
+Stroudsburg,PA,"6,294",4
+Lago Vista ,TX,"6,293",4
+Union ,OH,"6,293",4
+Geneva ,OH,"6,291",4
+Estherville ,IA,"6,291",4
+La Grange ,KY,"6,286",4
+Marianna ,FL,"6,284",4
+Cynthiana ,KY,"6,283",4
+Alpine ,TX,"6,280",4
+Umatilla ,OR,"6,280",4
+Millersville ,TN,"6,279",4
+Iowa Park ,TX,"6,276",4
+Gladewater ,TX,"6,275",4
+Sealy ,TX,"6,275",4
+Rittman ,OH,"6,274",4
+Valley Park ,MO,"6,274",4
+Holly,MI,"6,273",4
+Rensselaer ,IN,"6,271",4
+East Rochester,NY,"6,269",4
+Carbondale,CO,"6,266",4
+Willows ,CA,"6,266",4
+Mills River,NC,"6,266",4
+Rockaway,NJ,"6,263",4
+Princeton ,WV,"6,261",4
+Seaside ,OR,"6,258",4
+Horseheads,NY,"6,254",4
+California,PA,"6,252",4
+Manasquan,NJ,"6,251",4
+Walker,LA,"6,249",4
+Canal Winchester,OH,"6,248",4
+Kimberly,WI,"6,244",4
+Tuckahoe,NY,"6,244",4
+East Aurora,NY,"6,242",4
+Crete ,NE,"6,241",4
+North Riverside,IL,"6,240",4
+Normandy Park ,WA,"6,240",4
+Forest Hills,PA,"6,240",4
+Shrewsbury ,MO,"6,235",4
+Orange Beach ,AL,"6,231",4
+Peoria Heights,IL,"6,230",4
+Valley City ,ND,"6,230",4
+Kodiak ,AK,"6,228",4
+Eudora ,KS,"6,226",4
+Lake Bluff,IL,"6,222",4
+Sandersville ,GA,"6,219",4
+St. Augustine Beach ,FL,"6,218",4
+Talent ,OR,"6,215",4
+Fircrest ,WA,"6,213",4
+Brookings ,OR,"6,213",4
+Norwood,NJ,"6,211",4
+Pigeon Forge ,TN,"6,204",4
+Livingston,TX,"6,203",4
+Ambler,PA,"6,196",4
+Lynchburg,TN,"6,195",4
+Orting ,WA,"6,188",4
+Round Lake Park,IL,"6,181",4
+Clearfield,PA,"6,173",4
+Butner,NC,"6,169",4
+South Weber ,UT,"6,167",4
+Cottage Grove,WI,"6,166",4
+Hillsboro ,IL,"6,164",4
+Monticello ,KY,"6,162",4
+Bartonville,IL,"6,160",4
+Milliken,CO,"6,159",4
+Portland ,IN,"6,158",4
+Bellefonte,PA,"6,151",4
+Taylor,PA,"6,151",4
+Caruthersville ,MO,"6,145",4
+Cedarhurst,NY,"6,142",4
+Washingtonville,NY,"6,139",4
+Jackson ,OH,"6,138",4
+Port Clinton ,OH,"6,135",4
+Elm Grove,WI,"6,133",4
+Big Bear Lake ,CA,"6,131",4
+Purcell ,OK,"6,129",4
+Isanti ,MN,"6,123",4
+Wilmington ,IL,"6,122",4
+Seminole ,TX,"6,122",4
+Pauls Valley ,OK,"6,121",4
+Clyde ,OH,"6,121",4
+Covington ,VA,"6,120",4
+Little Silver,NJ,"6,119",4
+Independence ,IA,"6,119",4
+Warren ,AR,"6,118",4
+Princeton ,TX,"6,117",4
+St. Joseph ,MN,"6,114",4
+Huntingburg ,IN,"6,112",4
+Manistee ,MI,"6,110",4
+Crafton,PA,"6,109",4
+Greenville,PA,"6,103",4
+Gardiner ,ME,"6,100",4
+Bridgeport ,TX,"6,099",4
+Ralston ,NE,"6,095",4
+Hobart,WI,"6,094",4
+Swarthmore,PA,"6,090",4
+Stanwood ,WA,"6,089",4
+Aberdeen ,MS,"6,089",4
+Wharton,NJ,"6,083",4
+Oelwein ,IA,"6,082",4
+Pontoon Beach,IL,"6,081",4
+Canton,NY,"6,077",4
+Paulsboro,NJ,"6,075",4
+Mount Healthy ,OH,"6,070",4
+Rushville ,IN,"6,068",4
+New Brighton,PA,"6,068",4
+Montevallo ,AL,"6,061",4
+Steilacoom,WA,"6,061",4
+Harrisville ,UT,"6,060",4
+Vinita ,OK,"6,059",4
+Gypsum,CO,"6,052",4
+Ada,OH,"6,052",4
+Manvel ,TX,"6,051",4
+Carlisle ,OH,"6,051",4
+Trenton ,MO,"6,047",4
+Medina,NY,"6,046",4
+Chester ,SC,"6,045",4
+Plymouth,PA,"6,041",4
+Red Lion,PA,"6,041",4
+Pacific ,WA,"6,040",4
+Thurmont,MD,"6,037",4
+Tuttle ,OK,"6,036",4
+District Heights ,MD,"6,034",4
+Macclenny ,FL,"6,032",4
+Henryetta ,OK,"6,031",4
+Valparaiso ,FL,"6,030",4
+The Village of Indian Hill ,OH,"6,030",4
+Old Tappan,NJ,"6,029",4
+Petoskey ,MI,"6,028",4
+Nazareth,PA,"6,020",4
+Carlstadt,NJ,"6,019",4
+Forest Hills ,TN,"6,018",4
+McKees Rocks,PA,"6,018",4
+Ellettsville,IN,"6,017",4
+South Williamsport,PA,"6,017",4
+South Tucson ,AZ,"6,013",4
+Madras ,OR,"6,011",4
+Satsuma ,AL,"6,008",4
+Morris Plains,NJ,"6,005",4
+Wilmore ,KY,"6,004",4
+Douglass Hills ,KY,"6,002",4
+Marion,VA,"6,001",4
+Barnesville ,GA,"5,998",4
+Gilberts,IL,"5,996",4
+Northville ,MI,"5,996",4
+Bisbee ,AZ,"5,991",4
+Okeechobee ,FL,"5,987",4
+Duvall ,WA,"5,982",4
+Columbiana ,OH,"5,981",4
+Hapeville ,GA,"5,978",4
+Gun Barrel City ,TX,"5,975",4
+Burnet ,TX,"5,974",4
+Lebanon ,KY,"5,973",4
+Starke ,FL,"5,972",4
+Forest ,MS,"5,972",4
+Douglas ,WY,"5,971",4
+Villa Park ,CA,"5,967",4
+Rockdale ,TX,"5,966",4
+Carlinville ,IL,"5,962",4
+Minnetrista ,MN,"5,960",4
+Lewistown ,MT,"5,954",4
+Sturgis ,SD,"5,950",4
+Crystal Springs ,MS,"5,950",4
+De Queen ,AR,"5,948",4
+Guadalupe,AZ,"5,948",4
+Chickasaw ,AL,"5,948",4
+Punxsutawney,PA,"5,944",4
+Woodcliff Lake,NJ,"5,941",4
+Wellston ,OH,"5,936",4
+Littlefield ,TX,"5,929",4
+Pontotoc ,MS,"5,924",4
+Scottsburg ,IN,"5,912",4
+Fair Haven,NJ,"5,910",4
+Belmar,NJ,"5,908",4
+Maquoketa ,IA,"5,908",4
+International Falls ,MN,"5,906",4
+Exeter,PA,"5,905",4
+Dickson City,PA,"5,903",4
+Aspen ,CO,"5,902",4
+Chillicothe ,IL,"5,901",4
+Willow Springs,IL,"5,898",4
+Eagle,CO,"5,897",4
+La Habra Heights ,CA,"5,893",4
+Colusa ,CA,"5,892",4
+Orange City ,IA,"5,891",4
+Richmond ,MO,"5,890",4
+Jeanerette ,LA,"5,889",4
+Mount Carmel,PA,"5,888",4
+Lacy-Lakeview ,TX,"5,883",4
+Quincy ,WA,"5,882",4
+Waynesboro ,GA,"5,874",4
+Mulvane ,KS,"5,866",4
+Carolina Beach,NC,"5,864",4
+Beardstown ,IL,"5,859",4
+Flagler Beach ,FL,"5,859",4
+Alexandria ,IN,"5,854",4
+Bellevue ,KY,"5,852",4
+Lincoln ,AL,"5,846",4
+Prairie du Chien ,WI,"5,839",4
+Sylvester ,GA,"5,833",4
+Lauderdale-by-the-Sea,FL,"5,831",4
+North Manchester,IN,"5,829",4
+Mount Arlington,NJ,"5,827",4
+Waupaca ,WI,"5,826",4
+North Braddock,PA,"5,821",4
+Harrisburg,NC,"5,819",4
+St. Helena ,CA,"5,817",4
+Marlin ,TX,"5,817",4
+Joshua ,TX,"5,812",4
+Noble ,OK,"5,812",4
+Huntington Woods ,MI,"5,811",4
+New Whiteland,IN,"5,809",4
+Sequim ,WA,"5,809",4
+Cold Spring ,KY,"5,809",4
+Pevely ,MO,"5,808",4
+Edna ,TX,"5,807",4
+Hamlet ,NC,"5,807",4
+Englewood Cliffs,NJ,"5,804",4
+Slaton ,TX,"5,803",4
+Homer ,AK,"5,802",4
+Erwin,TN,"5,802",4
+Prospect ,KY,"5,802",4
+Yelm ,WA,"5,800",4
+Countryside ,IL,"5,795",4
+Malone,NY,"5,793",4
+Iola ,KS,"5,782",4
+Spanish Fort ,AL,"5,780",4
+Walterboro ,SC,"5,780",4
+Stickney,IL,"5,774",4
+Norwood,PA,"5,774",4
+Titusville ,PA,"5,774",4
+Everman ,TX,"5,771",4
+Spring Grove,IL,"5,769",4
+St. Clair ,MI,"5,763",4
+Moosic,PA,"5,758",4
+Twin Lakes,WI,"5,752",4
+Farrell ,PA,"5,751",4
+Deer Park ,OH,"5,751",4
+Monaca,PA,"5,749",4
+Lakemoor,IL,"5,748",4
+Sheridan ,OR,"5,747",4
+Center ,TX,"5,746",4
+North Kansas City ,MO,"5,746",4
+Cameron ,TX,"5,740",4
+Anamosa ,IA,"5,736",4
+Oceanport,NJ,"5,733",4
+Woodfin,NC,"5,731",4
+Coal City,IL,"5,729",4
+Fort Meade ,FL,"5,723",4
+Highland Heights ,KY,"5,720",4
+Cumming ,GA,"5,719",4
+Pana ,IL,"5,718",4
+Pepper Pike ,OH,"5,715",4
+Bremen ,GA,"5,709",4
+Tequesta,FL,"5,708",4
+Leesville ,LA,"5,704",4
+Dowagiac ,MI,"5,703",4
+Union Gap ,WA,"5,699",4
+Central City ,KY,"5,698",4
+Linton ,IN,"5,696",4
+Belding ,MI,"5,691",4
+Elsmere,DE,"5,688",4
+Marksville ,LA,"5,684",4
+Gas City ,IN,"5,683",4
+Red Oak ,IA,"5,683",4
+Garrett ,IN,"5,681",4
+Fate ,TX,"5,679",4
+Eastman ,GA,"5,675",4
+Poolesville,MD,"5,674",4
+Snowflake,AZ,"5,673",4
+Big Stone Gap,VA,"5,662",4
+Salem ,NJ,"5,661",4
+Camilla ,GA,"5,660",4
+Hellertown,PA,"5,659",4
+Wappingers Falls,NY,"5,659",4
+Watonga ,OK,"5,657",4
+Milan ,MI,"5,657",4
+Hoopeston ,IL,"5,656",4
+Hooper ,UT,"5,655",4
+Hillsborough,NC,"5,653",4
+Bolivar ,TN,"5,647",4
+Waynesboro ,MS,"5,647",4
+Ripley ,MS,"5,646",4
+Glenwood ,IA,"5,646",4
+Sanibel ,FL,"5,645",4
+Emporia ,VA,"5,643",4
+Falcon Heights ,MN,"5,643",4
+Centreville ,IL,"5,635",4
+Breckenridge ,TX,"5,632",4
+Mena ,AR,"5,630",4
+Corcoran ,MN,"5,630",4
+Wake Village ,TX,"5,628",4
+Aberdeen,NC,"5,627",4
+Cherryville ,NC,"5,627",4
+Los Ranchos de Albuquerque,NM,"5,622",4
+Junction City ,OR,"5,618",4
+Fairview,NC,"5,610",4
+Kingston ,TN,"5,607",4
+Coraopolis,PA,"5,606",4
+Richmond ,MI,"5,606",4
+Walkersville,MD,"5,606",4
+Steelton,PA,"5,598",4
+Middleton ,ID,"5,594",4
+Prospect Park,NJ,"5,594",4
+Salamanca ,NY,"5,592",4
+Mascotte ,FL,"5,591",4
+Rio Bravo ,TX,"5,591",4
+Goshen,NY,"5,585",4
+Cumberland,IN,"5,580",4
+Bowie ,TX,"5,580",4
+Batesburg-Leesville,SC,"5,580",4
+Savoy,IL,"5,579",4
+Woodside,CA,"5,579",4
+Milton ,WI,"5,579",4
+Shippensburg,PA,"5,578",4
+Hampshire,IL,"5,569",4
+Braselton,GA,"5,565",4
+New Martinsville ,WV,"5,564",4
+Kasson ,MN,"5,564",4
+Fowler ,CA,"5,563",4
+Bessemer City ,NC,"5,562",4
+St. Gabriel ,LA,"5,560",4
+Washington Park,IL,"5,558",4
+Lake Mills ,WI,"5,557",4
+Celina ,TX,"5,557",4
+Ulysses ,KS,"5,557",4
+Gatlinburg ,TN,"5,555",4
+Stewartville ,MN,"5,553",4
+Taos,NM,"5,551",4
+Glencoe ,MN,"5,550",4
+South Pasadena ,FL,"5,548",4
+Albion,NY,"5,548",4
+Abbeville ,SC,"5,547",4
+Turtle Creek,PA,"5,547",4
+New Carlisle ,OH,"5,543",4
+South Beloit ,IL,"5,541",4
+Rockwood ,TN,"5,541",4
+Morrow ,GA,"5,539",4
+Los Fresnos ,TX,"5,538",4
+Diboll ,TX,"5,537",4
+West Miami ,FL,"5,533",4
+Winston ,OR,"5,528",4
+Powell ,WY,"5,524",4
+Northwood ,OH,"5,520",4
+Crossett ,AR,"5,518",4
+Uhrichsville ,OH,"5,516",4
+Torrington ,WY,"5,514",4
+Rockton,IL,"5,512",4
+Progreso ,TX,"5,511",4
+Buckhannon ,WV,"5,505",4
+Piedmont ,OK,"5,504",4
+Palmview ,TX,"5,502",4
+Clarinda ,IA,"5,493",4
+Glendale ,MO,"5,490",4
+Macon ,MO,"5,489",4
+Watseka ,IL,"5,481",4
+Atlanta ,TX,"5,475",4
+Fairport,NY,"5,472",4
+Yoakum ,TX,"5,469",4
+Hampstead,MD,"5,467",4
+Hollidaysburg,PA,"5,466",4
+Ballston Spa,NY,"5,464",4
+Mount Carmel,TN,"5,462",4
+Gunnison ,CO,"5,461",4
+Luling ,TX,"5,458",4
+Lewisburg,PA,"5,454",4
+Dayton ,KY,"5,453",4
+Pelham Manor,NY,"5,451",4
+Spring Valley ,IL,"5,450",4
+Fort Wright ,KY,"5,450",4
+Zeeland ,MI,"5,448",4
+Jordan ,MN,"5,445",4
+Centerville ,IA,"5,442",4
+Carterville ,IL,"5,441",4
+Sayre,PA,"5,440",4
+Bath,NY,"5,432",4
+Bridgewater,VA,"5,430",4
+Northfield,IL,"5,429",4
+Berthoud,CO,"5,429",4
+Chadron ,NE,"5,429",4
+Cave Creek,AZ,"5,428",4
+Lehighton,PA,"5,428",4
+Cheraw,SC,"5,427",4
+Giddings ,TX,"5,423",4
+Brookville ,OH,"5,423",4
+Taneytown ,MD,"5,422",4
+De Soto ,KS,"5,420",4
+Point Pleasant Beach,NJ,"5,418",4
+Holdenville ,OK,"5,417",4
+Sheridan ,CO,"5,412",4
+Holtville ,CA,"5,412",4
+Dunlap ,TN,"5,412",4
+Rockford ,MI,"5,411",4
+Nephi ,UT,"5,408",4
+Mansfield ,LA,"5,402",4
+Glennville ,GA,"5,397",4
+Adel ,GA,"5,396",4
+Salida ,CO,"5,396",4
+Media,PA,"5,396",4
+Circle Pines ,MN,"5,395",4
+Kings Point,NY,"5,394",4
+Hugo ,OK,"5,390",4
+Oak Hill ,TN,"5,389",4
+Highwood ,IL,"5,388",4
+Pinckneyville ,IL,"5,384",4
+Granville,OH,"5,382",4
+Williamston,NC,"5,382",4
+Porter,IN,"5,379",4
+Glencoe ,AL,"5,377",4
+Nelsonville ,OH,"5,375",4
+Eureka ,IL,"5,368",4
+Ironwood ,MI,"5,368",4
+Windcrest ,TX,"5,357",4
+McKenzie ,TN,"5,357",4
+Sinton ,TX,"5,354",4
+Roseland,NJ,"5,352",4
+Paola ,KS,"5,351",4
+Monticello ,IL,"5,350",4
+Selinsgrove,PA,"5,344",4
+West Bountiful ,UT,"5,337",4
+Farr West ,UT,"5,335",4
+Brush ,CO,"5,332",4
+Carrizo Springs ,TX,"5,332",4
+Edgerton ,WI,"5,329",4
+Algona ,IA,"5,328",4
+Brady ,TX,"5,324",4
+Grafton ,WV,"5,315",4
+Zimmerman ,MN,"5,313",4
+Fruit Heights ,UT,"5,312",4
+Rusk ,TX,"5,312",4
+Delano ,MN,"5,309",4
+Sharon Hill,PA,"5,308",4
+Wendell,NC,"5,300",4
+Kingsford ,MI,"5,297",4
+Wayne ,NE,"5,296",4
+Hampton ,GA,"5,295",4
+Mathis ,TX,"5,295",4
+Hightstown,NJ,"5,295",4
+Weldon Spring ,MO,"5,295",4
+Monticello ,IN,"5,293",4
+Weiser ,ID,"5,290",4
+Port Isabel ,TX,"5,290",4
+Airway Heights ,WA,"5,289",4
+Plain City ,UT,"5,288",4
+Bowling Green ,MO,"5,285",4
+Lake City ,MN,"5,285",4
+Ephraim ,UT,"5,284",4
+Old Westbury,NY,"5,283",4
+Brewton ,AL,"5,279",4
+Parkville ,MO,"5,279",4
+Elburn,IL,"5,276",4
+Lone Grove ,OK,"5,276",4
+Highlands,NJ,"5,272",4
+Patterson ,LA,"5,271",4
+Kennett Square,PA,"5,270",4
+Tucumcari ,NM,"5,268",4
+Donora,PA,"5,261",4
+Columbia Falls ,MT,"5,261",4
+De Witt ,IA,"5,260",4
+Wildwood ,NJ,"5,259",4
+Clarion,PA,"5,258",4
+Blakely ,GA,"5,257",4
+Bangor,PA,"5,256",4
+Gilmer ,TX,"5,249",4
+Waveland ,MS,"5,249",4
+Berryville ,AR,"5,247",4
+Needles ,CA,"5,246",4
+Eaton Rapids ,MI,"5,246",4
+Terrell Hills ,TX,"5,241",4
+Groveport,OH,"5,240",4
+St. Paul Park ,MN,"5,239",4
+Georgetown,DE,"5,233",4
+Whiteville ,NC,"5,233",4
+Montevideo ,MN,"5,233",4
+Colona ,IL,"5,232",4
+Kermit ,TX,"5,231",4
+Keyser ,WV,"5,230",4
+Waterville,OH,"5,230",4
+Pleasant Garden,NC,"5,229",4
+Polson ,MT,"5,228",4
+Brunswick ,MD,"5,228",4
+Spring Hill ,KS,"5,227",4
+Swartz Creek ,MI,"5,223",4
+Jonesborough,TN,"5,221",4
+Toronto ,OH,"5,221",4
+Arnold ,PA,"5,212",4
+Cochran ,GA,"5,211",4
+Chardon ,OH,"5,210",4
+Palmerton,PA,"5,209",4
+Harrah ,OK,"5,208",4
+Concordia ,KS,"5,208",4
+Creve Coeur,IL,"5,206",4
+Ontario ,OH,"5,204",4
+Williamsburg ,KY,"5,204",4
+Carmi ,IL,"5,203",4
+North Fond du Lac,WI,"5,198",4
+Tyrone,PA,"5,197",4
+Desloge ,MO,"5,190",4
+Milan,IL,"5,186",4
+Midfield ,AL,"5,185",4
+Webster,NY,"5,185",4
+Calistoga ,CA,"5,179",4
+Mineola ,TX,"5,179",4
+Westville,IN,"5,177",4
+Indian Wells ,CA,"5,177",4
+Fox River Grove,IL,"5,172",4
+Tallassee ,AL,"5,172",4
+Holdrege ,NE,"5,172",4
+Birdsboro,PA,"5,168",4
+Fairfield ,IL,"5,165",4
+Munroe Falls ,OH,"5,165",4
+Schuyler ,NE,"5,163",4
+Penn Yan,NY,"5,162",4
+Manitou Springs ,CO,"5,161",4
+Schuylkill Haven,PA,"5,161",4
+Mount Zion,IL,"5,159",4
+Shenandoah,PA,"5,155",4
+Silverton ,OH,"5,155",4
+New Holland,PA,"5,152",4
+Solvang ,CA,"5,148",4
+Newport ,VT,"5,148",4
+Marion ,NC,"5,144",4
+Indian Rocks Beach ,FL,"5,143",4
+Bluefield,VA,"5,143",4
+Lakeport ,CA,"5,142",4
+Staunton ,IL,"5,139",4
+Fox Chapel,PA,"5,138",4
+South Haven ,MI,"5,138",4
+Purcellville,VA,"5,137",4
+Edgewater ,CO,"5,136",4
+Davison ,MI,"5,136",4
+Daytona Beach Shores ,FL,"5,134",4
+Spring Lake Heights,NJ,"5,134",4
+New Haven,MI,"5,132",4
+Demarest,NJ,"5,130",4
+Williamsville,NY,"5,129",4
+Litchfield Park ,AZ,"5,126",4
+Prosser ,WA,"5,124",4
+White Hall ,AR,"5,121",4
+Moab ,UT,"5,121",4
+Cedar Grove,FL,"5,116",4
+Springhill ,LA,"5,115",4
+Neptune City,NJ,"5,114",4
+Charleston ,MO,"5,111",4
+South Bound Brook,NJ,"5,110",4
+Alma ,AR,"5,104",4
+Genoa ,IL,"5,101",4
+Jackson ,AL,"5,101",4
+Winnfield ,LA,"5,095",4
+Gustine ,CA,"5,094",4
+Leland,NC,"5,094",4
+Columbus ,WI,"5,093",4
+Mayville ,WI,"5,090",4
+Enoch ,UT,"5,085",4
+Somerdale,NJ,"5,085",4
+Rupert ,ID,"5,082",4
+Holbrook ,AZ,"5,081",4
+Vinton ,IA,"5,080",4
+Franklin,NJ,"5,077",4
+Redwood Falls ,MN,"5,077",4
+Medina ,MN,"5,076",4
+Savannah ,MO,"5,075",4
+Kutztown,PA,"5,074",4
+Palacios ,TX,"5,069",4
+Gladstone ,MI,"5,067",4
+Wadesboro,NC,"5,066",4
+Star ,ID,"5,065",4
+Greenfield ,OH,"5,063",4
+Perry ,OK,"5,060",4
+Preston ,ID,"5,059",4
+Collegeville,PA,"5,058",4
+Creswell ,OR,"5,058",4
+Evansdale ,IA,"5,056",4
+Palmetto ,GA,"5,053",4
+St. Clairsville ,OH,"5,053",4
+Mendham,NJ,"5,053",4
+Kaplan ,LA,"5,053",4
+Wellington,CO,"5,052",4
+Richland Center ,WI,"5,050",4
+Wesley Hills,NY,"5,043",4
+Rothschild,WI,"5,042",4
+Collinsville ,OK,"5,039",4
+Oakland,TN,"5,038",4
+Springfield ,MI,"5,037",4
+Westmont,PA,"5,033",4
+Sea Cliff,NY,"5,033",4
+Ocean Shores ,WA,"5,029",4
+Anna ,IL,"5,025",4
+Roosevelt ,UT,"5,025",4
+Canal Fulton ,OH,"5,023",4
+Forsyth ,GA,"5,022",4
+Germantown,OH,"5,018",4
+Holmes Beach ,FL,"5,017",4
+Tega Cay ,SC,"5,014",4
+De Funiak Springs ,FL,"5,012",4
+Summerville ,GA,"5,010",4
+Tipton ,IN,"5,006",4
+Ayden,NC,"5,005",4
+Chelsea ,MI,"5,005",4
+Thatcher,AZ,"5,002",4
+Berlin ,WI,"4,997",4
+Shillington,PA,"4,997",4
+Vandergrift,PA,"4,997",4
+West Wendover ,NV,"4,997",4
+Childersburg ,AL,"4,996",4
+Morris ,MN,"4,996",4
+Grosse Pointe ,MI,"4,996",4
+Waterloo,NY,"4,994",4
+Monee,IL,"4,993",4
+Rainsville ,AL,"4,990",4
+Palmhurst ,TX,"4,988",4
+Eldon ,MO,"4,986",4
+Harlan ,IA,"4,986",4
+Port Allen ,LA,"4,984",4
+Belle Fourche ,SD,"4,979",4
+New Castle ,DE,"4,977",4
+Lake Barrington,IL,"4,975",4
+Dodgeville ,WI,"4,975",4
+Blaine ,WA,"4,975",4
+Waterford,WI,"4,973",4
+Willits ,CA,"4,972",4
+Sugarcreek,PA,"4,969",4
+Edenton,NC,"4,966",4
+Iowa Falls ,IA,"4,965",4
+Piedmont ,AL,"4,964",4
+Robertsdale ,AL,"4,964",4
+Clarks Summit,PA,"4,964",4
+Worland ,WY,"4,958",4
+Evansville ,WI,"4,957",4
+Olyphant,PA,"4,956",4
+Dos Palos ,CA,"4,948",4
+Dahlonega ,GA,"4,947",4
+Sunset ,UT,"4,945",4
+Long View,NC,"4,944",4
+Shenandoah ,IA,"4,944",4
+Cheboygan ,MI,"4,942",4
+Falfurrias ,TX,"4,941",4
+Sparta ,TN,"4,938",4
+Bay Harbor Islands,FL,"4,934",4
+Sawmills,NC,"4,931",4
+Colville ,WA,"4,929",4
+Marseilles ,IL,"4,924",4
+Utica ,MI,"4,924",4
+Loudon,TN,"4,921",4
+Fellsmere ,FL,"4,920",4
+Clover,SC,"4,916",4
+West Pittston,PA,"4,916",4
+Lucas ,TX,"4,914",4
+Berkeley,IL,"4,913",4
+La Crescent ,MN,"4,912",4
+Posen,IL,"4,907",4
+Normandy ,MO,"4,902",4
+Dellwood ,MO,"4,901",4
+Wiggins ,MS,"4,901",4
+Chestertown,MD,"4,899",4
+Youngtown,AZ,"4,896",4
+Wellsville,NY,"4,896",4
+McGregor ,TX,"4,891",4
+Clementon,NJ,"4,886",4
+Crestline ,OH,"4,882",4
+Chittenango,NY,"4,882",4
+Brielle,NJ,"4,882",4
+Eldridge ,IA,"4,880",4
+Palos Park,IL,"4,877",4
+Bridgeville,PA,"4,876",4
+Manchester ,IA,"4,876",4
+Salem ,MO,"4,870",4
+Harrington Park,NJ,"4,869",4
+Little Falls ,NY,"4,867",4
+Nashville ,GA,"4,865",4
+Jim Thorpe,PA,"4,863",4
+Stone Park,IL,"4,860",4
+Mechanicville ,NY,"4,857",4
+Winnsboro ,LA,"4,854",4
+Alva ,OK,"4,848",4
+Bradley Beach,NJ,"4,845",4
+Woodland ,WA,"4,843",4
+Luray,VA,"4,843",4
+Alfred,NY,"4,843",4
+Ardsley,NY,"4,840",4
+Sulphur ,OK,"4,838",4
+New Hempstead,NY,"4,838",4
+Swoyersville,PA,"4,836",4
+Benson ,AZ,"4,833",4
+Buffalo ,WY,"4,832",4
+Erwin,NC,"4,829",4
+Seat Pleasant ,MD,"4,829",4
+Gibraltar ,MI,"4,826",4
+West Salem,WI,"4,823",4
+Winterset ,IA,"4,820",4
+Hamilton ,MT,"4,817",4
+Allegan ,MI,"4,816",4
+Nashville ,AR,"4,815",4
+Carthage ,MS,"4,815",4
+Winterville,NC,"4,813",4
+Avalon,PA,"4,812",4
+Locust Grove ,GA,"4,811",4
+Lake Worth ,TX,"4,810",4
+Saranac Lake,NY,"4,809",4
+Ludlow ,KY,"4,808",4
+LaBelle ,FL,"4,806",4
+Island Park,NY,"4,806",4
+Platte City ,MO,"4,806",4
+Dumfries,VA,"4,805",4
+Colby ,KS,"4,803",4
+Lochbuie,CO,"4,800",4
+North Wildwood ,NJ,"4,800",4
+Clinton ,IN,"4,799",4
+Glendale ,CO,"4,798",4
+Hazard ,KY,"4,796",4
+La Joya ,TX,"4,795",4
+Lawrenceburg ,IN,"4,791",4
+Leland ,MS,"4,790",4
+Barnwell ,SC,"4,783",4
+Surfside Beach,SC,"4,783",4
+Sidney ,MT,"4,782",4
+Cherokee Village ,AR,"4,778",4
+Fayette ,AL,"4,778",4
+Flora ,IL,"4,772",4
+Vail,CO,"4,768",4
+Social Circle ,GA,"4,767",4
+Charles Town ,WV,"4,765",4
+Princeton ,MN,"4,763",4
+Williams ,CA,"4,760",4
+Elmsford,NY,"4,757",4
+Sheldon ,IA,"4,757",4
+Whiting ,IN,"4,751",4
+Colorado City,AZ,"4,750",4
+Teague ,TX,"4,749",4
+New Roads ,LA,"4,746",4
+Pembroke Park,FL,"4,744",4
+Montgomery,NY,"4,741",4
+Adamsville ,AL,"4,739",4
+Gibsonville,NC,"4,738",4
+Odessa ,MO,"4,737",4
+Olympia Fields,IL,"4,735",4
+Fruitland ,ID,"4,732",4
+Zebulon,NC,"4,732",4
+Honesdale,PA,"4,720",4
+Osage Beach ,MO,"4,720",4
+Northvale,NJ,"4,719",4
+Mullins ,SC,"4,716",4
+Madisonville ,TN,"4,714",4
+Fletcher,NC,"4,714",4
+Osceola ,IA,"4,714",4
+Medical Lake ,WA,"4,710",4
+La Grange ,TX,"4,709",4
+Omak ,WA,"4,706",4
+Union Springs ,AL,"4,702",4
+Wellington,OH,"4,699",4
+Selmer,TN,"4,697",4
+Cherokee ,IA,"4,697",4
+Presidio ,TX,"4,695",4
+Ranson corporation,WV,"4,692",4
+Spirit Lake ,IA,"4,692",4
+Coleman ,TX,"4,691",4
+East Palestine ,OH,"4,690",4
+North Oaks ,MN,"4,689",4
+Penns Grove,NJ,"4,688",4
+Lindale,TX,"4,687",4
+Boiling Spring Lakes ,NC,"4,686",4
+Oak Park Heights ,MN,"4,680",4
+Smiths Station ,AL,"4,679",4
+Mountain Grove ,MO,"4,679",4
+Isle of Palms ,SC,"4,678",4
+Edinburgh,IN,"4,677",4
+Farmington ,AR,"4,677",4
+Belton ,SC,"4,670",4
+Pittsburg ,TX,"4,667",4
+Walnut Ridge ,AR,"4,664",4
+Dacula ,GA,"4,662",4
+Union Grove,WI,"4,662",4
+Church Point,LA,"4,661",4
+Edwardsville,PA,"4,658",4
+Oxford,PA,"4,658",4
+Slinger,WI,"4,657",4
+Frankenmuth ,MI,"4,652",4
+Bulverde ,TX,"4,651",4
+New Boston ,TX,"4,650",4
+Greenwood ,MO,"4,649",4
+Peculiar ,MO,"4,649",4
+Bremen,IN,"4,646",4
+Manheim,PA,"4,646",4
+Dayton ,MN,"4,643",4
+Windsor Heights ,IA,"4,643",4
+Newton Falls ,OH,"4,641",4
+Mocksville,NC,"4,641",4
+North Bend ,WA,"4,635",4
+Selma ,TX,"4,632",4
+High Springs ,FL,"4,629",4
+Orange,VA,"4,629",4
+St. Bernard ,OH,"4,626",4
+Dumas ,AR,"4,622",4
+Quitman ,GA,"4,621",4
+Winfield ,AL,"4,618",4
+Farmville,NC,"4,615",4
+Edcouch ,TX,"4,613",4
+West Milton,OH,"4,613",4
+Granite Falls,NC,"4,610",4
+Shelbyville ,IL,"4,605",4
+Pea Ridge ,AR,"4,604",4
+Austin,IN,"4,603",4
+Atlantic Highlands,NJ,"4,602",4
+Winchester ,IN,"4,601",4
+Dawson ,GA,"4,600",4
+Lonoke ,AR,"4,600",4
+Mount Vernon ,MO,"4,600",4
+Telford,PA,"4,599",4
+Marlow ,OK,"4,599",4
+Flower Hill,NY,"4,595",4
+Ottawa Hills,OH,"4,594",4
+Chisholm ,MN,"4,594",4
+Cobleskill,NY,"4,593",4
+Tulia ,TX,"4,589",4
+North Hills,NY,"4,589",4
+Oak Ridge,NC,"4,587",4
+Glendive ,MT,"4,585",4
+Ashland City,TN,"4,582",4
+Scottsville ,KY,"4,581",4
+Rock Hill ,MO,"4,580",4
+Manlius,NY,"4,579",4
+Hearne ,TX,"4,578",4
+Hunters Creek Village ,TX,"4,577",4
+Westlake ,LA,"4,577",4
+New Lexington,OH,"4,576",4
+Fountain Hill,PA,"4,575",4
+Sheridan ,AR,"4,572",4
+Higginsville ,MO,"4,571",4
+Mitchell ,IN,"4,567",4
+Port Wentworth ,GA,"4,560",4
+Sonora ,CA,"4,559",4
+Montoursville,PA,"4,558",4
+Bellaire,OH,"4,557",4
+Valdese,NC,"4,557",4
+South Hill,VA,"4,556",4
+Madison ,IL,"4,554",4
+Baxley ,GA,"4,552",4
+Lexington ,MO,"4,551",4
+Jessup,PA,"4,550",4
+Byron ,MN,"4,550",4
+Charleroi,PA,"4,549",4
+Glassport,PA,"4,548",4
+Walkertown,NC,"4,547",4
+Elberton ,GA,"4,546",4
+Daleville ,AL,"4,546",4
+Devine ,TX,"4,545",4
+Rockmart ,GA,"4,544",4
+Wapato ,WA,"4,543",4
+Algonac ,MI,"4,540",4
+Nashville,NC,"4,538",4
+Crystal City ,MO,"4,538",4
+Scott City ,MO,"4,538",4
+Parker ,FL,"4,537",4
+Pinetop-Lakeside,AZ,"4,536",4
+Rocky Mount,VA,"4,535",4
+Tarentum,PA,"4,534",4
+Sebring,OH,"4,534",4
+Midway,NC,"4,534",4
+Hephzibah ,GA,"4,533",4
+Portola Valley,CA,"4,532",4
+Ligonier ,IN,"4,530",4
+Winona ,MS,"4,524",4
+Willow Park ,TX,"4,523",4
+Travelers Rest ,SC,"4,523",4
+Paxton ,IL,"4,521",4
+Surfside,FL,"4,520",4
+Sunnyvale,TX,"4,518",4
+Trenton ,TN,"4,518",4
+Grambling ,LA,"4,516",4
+Lyons ,GA,"4,515",4
+Tuscola ,IL,"4,514",4
+Philomath ,OR,"4,512",4
+Wauchula ,FL,"4,511",4
+Lake Alfred ,FL,"4,508",4
+South Bay ,FL,"4,503",4
+Jackson ,GA,"4,496",4
+Jacksboro ,TX,"4,493",4
+Prairie View ,TX,"4,492",4
+Temple ,GA,"4,490",4
+Eagar,AZ,"4,488",4
+Osawatomie ,KS,"4,488",4
+La Verkin ,UT,"4,487",4
+Winfield,IN,"4,484",4
+Dansville,NY,"4,484",4
+East Troy,WI,"4,483",4
+Sullivan ,IN,"4,482",4
+Freeburg,IL,"4,481",4
+Malden ,MO,"4,481",4
+Breckenridge Hills ,MO,"4,479",4
+Thomasville ,AL,"4,478",4
+Lebanon ,IL,"4,477",4
+Sellersville,PA,"4,476",4
+Lamar ,MO,"4,474",4
+St. Clair ,MO,"4,472",4
+Barling ,AR,"4,471",4
+Belleview ,FL,"4,467",4
+Lake Hallie,WI,"4,467",4
+Westville,NJ,"4,467",4
+Bunkie ,LA,"4,465",4
+Whiteland,IN,"4,464",4
+Whiteville,TN,"4,464",4
+Pocola,OK,"4,464",4
+Buckley ,WA,"4,462",4
+Edwardsville ,KS,"4,462",4
+South Barrington,IL,"4,461",4
+Smithville ,TX,"4,458",4
+West Peoria ,IL,"4,456",4
+Negaunee ,MI,"4,456",4
+Pittsfield ,IL,"4,453",4
+Greenbrier ,AR,"4,452",4
+Cicero,IN,"4,451",4
+Point Pleasant ,WV,"4,451",4
+Hokes Bluff ,AL,"4,450",4
+Danville,PA,"4,450",4
+Warrenton ,OR,"4,448",4
+Del Mar ,CA,"4,447",4
+Geneva ,AL,"4,445",4
+Mount Pleasant ,TN,"4,443",4
+Clay Center ,KS,"4,442",4
+Ashdown ,AR,"4,440",4
+Archbold,OH,"4,438",4
+Waverly City ,OH,"4,437",4
+Dardanelle ,AR,"4,435",4
+Viroqua ,WI,"4,435",4
+Sullivan City ,TX,"4,435",4
+Larksville,PA,"4,435",4
+San Diego ,TX,"4,433",4
+Fruitland ,MD,"4,431",4
+Tillamook ,OR,"4,430",4
+Ogallala ,NE,"4,429",4
+DeWitt ,MI,"4,428",4
+Adel ,IA,"4,428",4
+Lafayette ,TN,"4,426",4
+Luverne ,MN,"4,425",4
+Hummelstown,PA,"4,424",4
+Hurstbourne ,KY,"4,423",4
+Monongahela ,PA,"4,422",4
+Sykesville,MD,"4,419",4
+Chariton ,IA,"4,419",4
+Edgefield,SC,"4,418",4
+Ste. Genevieve ,MO,"4,418",4
+Bellville ,TX,"4,415",4
+Morgan's Point Resort ,TX,"4,414",4
+Mauston ,WI,"4,413",4
+Nibley ,UT,"4,410",4
+Pilot Point ,TX,"4,409",4
+Scottdale,PA,"4,409",4
+Garwood,NJ,"4,408",4
+Slatington,PA,"4,404",4
+Ottawa,OH,"4,403",4
+Lancaster ,KY,"4,403",4
+Phoenix ,OR,"4,402",4
+Hollywood,SC,"4,398",4
+Marianna ,AR,"4,396",4
+Coldwater,OH,"4,396",4
+Eldorado ,IL,"4,392",4
+Oakwood ,GA,"4,392",4
+Mount Ephraim,NJ,"4,392",4
+Ellisville ,MS,"4,392",4
+Smithville ,TN,"4,389",4
+Mount Olive,NC,"4,389",4
+Goodland ,KS,"4,388",4
+Hazlehurst ,MS,"4,387",4
+Soldotna ,AK,"4,386",4
+Sullivan ,IL,"4,383",4
+Bristow ,OK,"4,383",4
+Lawrenceville ,IL,"4,382",4
+Berne ,IN,"4,381",4
+Mount Pleasant,PA,"4,380",4
+Egg Harbor City ,NJ,"4,379",4
+McRae ,GA,"4,378",4
+Marine City ,MI,"4,377",4
+Mahanoy City,PA,"4,375",4
+Strasburg,VA,"4,373",4
+Madisonville ,TX,"4,372",4
+Beaver,PA,"4,371",4
+Fort Gibson,OK,"4,368",4
+Benton ,KY,"4,367",4
+Greendale ,IN,"4,364",4
+Auburn ,IL,"4,362",4
+Vine Grove ,KY,"4,362",4
+Breese ,IL,"4,357",4
+Kittanning,PA,"4,356",4
+Royersford,PA,"4,356",4
+Barrington Hills,IL,"4,354",4
+Buchanan ,MI,"4,354",4
+Prescott ,AR,"4,353",4
+De Motte,IN,"4,352",4
+Bridgeport,PA,"4,350",4
+East Petersburg,PA,"4,347",4
+McLoud,OK,"4,347",4
+Rogersville,TN,"4,346",4
+Metter ,GA,"4,345",4
+Anthony,TX,"4,344",4
+Angier,NC,"4,344",4
+Kingfisher ,OK,"4,343",4
+Vandalia ,MO,"4,342",4
+Madeira Beach ,FL,"4,339",4
+Sayre ,OK,"4,336",4
+Duryea,PA,"4,335",4
+Green Tree,PA,"4,335",4
+Magee ,MS,"4,332",4
+Magnolia,NJ,"4,328",4
+Byron ,GA,"4,324",4
+Southampton,NY,"4,323",4
+Brookfield ,MO,"4,321",4
+Jackson ,CA,"4,320",4
+Oconto ,WI,"4,320",4
+Amite City,LA,"4,318",4
+Jourdanton ,TX,"4,315",4
+Kaser,NY,"4,315",4
+Sparta ,IL,"4,314",4
+Ridgefield ,WA,"4,314",4
+Bluffton,SC,"4,312",4
+Wamego ,KS,"4,312",4
+Northwoods ,MO,"4,311",4
+Danielson,CT,"4,310",4
+Hudson ,TX,"4,310",4
+Krum ,TX,"4,309",4
+Canastota,NY,"4,308",4
+Baldwin City ,KS,"4,308",4
+Butler ,MO,"4,306",4
+Tonganoxie ,KS,"4,305",4
+Morrison ,IL,"4,303",4
+Chelsea ,AL,"4,303",4
+Blanchester,OH,"4,303",4
+Waverly,NY,"4,303",4
+Wolverine Lake,MI,"4,303",4
+Jersey Shore,PA,"4,302",4
+Kenneth City,FL,"4,300",4
+Jenkintown,PA,"4,299",4
+Hartwell ,GA,"4,298",4
+Newport,NC,"4,298",4
